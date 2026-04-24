@@ -649,6 +649,360 @@ Europe,LEC,2026,Spring + Versus + Versus PO,Team Heretics,Way,Support,16,0.0,0.0
 Europe,LEC,2026,Spring + Versus + Versus PO,Team Heretics,Stend,Support,16,-8.6383,-0.54,-0.5504,-0.3459,,,,-1.1277,,-0.2356,,-1.366,,,,,,0.2756,,,0.2712,-0.3092
 Europe,LEC,2026,Spring + Versus + Versus PO,Karmine Corp,Busio,Support,38,-8.7999,-0.232,-0.5543,-0.3459,,,,-0.2188,,-0.1881,,0.354,,,,,,-1.0369,,,-1.5676,-0.8522
 Europe,LEC,2026,Spring + Versus + Versus PO,G2 Esports,Labrov,Support,35,-19.1788,-0.548,-0.8,-0.3459,,,,-0.7279,,0.745,,-0.2193,,,,,,-1.3945,,,-1.002,-1.7938
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Team Liquid,Summit,Top,58,85.8468,1.48,1.3115,-0.4618,,,,,,,2.0039,0.2186,,1.6857,1.8255,-0.9855,1.6701,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Cloud9,Fudge,Top,59,46.4659,0.788,0.498,-0.4618,,,,,,,0.2095,0.7742,,0.2877,0.7037,0.552,0.5521,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,FlyQuest,Impact,Top,48,40.5006,0.844,0.3748,-0.4618,,,,,,,1.0152,-0.3681,,0.9732,-0.0539,0.552,-0.1153,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Golden Guardians,Licorice,Top,66,33.3796,0.506,0.2277,-0.4618,,,,,,,0.5681,-1.965,,1.2371,0.7267,-0.2219,0.3533,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Immortals,Revenge,Top,48,32.999,0.687,0.2198,-0.4618,,,,,,,-0.087,1.9416,,0.4829,-0.1708,-1.1591,0.3648,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Dignitas,Armut,Top,18,31.7224,1.762,0.1934,-0.4618,,,,,,,0.9072,0.7432,,0.3574,-0.5819,-0.2006,-0.329,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Dignitas,Rich,Top,27,24.7,0.915,0.0484,-0.4618,,,,,,,-1.2905,0.9025,,-0.2981,0.6981,-0.5859,1.6442,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Evil Geniuses,Ssumday,Top,48,8.9275,0.186,-0.2774,-0.4618,,,,,,,-0.1984,-0.0679,,-0.4347,-0.6013,1.8253,-1.8464,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,TSM,Hauntzer,Top,30,3.5287,0.118,-0.3889,-0.4618,,,,,,,-0.3254,-0.5537,,-1.1262,-0.4759,1.0961,-0.4625,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,NRG,Dhokla,Top,64,-10.5861,-0.165,-0.6805,-0.4618,,,,,,,-0.9947,-0.6767,,-0.5765,-0.2167,-1.4732,-0.4239,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,100 Thieves,Tenacity,Top,28,-14.1164,-0.504,-0.7534,-0.4618,,,,,,,-1.3053,-0.463,,-1.2299,-0.8271,0.9166,-0.5807,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Immortals,Solo,Top,34,-15.0738,-0.443,-0.7732,-0.4618,,,,,,,-0.5026,-0.4857,,-1.3587,-1.0266,-0.3159,-0.8267,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Cloud9,Blaber,Jungle,59,62.123,1.053,0.999,-0.2843,,,,,2.0253,1.439,,-0.6773,,,,-1.328,,0.0981,1.6134,2.0891,0.0532,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Golden Guardians,River,Jungle,66,38.3367,0.581,0.5076,-0.2843,,,,,1.0143,1.6553,,-0.2028,,,,-0.2757,,0.0774,0.9046,0.1456,0.1434,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Team Liquid,Pyosik,Jungle,58,35.9247,0.619,0.4578,-0.2843,,,,,1.0608,0.8245,,-0.2626,,,,0.3352,,0.121,0.2035,0.3083,1.4308,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,FlyQuest,Spica,Jungle,48,35.3369,0.736,0.4456,-0.2843,,,,,0.5876,0.9006,,-0.3993,,,,0.9885,,0.4621,0.5483,1.0214,-0.7261,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Evil Geniuses,Armao,Jungle,17,21.7754,1.281,0.1655,-0.2843,,,,,-0.0484,-0.3321,,2.7251,,,,0.6144,,-2.1679,-0.1195,-0.5141,-1.3671,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,NRG,Contractz,Jungle,64,12.9397,0.202,-0.017,-0.2843,,,,,0.0384,-0.2963,,0.0393,,,,-0.4423,,0.1128,0.5805,-0.3101,-0.5205,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,TSM,Bugi,Jungle,46,3.0608,0.067,-0.2211,-0.2843,,,,,-0.2748,-0.6439,,1.006,,,,-1.077,,-0.1731,0.2957,-1.6505,-0.1599,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,100 Thieves,Closer,Jungle,51,2.1861,0.043,-0.2391,-0.2843,,,,,-0.8555,-0.2396,,-0.0442,,,,0.092,,0.0483,-0.7823,0.4681,-0.0222,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Evil Geniuses,Inspired,Jungle,25,0.8739,0.035,-0.2663,-0.2843,,,,,-0.5334,-0.7064,,-0.7406,,,,1.9477,,0.3946,-0.1551,0.0711,-1.5579,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Dignitas,Santorin,Jungle,45,-2.6218,-0.058,-0.3385,-0.2843,,,,,-1.2722,0.0313,,-0.1787,,,,0.7882,,1.0634,-1.0502,0.3124,0.3699,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Evil Geniuses,Sheiden,Jungle,13,-20.3638,-1.566,-0.705,-0.2843,,,,,-0.5822,-1.1382,,-0.1583,,,,-0.2897,,-1.5553,-1.2464,-1.2752,1.8474,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Immortals,Kenvi,Jungle,36,-23.1683,-0.644,-0.7629,-0.2843,,,,,-1.1598,-1.4942,,-1.1066,,,,-1.3531,,1.5186,-0.7925,-0.6661,0.509,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,100 Thieves,Quid,Middle,20,30.856,1.543,0.6036,-0.0338,1.2127,,0.3137,-0.6714,0.7198,0.17,0.6566,1.1009,0.6858,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Evil Geniuses,Jojopyun,Middle,54,21.6146,0.4,0.4127,-0.0338,0.1135,,0.8549,-1.7391,0.7902,1.727,0.3001,0.504,0.3478,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,TSM,Maple,Middle,18,18.166,1.009,0.3415,-0.0338,-0.2204,,0.9096,0.2609,0.4244,0.4286,0.1007,0.59,0.6323,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,NRG,Palafox,Middle,64,15.367,0.24,0.2837,-0.0338,-0.4955,,0.5754,0.9371,0.8482,0.3426,0.0968,0.3894,0.2722,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Golden Guardians,Gori,Middle,64,13.9634,0.218,0.2547,-0.0338,-0.1039,,0.3002,-0.0879,0.3336,1.5399,0.2451,-0.1881,-0.0643,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Dignitas,Jensen,Middle,45,13.6192,0.303,0.2476,-0.0338,-0.7233,,0.3219,0.5723,0.7291,0.1631,0.9604,0.3007,0.6429,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,TSM,Insanity,Middle,25,13.5577,0.542,0.2463,-0.0338,0.2324,,0.392,-0.4355,0.7488,-0.0864,0.0051,0.1883,1.1351,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,100 Thieves,Bjergsen,Middle,28,8.5852,0.307,0.1436,-0.0338,-0.3471,,-0.2192,1.32,-0.1876,0.0149,0.5296,0.8841,-0.6613,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,FlyQuest,VicLa,Middle,47,3.6566,0.078,0.0418,-0.0338,0.1896,,0.1614,-1.4873,0.311,-0.0104,0.4954,0.1689,0.3202,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Immortals,Bolulu,Middle,25,0.3647,0.015,-0.0262,-0.0338,0.5459,,0.3525,1.2696,-0.2729,-2.0221,-0.0473,0.4262,-0.2621,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Team Liquid,Haeri,Middle,28,-0.1216,-0.004,-0.0363,-0.0338,-0.4728,,0.5081,-0.6196,0.0064,0.4865,0.7109,-0.5092,0.0112,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Cloud9,EMENES,Middle,50,-0.3352,-0.007,-0.0407,-0.0338,-0.2654,,0.2343,-0.6034,0.7162,-0.2078,-0.0079,0.0964,-0.0482,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Team Liquid,APA,Middle,30,-8.1269,-0.271,-0.2016,-0.0338,-1.0281,,0.2464,-0.3175,0.4623,0.1384,0.0258,-0.0717,-0.4773,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,NRG,FBI,ADC,63,33.9598,0.539,0.7329,0.0314,2.2226,-0.3326,1.4791,-0.8375,0.3404,0.8333,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Cloud9,Berserker,ADC,59,25.7001,0.436,0.5622,0.0314,-0.379,0.751,0.2879,1.4836,0.9143,0.8195,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Evil Geniuses,UNF0RGIVEN,ADC,30,23.9604,0.799,0.5263,0.0314,-0.8851,1.5911,0.0117,1.9177,0.9871,0.0191,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Team Liquid,Yeon,ADC,58,21.6998,0.374,0.4796,0.0314,1.1455,-0.5282,0.7717,0.6854,-0.4332,0.3373,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,100 Thieves,Doublelift,ADC,51,17.8208,0.349,0.3995,0.0314,0.5702,1.2729,0.3678,-0.8517,0.7807,0.8977,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Immortals,Tactical,ADC,36,5.4222,0.151,0.1434,0.0314,0.4415,-0.1545,0.7091,-0.3072,0.0317,-0.3408,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Golden Guardians,Stixxay,ADC,66,4.0203,0.061,0.1144,0.0314,-0.3617,0.2583,0.1524,0.1605,0.4419,0.4647,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,FlyQuest,Prince,ADC,48,3.981,0.083,0.1136,0.0314,-0.3139,0.6408,-0.1471,0.2191,0.557,0.2166,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Dignitas,Tomo,ADC,36,3.8867,0.108,0.1117,0.0314,0.6539,-0.0585,0.6993,-0.6212,0.0978,-0.6956,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,TSM,WildTurtle,ADC,35,-11.6601,-0.333,-0.2095,0.0314,-0.3143,-0.0037,-0.2416,-0.7936,0.1231,0.6255,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,NRG,Luger,ADC,26,-16.9425,-0.652,-0.3186,0.0314,-1.3856,0.1333,-0.8591,0.8371,-0.2899,0.2801,,,,,,,,,,,,
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,NRG,Ignar,Support,50,61.3147,1.226,1.0727,-0.1939,,,,0.9593,,0.5087,,0.3678,,,,,,-0.1183,,,2.427,2.4423
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Golden Guardians,huhi,Support,66,33.8933,0.514,0.5063,-0.1939,,,,0.1212,,1.439,,0.2354,,,,,,0.4125,,,0.2055,0.4396
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Immortals,Fleshy,Support,18,23.824,1.324,0.2983,-0.1939,,,,0.6486,,1.0558,,0.3085,,,,,,1.1151,,,0.5196,-1.1628
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Team Liquid,CoreJJ,Support,58,23.5567,0.406,0.2928,-0.1939,,,,0.5132,,-0.0055,,-0.0134,,,,,,0.6525,,,-0.328,0.2165
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Cloud9,Zven,Support,59,18.7913,0.318,0.1943,-0.1939,,,,-0.0797,,0.8283,,0.6414,,,,,,0.8283,,,-1.8256,-0.5258
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,TSM,Chime,Support,46,14.2442,0.31,0.1004,-0.1939,,,,1.3753,,0.1594,,0.3507,,,,,,-0.2363,,,-0.5685,-0.2106
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Evil Geniuses,Vulcan,Support,43,10.8835,0.253,0.031,-0.1939,,,,0.2078,,1.0584,,0.7262,,,,,,-1.2356,,,0.9404,-0.4487
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,FlyQuest,Winsome,Support,14,8.018,0.573,-0.0282,-0.1939,,,,0.0347,,-0.6182,,0.0941,,,,,,1.2037,,,0.211,-1.1593
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Evil Geniuses,Eyla,Support,46,5.5125,0.12,-0.08,-0.1939,,,,0.0122,,-0.9576,,0.9521,,,,,,0.3373,,,-0.23,-0.5584
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,NRG,Poome,Support,41,0.0,0.0,-0.1939,-0.1939,,,,-1.2072,,-0.6327,,-0.042,,,,,,0.5632,,,-0.2762,-0.3296
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,100 Thieves,Busio,Support,51,-7.7284,-0.152,-0.3535,-0.1939,,,,-0.7248,,-0.9836,,0.0218,,,,,,-0.9043,,,0.0269,0.6114
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Dignitas,Diamond,Support,12,-14.674,-1.223,-0.497,-0.1939,,,,-2.4906,,-0.6112,,-0.8084,,,,,,-0.6566,,,0.3065,1.3927
+Americas,LCS,2023,Spring + Spring PO + Summer + Championship,Immortals,Treatz,Support,18,-15.4588,-0.859,-0.5132,-0.1939,,,,-0.4109,,0.7784,,0.3243,,,,,,-2.3638,,,-1.3711,0.191
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Team Liquid,Impact,Top,62,80.37,1.296,1.0855,-0.4264,,,,,,,1.7171,1.1261,,1.4232,0.9658,0.5031,-0.1789,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,FlyQuest,Bwipo,Top,64,39.2429,0.613,0.3119,-0.4264,,,,,,,0.7759,0.9899,,0.6508,0.1613,-1.6034,-0.082,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Cloud9,Thanatos,Top,24,30.4771,1.27,0.147,-0.4264,,,,,,,0.5166,-0.7336,,1.0951,0.0071,0.7448,-1.1266,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Cloud9,Fudge,Top,23,28.7498,1.25,0.1145,-0.4264,,,,,,,-0.5667,-0.8188,,0.9296,0.3444,1.7675,-0.2329,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Immortals,Castle,Top,29,28.1098,0.969,0.1024,-0.4264,,,,,,,0.5533,1.1366,,0.0377,-0.5644,-1.2699,0.5606,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Shopify Rebellion,FakeGod,Top,30,0.1836,0.006,-0.4229,-0.4264,,,,,,,-0.1596,-1.1085,,-0.65,-0.6935,0.646,-0.1046,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Dignitas,Licorice,Top,30,-0.0612,-0.002,-0.4275,-0.4264,,,,,,,0.118,-0.5317,,-1.6,-0.4831,0.2731,-0.438,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,NRG,Dhokla,Top,44,-16.8841,-0.384,-0.744,-0.4264,,,,,,,-1.7134,-0.3314,,-1.0804,-0.6412,-0.2811,0.8457,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,100 Thieves,Sniper,Top,60,-17.7419,-0.296,-0.7601,-0.4264,,,,,,,-1.257,-1.0031,,-0.4789,-0.1624,-0.4589,-1.3708,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Cloud9,Blaber,Jungle,47,58.873,1.253,0.796,-0.3115,,,,,0.4445,1.9818,,0.7852,,,,-1.2776,,0.3087,0.5516,1.7375,-0.1432,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,FlyQuest,Inspired,Jungle,64,41.515,0.649,0.4695,-0.3115,,,,,1.0153,0.5881,,0.285,,,,1.3936,,-0.5949,0.3072,0.8706,-0.7721,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Shopify Rebellion,Bugi,Jungle,24,38.3765,1.599,0.4104,-0.3115,,,,,1.0994,1.0125,,0.8121,,,,-0.2635,,0.2998,0.7569,-1.2589,-0.0097,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Dignitas,Spica,Jungle,30,37.9689,1.266,0.4028,-0.3115,,,,,0.4738,-1.1566,,0.5611,,,,1.5589,,0.9694,0.3364,0.5165,0.3844,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,100 Thieves,River,Jungle,60,31.4638,0.524,0.2804,-0.3115,,,,,0.7202,0.3881,,-0.1736,,,,-1.0685,,0.2722,0.5506,0.411,0.5243,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,NRG,Contractz,Jungle,44,18.8323,0.428,0.0428,-0.3115,,,,,0.1875,-0.2804,,0.6718,,,,0.2798,,-0.3847,0.1631,-0.4436,0.023,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Team Liquid,UmTi,Jungle,62,0.0,0.0,-0.3115,-0.3115,,,,,0.1319,-1.0627,,-0.4804,,,,-0.1971,,0.0307,-0.2906,-1.4747,1.1376,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Immortals,Armao,Jungle,29,-34.0544,-1.174,-0.9521,-0.3115,,,,,-1.2516,-0.4353,,-0.7729,,,,0.7404,,-2.3814,-0.8921,-0.2576,-1.445,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,FlyQuest,Quad,Middle,38,79.2195,2.085,0.9794,-0.5108,1.756,,0.9865,0.7487,0.8376,1.1606,0.4357,0.3411,1.0211,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,100 Thieves,Quid,Middle,60,52.724,0.879,0.481,-0.5108,-0.0372,,0.8678,1.0045,1.1201,-0.0167,-0.5449,0.7647,1.3148,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Immortals,Mask,Middle,29,45.0174,1.552,0.336,-0.5108,0.9382,,0.5692,0.0714,-0.095,-0.4593,0.9632,0.7952,-0.5289,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Cloud9,Jojopyun,Middle,47,37.3986,0.796,0.1927,-0.5108,0.5612,,-0.2703,-2.1279,-0.5257,1.9708,1.8688,-0.022,-1.0633,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Dignitas,Jensen,Middle,56,37.183,0.664,0.1886,-0.5108,-0.6599,,-0.1257,0.8236,0.4815,-0.4639,0.1563,0.9622,1.123,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Team Liquid,APA,Middle,62,34.4152,0.555,0.1366,-0.5108,0.4456,,1.3703,-0.8805,1.3794,-0.4612,-0.5497,-0.4517,0.5243,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,NRG,Palafox,Middle,44,-8.1746,-0.186,-0.6646,-0.5108,-0.7881,,-0.8688,-0.211,-0.7056,-0.5065,-0.7612,-0.3205,-1.2828,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Shopify Rebellion,Insanity,Middle,30,-33.3865,-1.113,-1.1389,-0.5108,-1.038,,-1.1412,0.6292,-1.1452,-1.3618,-1.476,-2.3177,-0.6606,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,100 Thieves,Tomo,ADC,41,55.7939,1.361,0.7314,-0.3182,1.2351,0.9629,0.784,0.2132,0.8765,0.0236,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Team Liquid,Yeon,ADC,62,52.9044,0.853,0.677,-0.3182,0.1385,0.6367,1.7327,-0.2339,1.5663,0.5065,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Dignitas,Zven,ADC,30,47.6719,1.589,0.5786,-0.3182,0.6298,0.9405,1.0461,-0.106,0.8684,-0.0517,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,NRG,FBI,ADC,44,31.3013,0.711,0.2706,-0.3182,1.5763,-1.1527,0.6496,0.6239,-1.1982,-0.6227,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Cloud9,Berserker,ADC,47,15.3378,0.326,-0.0297,-0.3182,-0.5065,-0.1219,-0.7601,1.14,0.4688,-0.013,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Shopify Rebellion,Bvoy,ADC,28,3.2918,0.118,-0.2563,-0.3182,-1.2758,0.4194,-0.7944,0.4195,0.1165,0.5105,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Immortals,Tactical,ADC,29,0.0,0.0,-0.3182,-0.3182,-1.0074,0.8724,-1.2658,0.7227,-0.4081,-0.4132,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,FlyQuest,Massu,ADC,64,-3.1956,-0.05,-0.3783,-0.3182,-0.2443,-0.9109,-0.9472,0.3978,-0.0498,-0.4818,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,100 Thieves,Meech,ADC,37,-18.1064,-0.489,-0.6588,-0.3182,0.5834,-1.8996,-0.0496,-0.7834,-1.7019,-1.671,,,,,,,,,,,,
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Immortals,Olleh,Support,29,23.9674,0.826,0.3821,-0.0688,,,,-0.0481,,-1.6985,,-1.1682,,,,,,0.9334,,,1.9852,1.8357
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,NRG,huhi,Support,44,22.2332,0.505,0.3495,-0.0688,,,,-0.6317,,0.9837,,0.4251,,,,,,0.1955,,,0.543,0.578
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Dignitas,Isles,Support,48,15.1646,0.316,0.2165,-0.0688,,,,-0.5493,,-0.527,,1.523,,,,,,0.3753,,,-0.5506,0.3654
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Team Liquid,CoreJJ,Support,62,14.343,0.231,0.201,-0.0688,,,,1.4912,,0.0712,,-0.649,,,,,,1.1298,,,-0.9609,-0.4046
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,100 Thieves,Eyla,Support,60,2.9419,0.049,-0.0134,-0.0688,,,,0.5375,,0.3201,,0.1337,,,,,,0.1102,,,0.4875,-0.7907
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,FlyQuest,Busio,Support,64,0.4172,0.007,-0.0609,-0.0688,,,,-0.0473,,0.3203,,-0.6406,,,,,,0.2089,,,-0.6482,0.4837
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Cloud9,Vulcan,Support,47,-1.2515,-0.027,-0.0923,-0.0688,,,,0.9465,,1.3874,,1.2404,,,,,,-1.8352,,,-0.9348,-1.0025
+Americas,LCS,2024,Spring + Spring PO + Summer + Championship,Shopify Rebellion,Zeyzal,Support,30,-48.5665,-1.619,-0.9824,-0.0688,,,,-1.6989,,-0.8572,,-0.8644,,,,,,-1.1178,,,0.0788,-1.0651
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FlyQuest,Bwipo,Top,52,71.3931,1.373,0.861,-0.2375,,,,,,,1.1824,0.7255,,1.2408,1.565,-1.0603,-0.1473,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Disguised,Castle,Top,37,48.9054,1.322,0.515,-0.2375,,,,,,,0.9484,0.2098,,0.9732,0.0688,0.4883,0.3442,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Cloud9,Thanatos,Top,59,35.6123,0.604,0.3105,-0.2375,,,,,,,0.1622,0.4272,,0.7074,0.2176,0.9093,-0.4562,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Team Liquid,Impact,Top,47,28.6201,0.609,0.2029,-0.2375,,,,,,,0.4855,0.3875,,0.0529,0.1602,-0.0134,-0.2328,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Shopify Rebellion,Fudge,Top,58,20.274,0.35,0.0744,-0.2375,,,,,,,0.306,0.6467,,0.2429,-0.5447,0.6942,-0.6876,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LYON,Licorice,Top,22,0.5467,0.025,-0.2291,-0.2375,,,,,,,-0.2999,0.4241,,-0.2967,-0.2406,-1.1287,-0.0022,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,100 Thieves,Dhokla,Top,22,-0.1822,-0.008,-0.2403,-0.2375,,,,,,,-1.1924,0.5445,,-0.2349,-0.0205,0.5097,-0.3451,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Dignitas,Srtty,Top,37,-15.1305,-0.409,-0.4703,-0.2375,,,,,,,-1.4158,-0.0299,,-0.1424,-0.3283,-0.3841,0.2997,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,100 Thieves,Sniper,Top,29,-16.7049,-0.576,-0.4946,-0.2375,,,,,,,-0.9781,-0.2031,,-0.2335,-0.3708,0.5858,-1.5043,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,100 Thieves,River,Jungle,51,61.7449,1.211,0.7659,-0.1842,,,,,0.9023,0.3419,,1.1088,,,,-0.471,,0.5386,1.0422,0.5918,-0.2527,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Cloud9,Blaber,Jungle,59,58.4194,0.99,0.7147,-0.1842,,,,,1.0327,0.5344,,0.5225,,,,-1.0811,,1.0406,0.5501,1.3657,-0.1073,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FlyQuest,Inspired,Jungle,54,28.4411,0.527,0.2534,-0.1842,,,,,1.0711,0.0113,,-1.2326,,,,1.3772,,0.0078,0.6332,0.7524,-0.9103,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Team Liquid,UmTi,Jungle,22,19.8583,0.903,0.1213,-0.1842,,,,,0.4211,1.2335,,-1.1462,,,,-0.6795,,-0.4008,0.8719,0.3649,-0.1442,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LYON,Oddie,Jungle,33,8.0891,0.245,-0.0598,-0.1842,,,,,-0.2517,-0.1189,,0.9893,,,,0.0875,,-1.029,-0.2769,0.0356,-0.2751,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Team Liquid,Yuuji,Jungle,25,6.8819,0.275,-0.0783,-0.1842,,,,,0.0588,1.7285,,-1.6432,,,,0.4786,,0.2412,-0.5783,0.519,-0.2444,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Shopify Rebellion,Contractz,Jungle,58,0.0,0.0,-0.1842,-0.1842,,,,,-0.0993,-1.3307,,0.123,,,,-0.8911,,0.7686,0.4387,-0.7022,-0.1396,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Dignitas,Sheiden,Jungle,37,-15.4975,-0.419,-0.4227,-0.1842,,,,,-0.0762,-0.7082,,-0.0336,,,,-0.1516,,-2.2669,-0.4753,0.0459,0.0392,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Disguised,eXyu,Jungle,37,-17.6097,-0.476,-0.4552,-0.1842,,,,,-0.8104,-1.2765,,0.4229,,,,-0.6212,,0.6359,-0.4746,-0.8158,-0.6929,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,100 Thieves,Quid,Middle,51,57.0722,1.119,0.7937,-0.0845,-0.6173,,1.3759,0.9485,1.5846,0.8662,0.8757,1.6779,0.5709,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LYON,Saint,Middle,33,42.571,1.29,0.5706,-0.0845,0.1127,,0.8465,-1.2523,0.7556,1.1144,1.1746,0.7444,1.1674,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Team Liquid,APA,Middle,47,21.0734,0.448,0.2398,-0.0845,1.5974,,1.2089,-1.6823,-0.2147,0.5059,-0.362,-0.2064,-0.1965,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FlyQuest,Quad,Middle,54,13.98,0.259,0.1306,-0.0845,0.1623,,0.288,0.9158,0.5084,0.4041,0.1741,-0.5797,-0.6413,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Dignitas,Keine,Middle,39,1.1854,0.03,-0.0663,-0.0845,-1.0403,,-1.0095,1.122,-0.3834,-0.307,0.589,1.101,-0.091,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Cloud9,Loki,Middle,59,0.0,0.0,-0.0845,-0.0845,-0.4695,,-0.1845,-0.5331,0.9556,-0.0925,-0.6156,-0.1373,0.8164,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Shopify Rebellion,Palafox,Middle,58,-29.272,-0.505,-0.5349,-0.0845,-0.6367,,-1.2733,0.1651,-1.0733,-0.4232,0.127,-0.2732,-0.9768,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Disguised,Abbedagge,Middle,20,-65.4896,-3.274,-1.0922,-0.0845,-0.7631,,-1.0663,-0.1904,-1.3184,-2.2927,-2.211,-1.5095,1.0934,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Cloud9,Zven,ADC,59,64.1557,1.087,0.6467,-0.3405,1.2889,0.4154,1.172,0.1019,0.7367,-0.6336,,,,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Shopify Rebellion,Bvoy,ADC,58,47.2302,0.814,0.3863,-0.3405,0.6464,-0.4734,0.3789,1.1663,-0.2106,0.1438,,,,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,100 Thieves,FBI,ADC,51,46.6044,0.914,0.3766,-0.3405,0.9228,-1.0432,1.2541,0.271,0.2757,-0.3846,,,,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LYON,Hena,ADC,33,30.9551,0.938,0.1358,-0.3405,-0.0108,-0.0961,-0.5643,1.1818,-0.308,0.7408,,,,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Team Liquid,Yeon,ADC,47,24.8726,0.529,0.0422,-0.3405,-0.7851,-0.2369,0.2779,0.28,0.2405,1.1185,,,,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FlyQuest,Massu,ADC,54,0.0,0.0,-0.3405,-0.3405,-0.9816,0.1705,0.3205,-1.7073,1.3845,-0.1431,,,,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Dignitas,Tomo,ADC,39,-6.4155,-0.164,-0.4392,-0.3405,1.032,-0.1991,-0.6818,-1.0607,-1.1458,-1.6139,,,,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Disguised,ScaryJerry,ADC,20,-63.1011,-3.155,-1.3114,-0.3405,-1.3666,-0.8982,-1.9787,-0.8285,-1.8058,-0.7773,,,,,,,,,,,,
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Disguised,huhi,Support,37,40.9964,1.108,0.5903,-0.0405,,,,-0.4638,,0.9151,,-0.6324,,,,,,0.7863,,,1.202,1.4501
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LYON,Lyonz,Support,33,29.1321,0.883,0.4078,-0.0405,,,,1.0284,,0.7611,,0.8673,,,,,,-0.6218,,,0.9735,-0.0741
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FlyQuest,Busio,Support,54,23.8699,0.442,0.3268,-0.0405,,,,0.3023,,1.1796,,0.0326,,,,,,-0.2071,,,0.1011,0.969
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Team Liquid,CoreJJ,Support,47,14.3775,0.306,0.1807,-0.0405,,,,0.9217,,0.2865,,0.2039,,,,,,0.7583,,,0.1105,-1.062
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Dignitas,Isles,Support,39,8.0834,0.207,0.0839,-0.0405,,,,-1.6045,,-0.6187,,0.9242,,,,,,0.8902,,,-2.192,1.1787
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,100 Thieves,Eyla,Support,51,1.8906,0.037,-0.0114,-0.0405,,,,-0.4966,,0.0702,,-0.1175,,,,,,0.7004,,,-0.5551,-0.1818
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Cloud9,Vulcan,Support,59,-5.6717,-0.096,-0.1278,-0.0405,,,,1.1606,,0.0134,,0.5796,,,,,,-0.974,,,-0.1455,-0.9223
+Americas,LCS,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Shopify Rebellion,Ceos,Support,51,-16.6713,-0.327,-0.297,-0.0405,,,,-1.2174,,-0.4902,,0.4631,,,,,,0.6103,,,0.6548,-1.2401
+Americas,LCS,2026,Lock-In + Spring,Disguised,Castle,Top,24,27.8293,1.16,0.6176,-0.205,,,,,,,0.9646,1.1497,,1.0167,0.1262,-0.792,0.9914,,,,,
+Americas,LCS,2026,Lock-In + Spring,Team Liquid,Morgan,Top,23,21.4926,0.934,0.4303,-0.205,,,,,,,1.3721,-0.7481,,0.4506,0.8053,-0.2171,-0.4773,,,,,
+Americas,LCS,2026,Lock-In + Spring,Cloud9,Thanatos,Top,25,11.9176,0.477,0.1472,-0.205,,,,,,,0.7376,-1.0145,,1.3085,0.1253,0.1481,-1.274,,,,,
+Americas,LCS,2026,Lock-In + Spring,FlyQuest,Gakgos,Top,22,8.672,0.394,0.0513,-0.205,,,,,,,-0.264,0.8508,,-0.3716,-0.3202,0.9804,0.2742,,,,,
+Americas,LCS,2026,Lock-In + Spring,Dignitas,Photon,Top,15,6.206,0.414,-0.0216,-0.205,,,,,,,0.0442,0.132,,0.3965,-0.7965,1.5634,-0.6911,,,,,
+Americas,LCS,2026,Lock-In + Spring,LYON,Dhokla,Top,30,1.4483,0.048,-0.1622,-0.205,,,,,,,-1.2026,-0.0477,,-0.1948,0.7429,-1.7013,1.5922,,,,,
+Americas,LCS,2026,Lock-In + Spring,Sentinels,Impact,Top,29,-4.345,-0.15,-0.3335,-0.205,,,,,,,-1.4427,1.1223,,-1.7046,0.2729,-0.0336,0.4968,,,,,
+Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Fudge,Top,12,-17.729,-1.477,-0.7291,-0.205,,,,,,,-0.2092,-1.4444,,-0.9012,-0.9559,0.052,-0.912,,,,,
+Americas,LCS,2026,Lock-In + Spring,Team Liquid,Josedeodo,Jungle,23,40.2085,1.748,0.8778,-0.3107,,,,,0.55,0.4883,,1.3614,,,,0.846,,0.9992,0.4774,0.6959,1.5773,
+Americas,LCS,2026,Lock-In + Spring,Cloud9,Blaber,Jungle,25,25.6053,1.024,0.4461,-0.3107,,,,,1.0414,0.5367,,-0.0518,,,,0.4466,,0.5628,0.6296,-0.3611,0.5299,
+Americas,LCS,2026,Lock-In + Spring,FlyQuest,Gryffinn,Jungle,22,25.4983,1.159,0.443,-0.3107,,,,,1.2898,-0.3858,,0.496,,,,-1.4779,,0.7339,0.5098,0.3011,0.6594,
+Americas,LCS,2026,Lock-In + Spring,Sentinels,HamBak,Jungle,29,21.1661,0.73,0.3149,-0.3107,,,,,-0.2404,1.2126,,0.7955,,,,-0.5654,,0.0125,-0.3303,1.0953,0.4249,
+Americas,LCS,2026,Lock-In + Spring,LYON,Inspired,Jungle,30,16.1253,0.538,0.1659,-0.3107,,,,,0.5463,0.8183,,-0.6922,,,,1.3379,,-1.3019,-0.1104,1.3259,-0.4054,
+Americas,LCS,2026,Lock-In + Spring,Disguised,KryRa,Jungle,18,0.5208,0.029,-0.2954,-0.3107,,,,,-0.9756,-1.4002,,0.7947,,,,0.8208,,-1.2406,0.404,-0.2786,-1.8973,
+Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Contractz,Jungle,12,-1.5623,-0.13,-0.3569,-0.3107,,,,,-0.7014,0.8114,,-0.286,,,,0.5068,,-0.2145,-1.0228,-0.6127,0.3301,
+Americas,LCS,2026,Lock-In + Spring,Dignitas,eXyu,Jungle,15,-10.0284,-0.669,-0.6072,-0.3107,,,,,-1.7574,-0.5933,,-0.4506,,,,-1.0739,,1.4002,-0.3331,-0.2058,-0.6053,
+Americas,LCS,2026,Lock-In + Spring,Team Liquid,Quid,Middle,23,22.8378,0.993,0.3935,-0.2816,-0.1563,,0.796,-0.1615,0.1804,1.3542,-0.4009,0.7939,0.6115,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Sentinels,DARKWINGS,Middle,29,21.4582,0.74,0.3527,-0.2816,1.7959,,1.3698,1.2642,0.145,-0.2666,-1.9706,0.224,-0.8087,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,FlyQuest,Quad,Middle,22,20.1054,0.914,0.3128,-0.2816,0.9169,,-0.0261,1.8702,-0.5542,-0.969,1.1152,1.0482,-1.2301,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Cloud9,APA,Middle,25,15.0785,0.603,0.1642,-0.2816,0.1627,,0.5812,-0.7517,0.97,-0.6908,-0.6344,0.82,0.9575,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Disguised,Callme,Middle,24,7.8741,0.328,-0.0488,-0.2816,-1.255,,-0.584,-0.7111,0.6216,0.6128,0.8432,0.6218,0.0004,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,LYON,Saint,Middle,30,2.0286,0.068,-0.2216,-0.2816,-1.1166,,-0.7173,-0.6699,0.9712,0.1674,0.1229,-1.0026,1.5632,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Zinie,Middle,12,-6.0859,-0.507,-0.4615,-0.2816,-0.1963,,0.3599,-0.367,-0.26,-1.3794,0.1827,-1.3476,-0.0469,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Dignitas,Palafox,Middle,15,-7.0975,-0.473,-0.4914,-0.2816,-0.1512,,-1.7795,-0.4731,-2.074,1.1714,0.7419,-1.1578,-1.047,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,LYON,Berserker,ADC,30,34.9718,1.166,0.9444,-0.0893,0.5275,1.8436,0.4766,1.2768,1.0842,0.7818,,,,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Cloud9,Zven,ADC,25,24.1913,0.968,0.6258,-0.0893,0.4402,1.0853,0.7864,0.0706,1.5519,0.1764,,,,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Bvoy,ADC,12,20.5312,1.711,0.5176,-0.0893,1.8333,-0.7149,1.2595,0.0327,-1.4144,0.6382,,,,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Dignitas,FBI,ADC,13,5.5199,0.425,0.0738,-0.0893,0.4077,-0.6478,0.6927,-0.2372,-0.0906,-0.2006,,,,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Team Liquid,Yeon,ADC,23,4.9808,0.217,0.0579,-0.0893,0.4953,-0.8439,0.3393,0.279,-0.85,0.259,,,,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Sentinels,Rahel,ADC,29,1.5795,0.054,-0.0426,-0.0893,-0.8233,0.4941,-0.1347,0.1678,0.2342,0.418,,,,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,FlyQuest,Massu,ADC,22,-4.7386,-0.215,-0.2294,-0.0893,-0.5045,0.0463,-0.621,0.1661,-1.039,0.8758,,,,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Disguised,sajed,ADC,24,-10.7251,-0.447,-0.4064,-0.0893,-1.185,-0.0244,-0.8281,0.644,-0.1927,-0.5928,,,,,,,,,,,,
+Americas,LCS,2026,Lock-In + Spring,Sentinels,huhi,Support,29,32.9547,1.136,0.8602,-0.1139,,,,0.1372,,0.7917,,0.6633,,,,,,1.4595,,,0.5151,1.0801
+Americas,LCS,2026,Lock-In + Spring,LYON,Isles,Support,30,18.5575,0.619,0.4346,-0.1139,,,,0.4932,,1.0013,,-0.1633,,,,,,-0.6173,,,0.2242,1.2685
+Americas,LCS,2026,Lock-In + Spring,FlyQuest,Cryogen,Support,22,11.665,0.53,0.2309,-0.1139,,,,-1.352,,0.6334,,1.004,,,,,,1.4233,,,-0.8203,0.136
+Americas,LCS,2026,Lock-In + Spring,Dignitas,Ignar,Support,13,4.7208,0.363,0.0256,-0.1139,,,,-0.5424,,-1.7381,,0.7714,,,,,,-0.2361,,,0.6636,0.6569
+Americas,LCS,2026,Lock-In + Spring,Cloud9,Vulcan,Support,25,1.9764,0.079,-0.0555,-0.1139,,,,1.4523,,0.2425,,0.804,,,,,,-0.5942,,,-0.6675,-1.2483
+Americas,LCS,2026,Lock-In + Spring,Team Liquid,CoreJJ,Support,23,1.205,0.052,-0.0783,-0.1139,,,,-0.7424,,1.0507,,0.0922,,,,,,0.6053,,,-1.1209,-0.9063
+Americas,LCS,2026,Lock-In + Spring,Disguised,Lyonz,Support,24,-3.6151,-0.151,-0.2208,-0.1139,,,,1.5623,,-1.1702,,-1.0894,,,,,,-0.9503,,,1.1305,0.2365
+Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Ceos,Support,12,-15.2218,-1.268,-0.5639,-0.1139,,,,-0.562,,-0.1967,,-0.0611,,,,,,0.2265,,,-1.3018,-1.5034
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,Guigo,Top,45,40.937,0.91,0.5498,-0.1339,,,,,,,-0.1128,0.295,,0.8328,1.2244,-0.8933,1.9209,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,Robo,Top,58,35.933,0.62,0.4662,-0.1339,,,,,,,1.0086,-0.3621,,1.1192,0.9782,-0.7434,-0.6969,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,Wizer,Top,66,34.8897,0.529,0.4488,-0.1339,,,,,,,0.4832,1.4593,,0.8958,0.2502,-0.1267,-0.7514,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,Lonely,Top,36,32.2476,0.896,0.4047,-0.1339,,,,,,,0.0924,0.7637,,0.6341,0.1105,0.5246,0.9184,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Kiari,Top,32,30.9657,0.968,0.3833,-0.1339,,,,,,,1.1097,-0.0434,,0.0294,-0.0914,0.5452,0.7629,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Zzk,Top,47,28.706,0.611,0.3455,-0.1339,,,,,,,1.1545,-0.8258,,1.1848,-0.0402,0.3272,-0.1962,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,HiRit,Top,30,17.4421,0.581,0.1574,-0.1339,,,,,,,0.7604,0.1365,,-0.383,0.063,-0.3416,0.2272,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,Boal,Top,32,7.7441,0.242,-0.0045,-0.1339,,,,,,,0.3796,-1.1939,,-0.1281,-0.0664,1.1691,-0.0146,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,fNb,Top,60,5.2008,0.087,-0.047,-0.1339,,,,,,,-0.7478,-0.1617,,0.7583,-0.0241,0.8896,-0.3248,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Betão,Top,18,-15.6024,-0.867,-0.3944,-0.1339,,,,,,,-1.3967,-0.682,,-1.1312,0.2664,0.596,1.0051,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Tay,Top,44,-18.9548,-0.431,-0.4504,-0.1339,,,,,,,0.0557,-0.1383,,-0.7576,-0.9776,0.9239,-1.7795,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,Hidan,Top,12,-24.2481,-2.021,-0.5388,-0.1339,,,,,,,-2.1164,2.1296,,-1.2206,-0.496,-0.3515,0.1308,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Yampi,Jungle,47,56.2012,1.196,0.8962,-0.0424,,,,,1.05,0.8589,,0.9011,,,,1.5303,,-0.8534,0.8812,2.068,-0.3191,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,Grell,Jungle,37,49.7918,1.346,0.7891,-0.0424,,,,,1.6322,0.6953,,1.637,,,,-0.2785,,-0.7183,1.1819,0.325,-1.1058,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,Croc,Jungle,58,27.9167,0.481,0.4238,-0.0424,,,,,0.5021,0.2923,,0.3862,,,,-0.9582,,-0.2856,0.5197,0.9399,-0.27,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,Aegis,Jungle,57,19.7728,0.347,0.2878,-0.0424,,,,,1.155,-0.0217,,0.3038,,,,0.5109,,-1.2902,0.6318,0.1004,-1.3805,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Disamis,Jungle,44,17.7013,0.402,0.2532,-0.0424,,,,,0.4387,0.6939,,-0.1894,,,,0.3722,,-0.1989,0.3512,0.904,-0.9107,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,Ranger,Jungle,30,15.0518,0.502,0.209,-0.0424,,,,,0.7012,0.4726,,0.071,,,,-0.465,,-0.3254,0.4254,-0.0115,0.0087,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Accez,Jungle,32,8.7033,0.272,0.1029,-0.0424,,,,,0.0418,1.0,,-0.244,,,,-1.84,,0.6879,-0.3285,0.675,1.7101,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Goot,Jungle,47,7.0337,0.15,0.0751,-0.0424,,,,,0.2927,0.3097,,-0.0205,,,,-0.301,,-0.1863,0.4984,-0.4735,0.1619,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,CarioK,Jungle,66,0.6731,0.01,-0.0312,-0.0424,,,,,0.2163,-0.1185,,-0.0072,,,,-0.4495,,-0.1394,0.3069,-0.2872,-0.1792,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,SCARY,Jungle,24,-2.0194,-0.084,-0.0761,-0.0424,,,,,-0.3249,0.4228,,0.0038,,,,0.2265,,0.2547,-0.121,-0.3215,0.4474,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,enel1,Jungle,14,-7.7954,-0.557,-0.1726,-0.0424,,,,,-0.169,-0.4891,,-0.1422,,,,1.4799,,-1.0096,-0.5901,0.5012,-0.4339,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Tutsz,Middle,18,69.6887,3.872,0.7608,-0.4031,-0.2698,,-0.1052,-0.202,1.1697,1.8161,1.1892,1.7814,0.6994,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,Lava,Middle,48,61.373,1.279,0.6219,-0.4031,0.852,,0.8778,-0.6939,1.1942,0.8987,1.844,0.3732,-0.615,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Hauz,Middle,44,49.315,1.121,0.4205,-0.4031,0.8407,,2.1676,-1.0343,0.8707,0.0441,0.6708,-0.2976,0.2293,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,dyNquedo,Middle,66,41.3462,0.626,0.2874,-0.4031,-0.0218,,-0.2909,1.3569,0.3002,-0.3761,0.621,0.4101,0.8797,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Envy,Middle,60,36.0986,0.602,0.1998,-0.4031,0.906,,-0.118,-0.2202,0.4454,1.0199,0.4756,-0.7332,-0.8266,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,tinowns,Middle,58,31.8372,0.549,0.1286,-0.4031,0.4561,,0.3746,1.298,0.787,0.1796,-0.0672,-0.9344,-0.8861,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,NOsFerus,Middle,47,13.4848,0.287,-0.1779,-0.4031,-0.552,,-0.2721,0.3957,-0.7665,-1.1628,-1.5336,1.1857,1.4676,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,Yuri,Middle,18,5.0169,0.279,-0.3193,-0.4031,-0.2981,,0.6507,-0.9775,0.6024,-0.6582,-0.3049,-1.5856,0.7986,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Pilot,Middle,22,0.0446,0.002,-0.4023,-0.4031,-1.5585,,-1.2013,0.9835,-1.5066,-0.4076,-0.7866,0.8881,0.8842,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,Krastyel,Middle,18,-0.1339,-0.007,-0.4053,-0.4031,1.6716,,0.4125,-0.2882,-1.2149,-1.7548,-1.0463,-0.9942,-1.1358,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,Avenger,Middle,40,-2.0938,-0.052,-0.438,-0.4031,-0.3823,,-1.4156,-1.6281,-1.1329,0.733,-0.0855,-0.4458,0.2158,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,Grevthar,Middle,45,-16.3599,-0.364,-0.6763,-0.4031,-1.6439,,-1.08,1.0101,-0.7485,-0.3319,-0.9764,0.3524,-1.7111,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Brance,ADC,44,59.5363,1.353,0.8227,-0.1716,0.6596,0.5198,1.7064,0.0389,0.6772,1.3684,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,Bvoy,ADC,66,56.6621,0.859,0.7747,-0.1716,0.5723,1.3534,0.6759,0.933,0.7933,0.2486,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,Route,ADC,58,51.6106,0.89,0.6903,-0.1716,0.6332,0.4792,0.4454,1.007,0.4113,1.3319,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,Netuno,ADC,48,40.3931,0.842,0.503,-0.1716,-0.2864,0.6253,0.0783,1.0943,0.9612,1.4101,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,NinjaKiwi,ADC,47,26.9446,0.573,0.2784,-0.1716,0.7637,-0.0811,1.1073,-0.6236,0.507,-0.5642,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,TitaN,ADC,57,21.9818,0.386,0.1955,-0.1716,0.8395,0.8973,0.2205,-1.2999,0.928,-0.1044,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Juliera,ADC,32,12.069,0.377,0.0299,-0.1716,-0.1544,0.0859,0.2924,0.6508,-0.0673,-1.374,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,DudsTheBoy,ADC,12,10.3647,0.864,0.0015,-0.1716,-0.3715,0.3825,1.2625,-1.6029,0.932,-0.29,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Trigo,ADC,56,4.119,0.074,-0.1028,-0.1716,-0.8571,0.082,-0.6512,1.3763,-0.0082,-0.5021,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Ayu,ADC,18,-12.357,-0.686,-0.378,-0.1716,-1.0375,0.5983,-0.8691,-0.4132,-0.1183,0.5575,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,RAV3N,ADC,24,-40.2507,-1.677,-0.8438,-0.1716,-1.9555,-0.049,-1.3382,0.3251,-0.3409,-1.2633,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,ST3PZ,ADC,12,-43.2703,-3.606,-0.8943,-0.1716,-1.2734,-1.3435,-1.113,0.4892,-0.9419,-1.5944,,,,,,,,,,,,
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,ProDelta,Support,33,50.7822,1.539,0.6855,-0.1626,,,,-0.941,,1.2061,,0.4838,,,,,,0.4453,,,1.0338,1.0241
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,frosty,Support,31,46.0004,1.484,0.6057,-0.1626,,,,-0.2548,,0.173,,0.4526,,,,,,0.4031,,,1.5476,1.4955
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Ayu,Support,21,34.0385,1.621,0.4059,-0.1626,,,,0.0114,,2.1914,,0.3023,,,,,,1.2581,,,-1.1382,-0.748
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,zay,Support,48,29.1922,0.608,0.325,-0.1626,,,,0.5306,,0.6778,,0.3573,,,,,,-0.1505,,,0.8546,0.3019
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Cavalo,Support,22,20.4121,0.928,0.1783,-0.1626,,,,0.8987,,-0.5557,,0.6877,,,,,,0.5657,,,0.0982,-0.3182
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,JoJo,Support,44,18.8627,0.429,0.1525,-0.1626,,,,-0.0805,,0.9427,,0.6159,,,,,,-0.0815,,,-0.3627,-0.038
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,scuro,Support,12,13.397,1.116,0.0612,-0.1626,,,,1.3278,,-0.5165,,0.4492,,,,,,0.1805,,,1.2304,-1.7694
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,Ceos,Support,58,9.6732,0.167,-0.001,-0.1626,,,,0.3646,,0.8473,,0.1833,,,,,,-0.4783,,,-0.8143,-0.2563
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Nia,Support,47,4.6998,0.1,-0.0841,-0.1626,,,,-1.2166,,-0.8554,,0.2761,,,,,,0.0843,,,0.4703,0.6285
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,Damage,Support,60,1.8477,0.031,-0.1317,-0.1626,,,,-1.0197,,-0.287,,0.063,,,,,,-0.4032,,,0.0626,-0.1282
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,Krastyel,Support,12,1.4768,0.123,-0.1379,-0.1626,,,,0.926,,-1.7744,,-0.1152,,,,,,1.5656,,,0.2457,-1.36
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,RedBert,Support,26,-4.4304,-0.17,-0.2366,-0.1626,,,,-0.8025,,-1.4911,,-0.2825,,,,,,-0.1485,,,0.2393,0.6268
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Wos,Support,13,-7.4841,-0.576,-0.2876,-0.1626,,,,-0.254,,-0.1852,,-0.0297,,,,,,-1.3879,,,0.8929,0.2126
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,scamber,Support,16,-7.7462,-0.484,-0.2919,-0.1626,,,,0.1728,,-0.7861,,-0.5007,,,,,,0.523,,,-0.2162,-0.8785
+Americas,CBLOL,2023,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,Ranger,Support,18,-16.0609,-0.892,-0.4308,-0.1626,,,,-0.9821,,-0.4222,,0.0411,,,,,,-0.3542,,,-1.3119,0.0858
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,fNb,Top,64,22.528,0.352,0.5454,0.004,,,,,,,0.447,0.5209,,-0.2919,1.204,0.8738,0.1093,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,SuperCleber,Top,44,22.5135,0.512,0.5451,0.004,,,,,,,0.813,0.9494,,1.0679,-0.2938,0.8872,0.2394,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Kiari,Top,44,20.91,0.475,0.5065,0.004,,,,,,,0.8249,0.2985,,1.3025,-0.1128,0.5949,0.2889,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,Wizer,Top,69,19.9131,0.289,0.4826,0.004,,,,,,,0.0561,0.833,,1.0021,0.4563,0.955,-0.1631,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,Guigo,Top,71,16.943,0.239,0.4112,0.004,,,,,,,0.3201,0.2081,,0.8336,0.8189,-0.5165,0.2183,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,Robo,Top,64,9.2098,0.144,0.2253,0.004,,,,,,,0.6498,0.3794,,-0.037,0.7875,-1.2235,-0.6298,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Yupps,Top,18,6.9732,0.387,0.1716,0.004,,,,,,,0.9605,-0.6914,,0.6362,-0.3926,-0.2736,0.6526,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,Lonely,Top,38,3.9178,0.103,0.0981,0.004,,,,,,,0.107,0.3527,,0.6087,-0.3829,1.0197,-0.7904,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Zzk,Top,35,-11.7534,-0.336,-0.2785,0.004,,,,,,,0.4418,-1.0065,,0.5767,-0.4147,-0.8239,-1.384,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Makes,Top,36,-15.5574,-0.432,-0.3699,0.004,,,,,,,0.5025,-0.1536,,-2.0853,-0.3006,-1.1055,0.2601,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Tay,Top,18,-21.0049,-1.167,-0.5008,0.004,,,,,,,-0.0585,-0.3626,,-1.0242,-1.2219,1.6011,-1.3283,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Drakehero,Jungle,24,41.4329,1.726,0.8224,-0.1734,,,,,0.5657,0.8163,,1.1936,,,,1.0088,,1.9123,-0.534,2.1168,-0.2063,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Wiz,Jungle,35,32.4031,0.926,0.6054,-0.1734,,,,,1.2876,0.9086,,0.6178,,,,0.1086,,0.4897,0.3406,0.0854,-0.1162,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,Disamis,Jungle,71,32.1695,0.453,0.5998,-0.1734,,,,,1.32,0.2362,,-0.0744,,,,1.5101,,-0.0665,0.9767,0.5373,-0.0289,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,CarioK,Jungle,69,15.5934,0.226,0.2014,-0.1734,,,,,0.3266,0.2877,,0.4607,,,,0.0276,,-0.3645,0.0868,0.0203,0.4213,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,SCARY,Jungle,15,14.0965,0.94,0.1654,-0.1734,,,,,1.3568,0.2394,,-1.7994,,,,0.0705,,-0.5969,1.5993,0.3229,-0.5789,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Shini,Jungle,27,13.1715,0.488,0.1432,-0.1734,,,,,-0.085,0.1657,,0.1619,,,,-1.4252,,0.9487,0.4166,0.734,-1.4602,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,Seize,Jungle,44,13.148,0.299,0.1426,-0.1734,,,,,-0.2987,0.8139,,0.5858,,,,0.2036,,0.3759,0.2467,-0.2324,0.3108,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Sting,Jungle,18,4.5736,0.254,-0.0635,-0.1734,,,,,0.2412,-0.042,,-0.9029,,,,0.0633,,0.9785,-0.1608,0.2832,-0.6867,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,Aegis,Jungle,64,3.1993,0.05,-0.0965,-0.1734,,,,,0.7337,-0.2052,,-0.4449,,,,-1.0458,,-1.4513,0.5678,-0.0066,-1.1283,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,Croc,Jungle,64,-1.0664,-0.017,-0.199,-0.1734,,,,,0.0974,-0.4708,,-0.0589,,,,-1.0176,,-0.4459,-0.3069,-0.3169,0.1395,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Yampi,Jungle,36,-5.4536,-0.151,-0.3044,-0.1734,,,,,-0.6222,-0.4046,,-0.1773,,,,0.0724,,-0.6884,-0.1436,-0.0654,-0.1841,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,Malrang,Jungle,29,-9.6812,-0.334,-0.406,-0.1734,,,,,-1.05,-0.5141,,0.325,,,,1.1307,,0.0139,-1.376,-0.8684,0.846,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Levizin,Jungle,12,-56.9701,-4.748,-1.5426,-0.1734,,,,,-1.4672,-2.6508,,-2.1534,,,,1.4255,,-1.9928,-0.2321,-1.7062,-1.095,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,Hauz,Middle,44,34.7765,0.79,0.681,-0.1548,1.4304,,1.4944,-1.1362,0.3093,1.067,0.1935,0.603,0.5829,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,tinowns,Middle,64,27.4456,0.429,0.5048,-0.1548,0.6074,,1.2209,1.6595,0.0388,0.1366,0.6139,0.4142,-0.526,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Tutsz,Middle,53,19.5134,0.368,0.3142,-0.1548,-0.2304,,0.8975,-0.0778,-0.1854,1.4779,0.3031,0.1384,0.2406,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Pilot,Middle,36,18.21,0.506,0.2828,-0.1548,-0.6582,,-0.5855,1.6714,0.9417,-0.2619,-0.1183,0.6939,1.5876,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,dyNquedo,Middle,69,11.0554,0.16,0.1109,-0.1548,-0.3908,,0.4209,0.2647,0.5979,-0.0857,-0.3779,0.7933,-0.0765,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,Envy,Middle,44,9.601,0.218,0.0759,-0.1548,-0.0735,,-0.5619,-0.7368,0.3182,0.9118,0.2189,-0.4218,0.9328,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Fuuu,Middle,45,4.8975,0.109,-0.0371,-0.1548,-0.1704,,-0.2226,0.2476,0.2942,0.2253,0.4541,-1.129,0.552,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Aithusa,Middle,18,0.4748,0.026,-0.1434,-0.1548,0.9484,,0.0716,-1.3478,-1.9695,-2.1509,-0.7336,2.2151,0.552,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,Leleko,Middle,63,-0.4748,-0.008,-0.1662,-0.1548,-0.5332,,0.1551,0.3941,0.6994,-0.3436,0.3595,-0.4794,-0.9695,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Dioge,Middle,18,-20.2643,-1.126,-0.6418,-0.1548,-1.8361,,-1.1412,0.3048,1.0276,-0.1929,-0.9534,-0.9619,-0.2517,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,Grevthar,Middle,64,-47.5463,-0.743,-1.2975,-0.1548,-0.7603,,-2.0416,-0.0547,-2.0018,-1.2896,-2.0421,-0.7333,-2.2798,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,Ayu,ADC,53,53.004,1.0,0.8834,-0.3904,0.7082,0.6722,1.3284,0.8859,0.1512,1.3207,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,Brance,ADC,64,41.3453,0.646,0.6032,-0.3904,0.3902,0.6021,0.6753,0.5604,1.1399,0.4711,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,Route,ADC,64,40.0568,0.626,0.5723,-0.3904,0.744,-0.4844,0.8846,1.2173,0.5726,-0.2221,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,TitaN,ADC,69,36.1106,0.523,0.4774,-0.3904,-0.0096,1.2381,1.0004,-0.67,1.3413,0.6865,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,NinjaKiwi,ADC,36,35.5834,0.988,0.4648,-0.3904,1.0258,-0.0301,0.5921,0.1449,0.0496,0.7133,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,Smiley,ADC,71,32.3476,0.456,0.387,-0.3904,-0.5182,1.302,0.6089,-0.1831,1.6999,0.3794,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,Celo,ADC,26,9.1026,0.35,-0.1717,-0.3904,-0.223,-0.3248,-0.4115,-0.016,-0.3493,0.5796,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Kojima,ADC,18,8.6547,0.481,-0.1824,-0.3904,0.3673,-0.7177,-0.7163,0.3836,-0.8058,0.0763,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,Netuno,ADC,44,8.2563,0.188,-0.192,-0.3904,-0.6939,-0.1016,-0.4176,0.8527,0.2453,-1.2175,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Leandrinn,ADC,12,0.0,0.0,-0.3904,-0.3904,1.2814,-0.9141,0.4466,-2.6491,-1.184,0.0613,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,Trigo,ADC,27,-3.2602,-0.121,-0.4688,-0.3904,-0.6262,0.2427,-0.5685,-0.36,-0.3823,-1.2614,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,brTT,ADC,18,-16.3491,-0.908,-0.7833,-0.3904,-2.5978,0.8538,-1.851,0.5802,-0.9169,0.6523,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,micaO,ADC,24,-33.666,-1.403,-1.1995,-0.3904,0.1519,-2.3383,-1.5712,-0.7466,-1.5616,-2.2396,,,,,,,,,,,,
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,zay,Support,16,71.2266,4.452,1.4023,-0.3095,,,,1.9048,,0.9976,,0.726,,,,,,1.9605,,,-0.1618,1.8829
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,paiN Gaming,Kuri,Support,69,32.5279,0.471,0.4723,-0.3095,,,,1.2391,,1.1912,,0.7085,,,,,,-0.6699,,,-1.6489,1.0303
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Vivo Keyd Stars,ProDelta,Support,71,27.5537,0.388,0.3527,-0.3095,,,,-0.1394,,0.4264,,-0.0375,,,,,,0.8968,,,0.3666,0.2427
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,RED Canids,frosty,Support,35,26.8682,0.768,0.3363,-0.3095,,,,0.1504,,-0.064,,0.6511,,,,,,0.5877,,,0.1952,0.4549
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LØS,sanghyeon,Support,44,25.6471,0.583,0.3069,-0.3095,,,,-0.281,,0.7191,,0.1419,,,,,,-0.3815,,,0.3171,1.2847
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Fluxo,scamber,Support,45,9.8456,0.219,-0.0728,-0.3095,,,,0.4461,,-1.6855,,0.3819,,,,,,-0.7773,,,1.9067,0.1
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,FURIA,JoJo,Support,64,8.4778,0.132,-0.1057,-0.3095,,,,0.918,,0.4585,,0.458,,,,,,-0.8804,,,-0.8917,-1.0391
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,Liberty,Cavalo,Support,36,3.2076,0.089,-0.2324,-0.3095,,,,-0.7518,,0.153,,-0.3907,,,,,,0.9436,,,0.5136,-1.1103
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,INTZ,Damage,Support,36,-3.2076,-0.089,-0.3866,-0.3095,,,,-0.012,,-0.9346,,-0.0018,,,,,,-0.2819,,,-0.6651,-0.4071
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,KaBuM! Esports,Ceos,Support,44,-7.5356,-0.171,-0.4906,-0.3095,,,,-1.2853,,-0.9818,,0.1698,,,,,,-0.1346,,,0.1475,-0.7557
+Americas,CBLOL,2024,Split 1 + Split 1 PO + Split 2 + Split 2 PO,LOUD,RedBert,Support,64,-12.5174,-0.196,-0.6103,-0.3095,,,,-1.2689,,1.0707,,0.1851,,,,,,-1.6915,,,-1.2271,-0.8615
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LOUD,Robo,Top,55,21.0622,0.383,0.56,-0.0596,,,,,,,0.6534,0.6925,,1.7301,0.429,-0.208,-0.5322,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FURIA,Guigo,Top,54,15.0334,0.278,0.3826,-0.0596,,,,,,,-0.7901,0.7808,,0.94,0.9602,-0.1431,0.9631,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Isurus,Summit,Top,26,8.5898,0.33,0.1931,-0.0596,,,,,,,0.8694,-0.5461,,0.6716,0.471,-1.3604,-0.2482,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,paiN Gaming,Wizer,Top,57,5.7404,0.101,0.1093,-0.0596,,,,,,,0.1756,0.3428,,0.0109,-0.1517,1.2564,-0.7542,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,RED Canids,fNb,Top,55,5.3818,0.098,0.0987,-0.0596,,,,,,,-0.4492,-0.2165,,0.1724,0.2537,1.5784,-0.0364,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Vivo Keyd Stars,Boal,Top,51,0.0,0.0,-0.0596,-0.0596,,,,,,,0.5265,-0.5554,,-0.1763,-0.4573,0.9543,-0.6258,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Leviatan,Zothve,Top,38,-16.5628,-0.436,-0.5468,-0.0596,,,,,,,-1.312,-0.3558,,0.0598,-0.4336,0.047,-0.7074,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Fluxo W7M,Hidan,Top,20,-25.6105,-1.281,-0.813,-0.0596,,,,,,,-1.0514,-0.7396,,-2.1095,-0.978,0.5672,0.65,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Vivo Keyd Stars,Disamis,Jungle,51,31.752,0.623,0.7437,-0.1904,,,,,1.0195,1.6943,,0.1695,,,,1.1161,,0.2779,0.6297,0.7033,1.0497,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Isurus,Josedeodo,Jungle,48,27.2569,0.568,0.6115,-0.1904,,,,,0.7283,0.3482,,-0.1037,,,,1.4085,,1.0559,-0.0328,1.449,1.2658,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FURIA,Tatu,Jungle,54,25.2518,0.468,0.5525,-0.1904,,,,,1.212,0.2701,,0.5645,,,,0.843,,0.2357,0.1598,0.4773,-0.0296,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LOUD,Gryffinn,Jungle,19,24.3268,1.28,0.5253,-0.1904,,,,,1.4096,0.0782,,0.7775,,,,-0.8566,,-0.7506,0.9964,0.5852,-0.9085,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,paiN Gaming,CarioK,Jungle,57,6.8825,0.121,0.0121,-0.1904,,,,,0.2017,-1.3222,,0.4218,,,,0.9552,,-1.0733,0.1282,0.2235,0.3704,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Fluxo W7M,Ganks,Jungle,16,3.5386,0.221,-0.0863,-0.1904,,,,,-0.5918,-0.3408,,0.4452,,,,-0.3914,,-0.6011,0.1945,0.798,-0.7503,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,RED Canids,Curse,Jungle,33,0.1738,0.005,-0.1852,-0.1904,,,,,-0.0324,-0.8089,,-0.5745,,,,-0.3542,,0.1142,0.4856,-1.4103,1.7224,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LOUD,Shini,Jungle,26,-0.5215,-0.02,-0.2057,-0.1904,,,,,-0.2899,1.1419,,-0.3495,,,,-0.2479,,-1.349,0.1085,-0.0939,-1.0602,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Leviatan,SCARY,Jungle,38,-3.8475,-0.101,-0.3035,-0.1904,,,,,-0.3495,0.0329,,-0.1782,,,,0.0175,,1.1001,-1.2397,-0.4399,-0.2813,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,RED Canids,Aegis,Jungle,22,-6.4068,-0.291,-0.3788,-0.1904,,,,,0.0643,-1.3458,,0.1254,,,,0.4188,,-1.5022,-0.4572,-0.4721,-1.7878,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Vivo Keyd Stars,Mireu,Middle,53,46.429,0.876,1.0054,-0.3604,1.2358,,2.4371,-0.3652,1.237,1.0738,0.9518,0.3949,1.1185,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Leviatan,cody,Middle,23,39.6022,1.722,0.8046,-0.3604,1.3934,,0.0352,0.8173,0.12,1.4262,1.9219,-0.0521,0.3033,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,RED Canids,Kaze,Middle,27,35.5971,1.318,0.6867,-0.3604,-1.0518,,0.543,-0.6593,2.0,2.0401,0.482,0.9711,2.0884,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Leviatan,Hauz,Middle,15,32.8566,2.19,0.6061,-0.3604,0.8427,,1.1847,0.7905,0.9875,0.5937,0.8924,-0.7033,0.685,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LOUD,tinowns,Middle,36,21.8961,0.608,0.2837,-0.3604,0.9825,,0.3255,1.6805,-0.2708,0.4441,0.2447,-1.0544,-0.1926,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,paiN Gaming,Roamer,Middle,47,11.4502,0.244,-0.0236,-0.3604,0.5935,,0.9314,-0.1333,0.1843,-0.7585,0.1252,-0.2705,-0.9871,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Isurus,Leza,Middle,13,11.2072,0.862,-0.0307,-0.3604,1.2648,,-0.6323,-1.2029,-1.1841,-1.1463,-0.1826,1.2158,0.2607,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LOUD,Jool,Middle,19,10.7758,0.567,-0.0434,-0.3604,-0.3956,,-0.9366,0.7543,-0.7334,-0.4976,0.7575,1.6681,-1.2406,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Fluxo W7M,Fuuu,Middle,30,10.4567,0.349,-0.0528,-0.3604,-0.5576,,-0.8443,0.677,-0.7877,0.1845,-0.2668,0.688,0.5001,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FURIA,Tutsz,Middle,54,-1.593,-0.03,-0.4073,-0.3604,-0.587,,-0.4275,-0.1035,0.112,-0.0196,-0.3241,-0.8371,-0.8707,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Vivo Keyd Stars,Kisee,Middle,33,-14.7384,-0.447,-0.794,-0.3604,-1.0532,,-1.0538,0.0975,0.2688,-0.9536,-0.835,-1.9144,-0.0093,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,RED Canids,Grevthar,Middle,17,-16.3283,-0.96,-0.8408,-0.3604,-0.5223,,-0.0846,-0.4546,-1.9233,-0.6028,-2.0159,-0.1298,-1.7858,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,RED Canids,Brance,ADC,28,40.6612,1.452,0.8404,-0.3558,1.46,-0.2064,1.9475,-0.5135,0.4982,1.5752,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Vivo Keyd Stars,Morttheus,ADC,51,31.0729,0.609,0.5583,-0.3558,0.8761,0.885,0.2626,0.397,0.8276,0.0721,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,paiN Gaming,TitaN,ADC,57,28.5891,0.502,0.4853,-0.3558,0.3327,1.8587,0.8828,-1.5957,1.5273,0.9936,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LOUD,Route,ADC,55,25.6046,0.466,0.3975,-0.3558,0.8303,-0.2175,0.0206,1.6637,-0.5691,-0.372,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Leviatan,ceo,ADC,38,16.5309,0.435,0.1305,-0.3558,0.148,0.709,-0.3116,0.8192,-0.2687,-0.7599,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FURIA,Ayu,ADC,54,10.623,0.197,-0.0433,-0.3558,-0.6699,-0.1363,-0.5365,0.7448,-0.0655,1.0622,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,RED Canids,Rabelo,ADC,27,0.0,0.0,-0.3558,-0.3558,-0.2295,-1.3829,0.1182,-0.6713,0.4344,-0.3246,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Isurus,Snaker,ADC,48,-14.3499,-0.299,-0.7779,-0.3558,-1.339,-0.5325,-0.9479,-0.0818,-0.3851,-1.2861,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Fluxo W7M,Marvin,ADC,30,-29.8883,-0.996,-1.235,-0.3558,-1.4087,-0.9771,-1.4357,-0.7624,-1.9992,-0.9605,,,,,,,,,,,,
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,RED Canids,frosty,Support,55,41.6313,0.757,1.0342,-0.1905,,,,0.9209,,0.58,,1.1346,,,,,,1.7609,,,1.3621,0.2291
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,paiN Gaming,Kuri,Support,57,12.7941,0.224,0.1859,-0.1905,,,,-0.0973,,0.3929,,-0.2674,,,,,,-1.5466,,,0.5766,1.7691
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Leviatan,TopLop,Support,15,8.8353,0.589,0.0694,-0.1905,,,,-0.4842,,0.833,,0.5702,,,,,,1.1021,,,-1.508,-0.8005
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,FURIA,JoJo,Support,54,8.6736,0.161,0.0647,-0.1905,,,,0.3587,,-0.1578,,0.5001,,,,,,-0.3153,,,0.7024,-0.0852
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,LOUD,RedBert,Support,45,6.2101,0.138,-0.0078,-0.1905,,,,0.4827,,0.138,,0.5132,,,,,,-0.9689,,,-0.0105,0.0998
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Isurus,Ackerman,Support,48,2.3888,0.05,-0.1202,-0.1905,,,,2.0807,,-0.3677,,-0.7077,,,,,,-0.6359,,,-0.21,-0.3498
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Fluxo W7M,Guigs,Support,20,-0.7963,-0.04,-0.2139,-0.1905,,,,0.55,,0.8897,,-1.968,,,,,,0.2132,,,-0.1537,-0.0598
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Leviatan,ProDelta,Support,33,-4.0461,-0.123,-0.3095,-0.1905,,,,-0.5514,,0.0355,,-0.4819,,,,,,0.8307,,,-0.4349,-1.2598
+Americas,CBLOL,2025,Split 1 + Split 2 + Split 2 PO + Split 3,Vivo Keyd Stars,Trymbi,Support,49,-16.4955,-0.337,-0.6758,-0.1905,,,,-1.0255,,0.1839,,0.2501,,,,,,-0.9638,,,-1.6112,-1.3236
 Americas,CBLOL,2026,Split 1 + Cup,LOUD,xyno,Top,31,40.3409,1.301,0.7857,-0.4444,,,,,,,1.2273,2.1219,,0.8474,-0.1051,1.5248,-0.9269,,,,,
 Americas,CBLOL,2026,Split 1 + Cup,RED Canids,zynts,Top,11,36.213,3.292,0.6598,-0.4444,,,,,,,2.0478,-1.31,,1.7433,0.3844,1.0191,-1.1512,,,,,
 Americas,CBLOL,2026,Split 1 + Cup,LØS,Zest,Top,27,35.0775,1.299,0.6252,-0.4444,,,,,,,0.2555,-0.7311,,0.8802,1.4305,-0.1428,1.9563,,,,,
@@ -695,46 +1049,58 @@ Americas,CBLOL,2026,Split 1 + Cup,Leviatan,TopLop,Support,33,4.4589,0.135,0.1104
 Americas,CBLOL,2026,Split 1 + Cup,FURIA,JoJo,Support,34,0.438,0.013,-0.0122,-0.0255,,,,1.4194,,-0.461,,0.8691,,,,,,-0.3711,,,-0.5519,-1.0807
 Americas,CBLOL,2026,Split 1 + Cup,Fluxo W7M,Momochi,Support,11,-1.314,-0.119,-0.0656,-0.0255,,,,0.707,,-0.449,,-0.1629,,,,,,-1.1229,,,0.6058,0.2209
 Americas,CBLOL,2026,Split 1 + Cup,LOUD,RedBert,Support,31,-34.4757,-1.112,-1.0768,-0.0255,,,,-1.47,,-1.2982,,-1.3857,,,,,,-0.4209,,,-0.4053,-0.9264
-Americas,LCS,2026,Lock-In + Spring,Disguised,Castle,Top,24,27.8293,1.16,0.6176,-0.205,,,,,,,0.9646,1.1497,,1.0167,0.1262,-0.792,0.9914,,,,,
-Americas,LCS,2026,Lock-In + Spring,Team Liquid,Morgan,Top,23,21.4926,0.934,0.4303,-0.205,,,,,,,1.3721,-0.7481,,0.4506,0.8053,-0.2171,-0.4773,,,,,
-Americas,LCS,2026,Lock-In + Spring,Cloud9,Thanatos,Top,25,11.9176,0.477,0.1472,-0.205,,,,,,,0.7376,-1.0145,,1.3085,0.1253,0.1481,-1.274,,,,,
-Americas,LCS,2026,Lock-In + Spring,FlyQuest,Gakgos,Top,22,8.672,0.394,0.0513,-0.205,,,,,,,-0.264,0.8508,,-0.3716,-0.3202,0.9804,0.2742,,,,,
-Americas,LCS,2026,Lock-In + Spring,Dignitas,Photon,Top,15,6.206,0.414,-0.0216,-0.205,,,,,,,0.0442,0.132,,0.3965,-0.7965,1.5634,-0.6911,,,,,
-Americas,LCS,2026,Lock-In + Spring,LYON,Dhokla,Top,30,1.4483,0.048,-0.1622,-0.205,,,,,,,-1.2026,-0.0477,,-0.1948,0.7429,-1.7013,1.5922,,,,,
-Americas,LCS,2026,Lock-In + Spring,Sentinels,Impact,Top,29,-4.345,-0.15,-0.3335,-0.205,,,,,,,-1.4427,1.1223,,-1.7046,0.2729,-0.0336,0.4968,,,,,
-Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Fudge,Top,12,-17.729,-1.477,-0.7291,-0.205,,,,,,,-0.2092,-1.4444,,-0.9012,-0.9559,0.052,-0.912,,,,,
-Americas,LCS,2026,Lock-In + Spring,Team Liquid,Josedeodo,Jungle,23,40.2085,1.748,0.8778,-0.3107,,,,,0.55,0.4883,,1.3614,,,,0.846,,0.9992,0.4774,0.6959,1.5773,
-Americas,LCS,2026,Lock-In + Spring,Cloud9,Blaber,Jungle,25,25.6053,1.024,0.4461,-0.3107,,,,,1.0414,0.5367,,-0.0518,,,,0.4466,,0.5628,0.6296,-0.3611,0.5299,
-Americas,LCS,2026,Lock-In + Spring,FlyQuest,Gryffinn,Jungle,22,25.4983,1.159,0.443,-0.3107,,,,,1.2898,-0.3858,,0.496,,,,-1.4779,,0.7339,0.5098,0.3011,0.6594,
-Americas,LCS,2026,Lock-In + Spring,Sentinels,HamBak,Jungle,29,21.1661,0.73,0.3149,-0.3107,,,,,-0.2404,1.2126,,0.7955,,,,-0.5654,,0.0125,-0.3303,1.0953,0.4249,
-Americas,LCS,2026,Lock-In + Spring,LYON,Inspired,Jungle,30,16.1253,0.538,0.1659,-0.3107,,,,,0.5463,0.8183,,-0.6922,,,,1.3379,,-1.3019,-0.1104,1.3259,-0.4054,
-Americas,LCS,2026,Lock-In + Spring,Disguised,KryRa,Jungle,18,0.5208,0.029,-0.2954,-0.3107,,,,,-0.9756,-1.4002,,0.7947,,,,0.8208,,-1.2406,0.404,-0.2786,-1.8973,
-Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Contractz,Jungle,12,-1.5623,-0.13,-0.3569,-0.3107,,,,,-0.7014,0.8114,,-0.286,,,,0.5068,,-0.2145,-1.0228,-0.6127,0.3301,
-Americas,LCS,2026,Lock-In + Spring,Dignitas,eXyu,Jungle,15,-10.0284,-0.669,-0.6072,-0.3107,,,,,-1.7574,-0.5933,,-0.4506,,,,-1.0739,,1.4002,-0.3331,-0.2058,-0.6053,
-Americas,LCS,2026,Lock-In + Spring,Team Liquid,Quid,Middle,23,22.8378,0.993,0.3935,-0.2816,-0.1563,,0.796,-0.1615,0.1804,1.3542,-0.4009,0.7939,0.6115,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Sentinels,DARKWINGS,Middle,29,21.4582,0.74,0.3527,-0.2816,1.7959,,1.3698,1.2642,0.145,-0.2666,-1.9706,0.224,-0.8087,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,FlyQuest,Quad,Middle,22,20.1054,0.914,0.3128,-0.2816,0.9169,,-0.0261,1.8702,-0.5542,-0.969,1.1152,1.0482,-1.2301,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Cloud9,APA,Middle,25,15.0785,0.603,0.1642,-0.2816,0.1627,,0.5812,-0.7517,0.97,-0.6908,-0.6344,0.82,0.9575,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Disguised,Callme,Middle,24,7.8741,0.328,-0.0488,-0.2816,-1.255,,-0.584,-0.7111,0.6216,0.6128,0.8432,0.6218,0.0004,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,LYON,Saint,Middle,30,2.0286,0.068,-0.2216,-0.2816,-1.1166,,-0.7173,-0.6699,0.9712,0.1674,0.1229,-1.0026,1.5632,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Zinie,Middle,12,-6.0859,-0.507,-0.4615,-0.2816,-0.1963,,0.3599,-0.367,-0.26,-1.3794,0.1827,-1.3476,-0.0469,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Dignitas,Palafox,Middle,15,-7.0975,-0.473,-0.4914,-0.2816,-0.1512,,-1.7795,-0.4731,-2.074,1.1714,0.7419,-1.1578,-1.047,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,LYON,Berserker,ADC,30,34.9718,1.166,0.9444,-0.0893,0.5275,1.8436,0.4766,1.2768,1.0842,0.7818,,,,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Cloud9,Zven,ADC,25,24.1913,0.968,0.6258,-0.0893,0.4402,1.0853,0.7864,0.0706,1.5519,0.1764,,,,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Bvoy,ADC,12,20.5312,1.711,0.5176,-0.0893,1.8333,-0.7149,1.2595,0.0327,-1.4144,0.6382,,,,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Dignitas,FBI,ADC,13,5.5199,0.425,0.0738,-0.0893,0.4077,-0.6478,0.6927,-0.2372,-0.0906,-0.2006,,,,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Team Liquid,Yeon,ADC,23,4.9808,0.217,0.0579,-0.0893,0.4953,-0.8439,0.3393,0.279,-0.85,0.259,,,,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Sentinels,Rahel,ADC,29,1.5795,0.054,-0.0426,-0.0893,-0.8233,0.4941,-0.1347,0.1678,0.2342,0.418,,,,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,FlyQuest,Massu,ADC,22,-4.7386,-0.215,-0.2294,-0.0893,-0.5045,0.0463,-0.621,0.1661,-1.039,0.8758,,,,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Disguised,sajed,ADC,24,-10.7251,-0.447,-0.4064,-0.0893,-1.185,-0.0244,-0.8281,0.644,-0.1927,-0.5928,,,,,,,,,,,,
-Americas,LCS,2026,Lock-In + Spring,Sentinels,huhi,Support,29,32.9547,1.136,0.8602,-0.1139,,,,0.1372,,0.7917,,0.6633,,,,,,1.4595,,,0.5151,1.0801
-Americas,LCS,2026,Lock-In + Spring,LYON,Isles,Support,30,18.5575,0.619,0.4346,-0.1139,,,,0.4932,,1.0013,,-0.1633,,,,,,-0.6173,,,0.2242,1.2685
-Americas,LCS,2026,Lock-In + Spring,FlyQuest,Cryogen,Support,22,11.665,0.53,0.2309,-0.1139,,,,-1.352,,0.6334,,1.004,,,,,,1.4233,,,-0.8203,0.136
-Americas,LCS,2026,Lock-In + Spring,Dignitas,Ignar,Support,13,4.7208,0.363,0.0256,-0.1139,,,,-0.5424,,-1.7381,,0.7714,,,,,,-0.2361,,,0.6636,0.6569
-Americas,LCS,2026,Lock-In + Spring,Cloud9,Vulcan,Support,25,1.9764,0.079,-0.0555,-0.1139,,,,1.4523,,0.2425,,0.804,,,,,,-0.5942,,,-0.6675,-1.2483
-Americas,LCS,2026,Lock-In + Spring,Team Liquid,CoreJJ,Support,23,1.205,0.052,-0.0783,-0.1139,,,,-0.7424,,1.0507,,0.0922,,,,,,0.6053,,,-1.1209,-0.9063
-Americas,LCS,2026,Lock-In + Spring,Disguised,Lyonz,Support,24,-3.6151,-0.151,-0.2208,-0.1139,,,,1.5623,,-1.1702,,-1.0894,,,,,,-0.9503,,,1.1305,0.2365
-Americas,LCS,2026,Lock-In + Spring,Shopify Rebellion,Ceos,Support,12,-15.2218,-1.268,-0.5639,-0.1139,,,,-0.562,,-0.1967,,-0.0611,,,,,,0.2265,,,-1.3018,-1.5034
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,CTBC Flying Oyster,Driver,Top,44,40.3782,0.918,0.9435,-0.5379,,,,,,,1.6135,-0.0057,,1.1062,1.11,0.634,0.3411,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,GAM Esports,Kiaya,Top,79,37.1831,0.471,0.8262,-0.5379,,,,,,,0.4948,1.3934,,0.8519,0.6862,0.4306,1.5115,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Team Secret Whales,Hiro02,Top,45,22.5909,0.502,0.2909,-0.5379,,,,,,,-0.1207,-0.1314,,0.8053,0.3555,0.062,1.249,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,PSG Talon,Azhi,Top,87,22.2957,0.256,0.2801,-0.5379,,,,,,,-0.008,0.2569,,0.6203,0.3754,0.6062,-0.0399,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,BioPanther,Top,43,21.7227,0.505,0.2591,-0.5379,,,,,,,0.0739,1.3143,,0.5098,-0.6465,1.0409,0.2449,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,MVK Esports,Kratos,Top,76,19.623,0.258,0.182,-0.5379,,,,,,,1.1184,-0.6673,,0.7123,-0.354,1.2039,-1.3623,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,CTBC Flying Oyster,Rest,Top,34,16.5979,0.488,0.071,-0.5379,,,,,,,0.2917,0.2604,,-0.8901,0.5241,0.4582,-0.8427,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Fukuoka SoftBank HAWKS gaming,Evi,Top,54,1.3984,0.026,-0.4866,-0.5379,,,,,,,-0.4723,0.5043,,-0.9599,-0.6424,-1.7048,0.3095,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Team Secret Whales,Steller,Top,12,-1.3984,-0.117,-0.5892,-0.5379,,,,,,,-1.388,-0.341,,-1.1565,0.1489,-0.4265,-0.1211,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,DetonatioN FocusMe,RayFarky,Top,53,-2.7325,-0.052,-0.6381,-0.5379,,,,,,,-1.1367,0.7871,,-1.536,-1.0378,0.4795,-0.3012,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Team Secret Whales,Pun,Top,15,-21.694,-1.446,-1.3337,-0.5379,,,,,,,-1.5071,-1.8629,,-0.9902,-0.7243,-1.6207,-1.8585,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,MVK Esports,Gury,Jungle,76,28.8826,0.38,0.7895,-0.2701,,,,,1.2702,0.7033,,-0.0831,,,,0.8939,,1.0155,0.6981,1.2277,0.5,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Fukuoka SoftBank HAWKS gaming,Yohan,Jungle,18,24.2281,1.346,0.6187,-0.2701,,,,,1.0282,-0.7359,,1.0418,,,,1.2666,,1.2294,-0.2118,1.5274,-1.6464,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,CTBC Flying Oyster,JunJia,Jungle,78,20.7402,0.266,0.4907,-0.2701,,,,,1.3815,0.939,,-1.0649,,,,1.1376,,0.2755,1.0248,0.2935,0.3091,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,GAM Esports,Levi,Jungle,79,15.2931,0.194,0.2909,-0.2701,,,,,0.0674,-0.0215,,0.3969,,,,-0.3453,,-0.6271,0.5689,1.101,-0.3628,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Team Secret Whales,Hizto,Jungle,72,15.2176,0.211,0.2881,-0.2701,,,,,0.7395,1.1707,,-0.0646,,,,-0.0357,,-1.8339,0.2247,0.6982,0.8553,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,Mir,Jungle,15,13.2853,0.886,0.2173,-0.2701,,,,,-0.3015,-0.1687,,2.5302,,,,0.5939,,0.4887,-1.339,-0.4369,1.5436,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,DetonatioN FocusMe,Guwon,Jungle,32,0.7626,0.024,-0.2422,-0.2701,,,,,-0.1423,1.5365,,-0.3724,,,,0.4785,,-1.7553,-0.0635,-0.1763,-1.6336,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,DetonatioN FocusMe,Citrus,Jungle,21,0.5738,0.027,-0.2491,-0.2701,,,,,-0.4896,0.7278,,-1.1173,,,,-0.478,,0.5583,-0.0324,-0.2815,0.7652,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,Husha,Jungle,18,0.3707,0.021,-0.2565,-0.2701,,,,,-0.1145,-0.4688,,-0.4184,,,,-1.0704,,0.7032,0.2217,-0.2897,-0.1737,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,PSG Talon,Karsa,Jungle,87,-1.112,-0.013,-0.3109,-0.2701,,,,,-0.1266,-1.042,,0.1067,,,,-0.6325,,-0.509,-0.368,-0.6914,0.7304,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Fukuoka SoftBank HAWKS gaming,Courage,Jungle,36,-14.3999,-0.4,-0.7984,-0.2701,,,,,-1.7019,-1.3262,,-0.1769,,,,0.3588,,-0.0338,-0.6249,-1.2691,0.0497,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,Whynot,Jungle,14,-22.2576,-1.59,-1.0867,-0.2701,,,,,-1.6103,-1.3145,,-0.778,,,,-2.1673,,0.4887,-0.0987,-1.703,-0.9369,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,DetonatioN FocusMe,Aria,Middle,53,42.3708,0.799,0.958,-0.5965,0.2815,,0.8635,0.8919,0.1705,1.3386,0.3146,1.6306,2.3225,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,MVK Esports,Kati,Middle,76,37.9526,0.499,0.7959,-0.5965,0.5744,,0.6201,0.4413,0.2236,1.2368,2.1432,1.048,-0.0455,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,PSG Talon,FoFo,Middle,63,28.1211,0.446,0.4352,-0.5965,1.4434,,1.0295,0.8077,-0.104,-0.2721,-0.274,0.5294,-0.3799,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,PSG Talon,Maple,Middle,24,24.055,1.002,0.286,-0.5965,0.6869,,0.6615,0.1118,0.499,-0.3113,-0.9263,0.6625,0.6136,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,CTBC Flying Oyster,HongQ,Middle,78,23.5377,0.302,0.267,-0.5965,0.763,,0.6891,-2.083,1.8859,0.9875,1.1196,-1.1424,-0.2349,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Fukuoka SoftBank HAWKS gaming,FATE,Middle,54,15.5144,0.287,-0.0273,-0.5965,-0.0519,,0.3244,0.47,-0.4351,0.2663,0.0194,-0.7039,0.1086,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Team Secret Whales,Dire,Middle,72,15.2972,0.212,-0.0353,-0.5965,-0.2192,,-0.0303,0.3296,-0.0676,-0.0548,-0.0959,-0.2559,0.4159,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,GAM Esports,Emo,Middle,37,-5.0991,-0.138,-0.7835,-0.5965,-1.7451,,-1.4786,-1.0145,0.158,-0.5239,-1.2016,0.4099,-0.6376,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,GAM Esports,Aress,Middle,42,-5.6923,-0.136,-0.8053,-0.5965,-1.5206,,-1.4298,0.9298,-0.1234,-0.7736,-0.3712,-1.3311,-0.86,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,JimieN,Middle,47,-13.4732,-0.287,-1.0907,-0.5965,-0.2123,,-1.2493,-0.8846,-2.2069,-1.8935,-0.7279,-0.8472,-1.3028,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Team Secret Whales,Eddie,ADC,72,25.167,0.35,0.7306,-0.1927,0.2507,1.1284,0.6873,0.5977,0.6646,1.6433,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Fukuoka SoftBank HAWKS gaming,Marble,ADC,54,21.9272,0.406,0.6118,-0.1927,0.2766,0.1787,0.666,1.4828,0.238,0.5252,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,CTBC Flying Oyster,Doggo,ADC,78,18.9377,0.243,0.5021,-0.1927,-0.1461,1.1866,0.4192,0.2243,1.1506,1.0272,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,Slayder,ADC,14,12.2455,0.875,0.2566,-0.1927,-0.6956,1.0137,0.0176,0.6953,0.814,0.3661,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,PSG Talon,Betty,ADC,87,12.1273,0.139,0.2522,-0.1927,-0.3133,0.6389,0.2897,0.3656,0.5924,0.2936,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,MVK Esports,Shogun,ADC,54,11.8463,0.219,0.2419,-0.1927,0.066,0.9914,0.2041,0.0073,0.2779,0.0321,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,GAM Esports,Artemis,ADC,78,7.8238,0.1,0.0944,-0.1927,-0.2296,0.5414,-0.1523,0.1652,0.5657,0.0947,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,Leemas,ADC,15,1.2791,0.085,-0.1457,-0.1927,0.6476,-0.9993,-0.0797,0.4327,-0.6708,-1.4307,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,MVK Esports,Sty1e,ADC,22,-1.2791,-0.058,-0.2396,-0.1927,0.3307,-1.1457,0.483,-0.9071,-0.1887,-0.5054,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,Violet,ADC,18,-3.8865,-0.216,-0.3352,-0.1927,-0.3622,0.0072,-1.0075,0.637,-0.1569,-1.3986,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,DetonatioN FocusMe,Kakkun,ADC,50,-10.6358,-0.213,-0.5829,-0.1927,0.0035,-1.1402,0.0213,-1.0639,-0.8246,-1.2215,,,,,,,,,,,,
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,DetonatioN FocusMe,Harp,Support,53,36.0769,0.681,0.9718,-0.3517,,,,0.7704,,1.5402,,1.3891,,,,,,2.2474,,,1.4917,-0.9645
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Team Secret Whales,Taki,Support,72,25.5439,0.355,0.5854,-0.3517,,,,0.3132,,1.1145,,-0.139,,,,,,0.3985,,,-0.5618,1.5923
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Chiefs Esports Club,Luon,Support,47,14.1318,0.301,0.1667,-0.3517,,,,0.3081,,-0.683,,0.8074,,,,,,-0.9531,,,0.8939,1.1164
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,GAM Esports,Elio,Support,79,10.4901,0.133,0.0331,-0.3517,,,,0.4571,,-0.0532,,0.5851,,,,,,-0.2848,,,-0.0944,-0.3823
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,PSG Talon,Woody,Support,87,8.0279,0.092,-0.0572,-0.3517,,,,-0.17,,0.0768,,0.3511,,,,,,-0.4166,,,-0.0186,-0.3424
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,CTBC Flying Oyster,Kaiwing,Support,78,2.6194,0.034,-0.2556,-0.3517,,,,1.2723,,0.2231,,-1.1701,,,,,,-0.3147,,,-1.5382,-0.5131
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,Fukuoka SoftBank HAWKS gaming,Gaeng,Support,54,-7.8582,-0.146,-0.64,-0.3517,,,,-1.5096,,-0.6622,,-0.2403,,,,,,0.0484,,,0.7106,-1.1569
+Pacific,LCP,2025,Kickoff + Kickoff QS + Mid Season + Mid QS + Finals + Finals PO,MVK Esports,SiuLoong,Support,76,-12.3355,-0.162,-0.8043,-0.3517,,,,-1.4415,,-1.5563,,-1.5833,,,,,,-0.7251,,,-0.8831,0.6505
 Pacific,LCP,2026,Split 1 + PO + Split 2,Ground Zero Gaming,1Jiang,Top,39,24.5424,0.629,0.3518,-0.1676,,,,,,,0.7058,0.3234,,0.6377,-0.042,0.7639,-0.3465,,,,,
 Pacific,LCP,2026,Split 1 + PO + Split 2,GAM Esports,Kiaya,Top,27,21.4527,0.795,0.2864,-0.1676,,,,,,,0.3324,-0.1036,,0.4134,0.3343,0.0411,0.6919,,,,,
 Pacific,LCP,2026,Split 1 + PO + Split 2,Deep Cross Gaming,Flauren,Top,44,17.1551,0.39,0.1955,-0.1676,,,,,,,0.0513,0.0579,,0.0166,0.1382,1.0435,0.3257,,,,,
