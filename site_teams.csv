@@ -1,407 +1,407 @@
 Region,League,Year,Dataset,Team,Team_WAR,WAR_per_Game,W,L,GP,W_pct,Players,Projected_Team_WAR,Proj_WAR_per_Game
 Korea,LCK,2023,full year (per-game derived),T1,137.53,1.146,74,46,120,0.6167,"Zeus, Oner, Faker, Gumayusi, Keria",121.71,1.014
 Korea,LCK,2023,full year (per-game derived),Gen.G,120.04,1.101,81,28,109,0.7431,"Doran, Peanut, Chovy, Peyz, Delight",106.95,0.981
-Korea,LCK,2023,full year (per-game derived),Liiv SANDBOX,107.94,1.186,37,54,91,0.4066,"Clear, Willer, Clozer, Teddy, Kael",92.73,1.019
 Korea,LCK,2023,full year (per-game derived),Dplus Kia,97.18,1.104,52,36,88,0.5909,"Canna, Canyon, ShowMaker, Deft, Kellin",87.16,0.99
 Korea,LCK,2023,full year (per-game derived),KT Rolster,92.5,0.811,79,35,114,0.693,"Kiin, Cuzz, Bdd, Aiming, Lehends",85.79,0.753
-Korea,LCK,2023,full year (per-game derived),Hanwha Life Esports,72.23,0.675,59,48,107,0.5514,"Kingen, Grizzly, Zeka, Viper, Life",76.22,0.712
+Korea,LCK,2023,full year (per-game derived),Liiv SANDBOX,68.7,0.755,37,54,91,0.4066,"Burdol, Willer, Clozer, Envyy, Kael",67.83,0.745
+Korea,LCK,2023,full year (per-game derived),Hanwha Life Esports,61.07,0.571,59,48,107,0.5514,"Kingen, Clid, Zeka, Viper, Life",64.08,0.599
+Korea,LCK,2023,full year (per-game derived),DN SOOPers,56.37,0.679,27,56,83,0.3253,"DuDu, YoungJae, BuLLDoG, Taeyoon, Jun",59.2,0.713
 Korea,LCK,2023,full year (per-game derived),HANJIN BRION,50.21,0.564,28,61,89,0.3146,"Morgan, UmTi, Karis, Hena, Effort",53.4,0.6
-Korea,LCK,2023,full year (per-game derived),DN SOOPers,40.39,0.487,27,56,83,0.3253,"DuDu, YoungJae, BuLLDoG, Taeyoon, Andil",54.62,0.658
 Korea,LCK,2023,full year (per-game derived),DRX,33.1,0.368,28,62,90,0.3111,"Rascal, Croco, FATE, Paduck, BeryL",43.09,0.479
-Korea,LCK,2023,full year (per-game derived),Nongshim RedForce,24.85,0.292,22,63,85,0.2588,"DnDn, Sylvie, FIESTA, Jiwoo, Peter",33.13,0.39
+Korea,LCK,2023,full year (per-game derived),Nongshim RedForce,6.57,0.077,22,63,85,0.2588,"DnDn, Sylvie, FIESTA, vital, Peter",22.95,0.27
 Korea,LCK,2024,full year (per-game derived),Gen.G,128.84,1.251,86,17,103,0.835,"Kiin, Canyon, Chovy, Peyz, Lehends",109.1,1.059
 Korea,LCK,2024,full year (per-game derived),T1,107.13,0.94,72,42,114,0.6316,"Zeus, Oner, Faker, Gumayusi, Keria",103.05,0.904
 Korea,LCK,2024,full year (per-game derived),Hanwha Life Esports,101.19,0.903,78,34,112,0.6964,"Doran, Peanut, Zeka, Viper, Delight",94.65,0.845
 Korea,LCK,2024,full year (per-game derived),KT Rolster,74.15,0.764,50,47,97,0.5155,"PerfecT, Pyosik, Bdd, Deft, BeryL",62.55,0.645
-Korea,LCK,2024,full year (per-game derived),Dplus Kia,65.01,0.586,59,52,111,0.5315,"Kingen, Lucid, ShowMaker, Aiming, Moham",63.97,0.576
-Korea,LCK,2024,full year (per-game derived),HANJIN BRION,55.86,0.681,16,66,82,0.1951,"Morgan, YoungJae, FATE, Samver, Pollu",58.02,0.708
-Korea,LCK,2024,full year (per-game derived),BNK FEARX,53.11,0.604,34,54,88,0.3864,"Clear, Raptor, Clozer, Hena, Duro",52.31,0.594
+Korea,LCK,2024,full year (per-game derived),Dplus Kia,52.74,0.475,59,52,111,0.5315,"Kingen, Lucid, ShowMaker, Aiming, Kellin",59.41,0.535
+Korea,LCK,2024,full year (per-game derived),BNK FEARX,23.76,0.27,34,54,88,0.3864,"Clear, Raptor, Clozer, Hena, Execute",33.53,0.381
+Korea,LCK,2024,full year (per-game derived),HANJIN BRION,20.53,0.25,16,66,82,0.1951,"Morgan, GIDEON, Karis, Envyy, Pollu",28.95,0.353
 Korea,LCK,2024,full year (per-game derived),DN SOOPers,18.74,0.208,39,51,90,0.4333,"DuDu, Cuzz, BuLLDoG, Leaper, Andil",34.8,0.387
-Korea,LCK,2024,full year (per-game derived),Nongshim RedForce,7.84,0.093,27,57,84,0.3214,"Mihile, Sylvie, Fisher, Jiwoo, vital",25.28,0.301
-Korea,LCK,2024,full year (per-game derived),DRX,0.86,0.01,21,62,83,0.253,"Rascal, Sponge, SeTab, Teddy, Pleata",27.41,0.33
-Korea,LCK,2025,full year (per-game derived),T1,106.55,0.813,82,49,131,0.626,"Doran, Oner, Faker, Peyz, Keria",86.77,0.662
-Korea,LCK,2025,full year (per-game derived),Hanwha Life Esports,89.9,0.661,85,51,136,0.625,"Zeus, Kanavi, Zeka, Gumayusi, Delight",84.78,0.623
-Korea,LCK,2025,full year (per-game derived),KT Rolster,89.41,0.758,55,63,118,0.4661,"Sero, Sylvie, Hwichan, FenRir, Effort",43.19,0.366
-Korea,LCK,2025,full year (per-game derived),DN SOOPers,80.45,0.856,23,71,94,0.2447,"Lancer, DDoiV, Flip, Enosh, Quantum",52.46,0.558
-Korea,LCK,2025,full year (per-game derived),HANJIN BRION,68.79,0.655,40,65,105,0.381,"Casting, GIDEON, Fisher, Teddy, Namgung",61.61,0.587
-Korea,LCK,2025,full year (per-game derived),BNK FEARX,52.5,0.491,47,60,107,0.4393,"Clear, Raptor, VicLa, Diable, Kellin",50.5,0.472
-Korea,LCK,2025,full year (per-game derived),Nongshim RedForce,33.06,0.264,49,76,125,0.392,"Kingen, Sponge, Scout, Taeyoon, Lehends",45.13,0.361
-Korea,LCK,2025,full year (per-game derived),Dplus Kia,3.46,0.023,83,65,148,0.5608,"Siwoo, Lucid, ShowMaker, Smash, Career",35.02,0.237
-Korea,LCK,2025,full year (per-game derived),DRX,-4.38,-0.043,40,61,101,0.396,"Rich, Willer, Ucal, Jiwoo, Andil",40.48,0.401
-Korea,LCK,2025,full year (per-game derived),Gen.G,-88.74,-0.721,90,33,123,0.7317,"Kiin, Juny, Loid, Harusary, Duro",52.84,0.43
-Korea,LCK,2026,full year (per-game derived),Gen.G,158.54,2.059,57,20,77,0.7403,"Kiin, Canyon, Chovy, Ruler, Duro",131.37,1.706
-Korea,LCK,2026,full year (per-game derived),Hanwha Life Esports,133.12,1.902,43,27,70,0.6143,"Zeus, Kanavi, Zeka, Gumayusi, Delight",106.86,1.527
-Korea,LCK,2026,full year (per-game derived),DN SOOPers,95.93,1.279,20,55,75,0.2667,"DuDu, Sharvel, Clozer, deokdam, Peter",72.54,0.967
-Korea,LCK,2026,full year (per-game derived),Dplus Kia,89.75,1.008,50,39,89,0.5618,"Siwoo, Lucid, ShowMaker, Smash, Career",70.32,0.79
-Korea,LCK,2026,full year (per-game derived),KT Rolster,70.58,0.994,39,32,71,0.5493,"PerfecT, Cuzz, Bdd, FenRir, Effort",84.77,1.194
-Korea,LCK,2026,full year (per-game derived),T1,68.26,0.898,50,26,76,0.6579,"Doran, Oner, Faker, Peyz, Keria",80.05,1.053
-Korea,LCK,2026,full year (per-game derived),BNK FEARX,64.74,0.841,35,42,77,0.4545,"Clear, Raptor, VicLa, Taeyoon, Kellin",51.66,0.671
-Korea,LCK,2026,full year (per-game derived),Kiwoom DRX,50.05,0.61,33,49,82,0.4024,"Frog, Willer, Ucal, Aiming, Andil",68.06,0.83
-Korea,LCK,2026,full year (per-game derived),Nongshim RedForce,48.24,0.689,26,44,70,0.3714,"Kingen, Sponge, Scout, Diable, Lehends",80.84,1.155
-Korea,LCK,2026,full year (per-game derived),HANJIN BRION,47.99,0.676,26,45,71,0.3662,"Casting, GIDEON, Roamer, Teddy, Namgung",58.93,0.83
-Korea,LCK CL,2023,full year (per-game derived),Dplus Kia Challengers,80.37,0.643,82,43,125,0.656,"Thanatos, Lucid, Pullbae, Rahel, Thumb",75.85,0.607
-Korea,LCK CL,2023,full year (per-game derived),DN SOOPers Challengers,79.73,0.972,23,59,82,0.2805,"IlllIma, Pressure, Cleaver, Bull, Moham",53.27,0.65
-Korea,LCK CL,2023,full year (per-game derived),Nongshim Esports Academy,70.13,0.674,64,40,104,0.6154,"Mihile, Sounda, Callme, vital, Luon",58.92,0.567
-Korea,LCK CL,2023,full year (per-game derived),T1 Esports Academy,69.45,0.694,46,54,100,0.46,"Dal, Forest, Poby, Smash, Baut",67.84,0.678
+Korea,LCK,2024,full year (per-game derived),DRX,8.56,0.103,21,62,83,0.253,"Rascal, Sponge, kyeahoo, Teddy, Pleata",24.53,0.296
+Korea,LCK,2024,full year (per-game derived),Nongshim RedForce,-2.75,-0.033,27,57,84,0.3214,"DnDn, Sylvie, Callme, Jiwoo, Peter",14.73,0.175
+Korea,LCK,2025,full year (per-game derived),Gen.G,112.16,0.927,90,31,121,0.7438,"Kiin, Canyon, Chovy, Ruler, Duro",107.24,0.886
+Korea,LCK,2025,full year (per-game derived),T1,97.43,0.847,72,43,115,0.6261,"Doran, Oner, Faker, Gumayusi, Keria",93.01,0.809
+Korea,LCK,2025,full year (per-game derived),Hanwha Life Esports,84.94,0.702,76,45,121,0.6281,"Zeus, Peanut, Zeka, Viper, Delight",88.68,0.733
+Korea,LCK,2025,full year (per-game derived),Nongshim RedForce,56.59,0.484,46,71,117,0.3932,"Kingen, GIDEON, Calix, Jiwoo, Lehends",53.73,0.459
+Korea,LCK,2025,full year (per-game derived),BNK FEARX,51.02,0.486,46,59,105,0.4381,"Clear, Raptor, VicLa, Diable, Kellin",50.94,0.485
+Korea,LCK,2025,full year (per-game derived),Dplus Kia,46.33,0.354,73,58,131,0.5573,"Siwoo, Lucid, ShowMaker, Aiming, BeryL",55.83,0.426
+Korea,LCK,2025,full year (per-game derived),DRX,42.5,0.438,38,59,97,0.3918,"Rich, Sponge, Ucal, Teddy, Andil",43.43,0.448
+Korea,LCK,2025,full year (per-game derived),HANJIN BRION,41.13,0.407,39,62,101,0.3861,"Morgan, Croco, Clozer, Hype, Pollu",45.69,0.452
+Korea,LCK,2025,full year (per-game derived),KT Rolster,39.68,0.348,54,60,114,0.4737,"PerfecT, Cuzz, Bdd, deokdam, Peter",44.27,0.388
+Korea,LCK,2025,full year (per-game derived),DN SOOPers,30.23,0.344,21,67,88,0.2386,"DuDu, Pyosik, BuLLDoG, Berserker, Life",38.08,0.433
+Korea,LCK,2026,full year (per-game derived),Gen.G,157.7,2.048,57,20,77,0.7403,"Kiin, Canyon, Chovy, Ruler, Duro",127.23,1.652
+Korea,LCK,2026,full year (per-game derived),Hanwha Life Esports,132.48,1.893,43,27,70,0.6143,"Zeus, Kanavi, Zeka, Gumayusi, Delight",107.15,1.531
+Korea,LCK,2026,full year (per-game derived),KT Rolster,119.75,1.687,39,32,71,0.5493,"PerfecT, Cuzz, Bdd, Aiming, Effort",102.89,1.449
+Korea,LCK,2026,full year (per-game derived),Dplus Kia,89.24,1.003,50,39,89,0.5618,"Siwoo, Lucid, ShowMaker, Smash, Career",75.63,0.85
+Korea,LCK,2026,full year (per-game derived),T1,68.07,0.896,50,26,76,0.6579,"Doran, Oner, Faker, Peyz, Keria",80.54,1.06
+Korea,LCK,2026,full year (per-game derived),DN SOOPers,61.27,0.817,20,55,75,0.2667,"DuDu, Pyosik, Clozer, deokdam, Peter",56.74,0.757
+Korea,LCK,2026,full year (per-game derived),BNK FEARX,50.87,0.661,35,42,77,0.4545,"Clear, Raptor, VicLa, Diable, Kellin",56.38,0.732
+Korea,LCK,2026,full year (per-game derived),Kiwoom DRX,48.54,0.592,33,49,82,0.4024,"Rich, Willer, Ucal, LazyFeel, Andil",56.0,0.683
+Korea,LCK,2026,full year (per-game derived),HANJIN BRION,47.78,0.673,26,45,71,0.3662,"Casting, GIDEON, Roamer, Teddy, Namgung",57.24,0.806
+Korea,LCK,2026,full year (per-game derived),Nongshim RedForce,36.83,0.526,26,44,70,0.3714,"Kingen, Sponge, Scout, Taeyoon, Lehends",60.89,0.87
+Korea,LCK CL,2023,full year (per-game derived),Dplus Kia Challengers,85.16,0.681,82,43,125,0.656,"Thanatos, Lucid, Pullbae, Rahel, Loopy",77.41,0.619
+Korea,LCK CL,2023,full year (per-game derived),T1 Esports Academy,73.57,0.736,46,54,100,0.46,"Dal, Forest, Bay, Smash, Baut",66.72,0.667
 Korea,LCK CL,2023,full year (per-game derived),KT Rolster Challengers,59.33,0.599,58,41,99,0.5859,"PerfecT, HamBak, Feisty, Hype, Way",55.24,0.558
-Korea,LCK CL,2023,full year (per-game derived),DRX Challengers,59.32,0.525,70,43,113,0.6195,"Frog, Sponge, SeTab, deokdam, Pleata",51.59,0.457
 Korea,LCK CL,2023,full year (per-game derived),Hanwha Life Esports Challengers,52.26,0.507,60,43,103,0.5825,"Rooster, Guwon, Roamer, Lure, Duro",50.23,0.488
+Korea,LCK CL,2023,full year (per-game derived),Nongshim Esports Academy,49.4,0.475,64,40,104,0.6154,"Mihile, Sounda, Callme, Jiwoo, Luon",46.86,0.451
+Korea,LCK CL,2023,full year (per-game derived),DRX Challengers,48.28,0.427,70,43,113,0.6195,"Clear, Sponge, SeTab, Pleata, Piero",47.44,0.42
+Korea,LCK CL,2023,full year (per-game derived),Gen.G Global Academy,48.15,0.535,34,56,90,0.3778,"Zest, Winner, Quid, Pdx, Lospa",40.02,0.445
+Korea,LCK CL,2023,full year (per-game derived),DN SOOPers Challengers,42.7,0.521,23,59,82,0.2805,"IlllIma, Courage, Cleaver, Bull, Andil",40.6,0.495
 Korea,LCK CL,2023,full year (per-game derived),Liiv SANDBOX Youth,29.16,0.339,28,58,86,0.3256,"DDahyuk, Vincenzo, Guti, Diable, PlanB",32.71,0.38
-Korea,LCK CL,2023,full year (per-game derived),HANJIN BRION Challengers,-0.17,-0.002,27,55,82,0.3293,"Kangin, DDoiV, Ivory, Enosh, Pollu",24.01,0.293
-Korea,LCK CL,2023,full year (per-game derived),Gen.G Global Academy,-12.63,-0.14,34,56,90,0.3778,"Zest, Winner, Ophelia, Pdx, Lospa",4.17,0.046
-Korea,LCK CL,2024,full year (per-game derived),BNK FEARX Youth,119.36,1.218,47,51,98,0.4796,"Soboro, Willer, Daystar, Diable, Execute",93.03,0.949
-Korea,LCK CL,2024,full year (per-game derived),HANJIN BRION Challengers,101.12,1.087,40,53,93,0.4301,"Kangin, DDoiV, Karis, Enosh, Effort",66.72,0.717
-Korea,LCK CL,2024,full year (per-game derived),DN SOOPers Challengers,94.5,0.909,49,55,104,0.4712,"Lancer, Courage, Pungyeon, Bull, Quantum",81.79,0.786
+Korea,LCK CL,2023,full year (per-game derived),HANJIN BRION Challengers,20.66,0.252,27,55,82,0.3293,"Frim, Raptor, Ivory, Enosh, Pollu",28.64,0.349
+Korea,LCK CL,2024,full year (per-game derived),BNK FEARX Youth,133.12,1.358,47,51,98,0.4796,"Soboro, Willer, Daystar, Diable, Duro",101.87,1.039
+Korea,LCK CL,2024,full year (per-game derived),DN SOOPers Challengers,100.65,0.968,49,55,104,0.4712,"Lancer, Courage, Pungyeon, Taeyoon, Quantum",87.67,0.843
 Korea,LCK CL,2024,full year (per-game derived),Gen.G Global Academy,81.53,0.916,25,64,89,0.2809,"HorangE, Toye, Starlit, Slayer, Namgung",71.59,0.804
+Korea,LCK CL,2024,full year (per-game derived),Nongshim Esports Academy,74.53,0.731,50,52,102,0.4902,"Mihile, Sounda, Calix, vital, Luon",71.21,0.698
 Korea,LCK CL,2024,full year (per-game derived),Hanwha Life Esports Challengers,60.01,0.566,56,50,106,0.5283,"Rooster, Grizzly, Loki, Lure, Baut",55.82,0.527
 Korea,LCK CL,2024,full year (per-game derived),KT Rolster Challengers,52.91,0.448,83,35,118,0.7034,"Casting, HamBak, Zinie, Hype, Way",48.43,0.41
-Korea,LCK CL,2024,full year (per-game derived),Nongshim Esports Academy,44.23,0.434,50,52,102,0.4902,"DnDn, Carim, Callme, Lucy, GuGer",48.37,0.474
-Korea,LCK CL,2024,full year (per-game derived),DRX Challengers,42.76,0.491,36,51,87,0.4138,"Frog, Zephyr, kyeahoo, Paduck, Berr",40.16,0.462
-Korea,LCK CL,2024,full year (per-game derived),T1 Esports Academy,32.71,0.315,46,58,104,0.4423,"Dal, Guwon, Poby, Smash, Rekkles",32.0,0.308
-Korea,LCK CL,2024,full year (per-game derived),Dplus Kia Challengers,19.38,0.16,79,42,121,0.6529,"Siwoo, Sharvel, Saint, Wayne, Bible",39.43,0.326
-Korea,LCK CL,2025,full year (per-game derived),T1 Esports Academy,108.94,0.865,73,53,126,0.5794,"Haetae, Vincenzo, Guti, Smash, Cloud",98.68,0.783
-Korea,LCK CL,2025,full year (per-game derived),Hanwha Life Esports Challengers,77.07,0.795,43,54,97,0.4433,"Kangin, Grizzly, Tempester, Pyeonsik, Bluffing",67.04,0.691
-Korea,LCK CL,2025,full year (per-game derived),BNK FEARX Youth,68.24,0.505,71,64,135,0.5259,"Soboro, Willer, Daystar, Enosh, Career",71.69,0.531
-Korea,LCK CL,2025,full year (per-game derived),Nongshim Esports Academy,64.71,0.647,45,55,100,0.45,"Burdol, Sylvie, Fisher, Trigger, Crack",54.07,0.541
-Korea,LCK CL,2025,full year (per-game derived),Gen.G Global Academy,58.94,0.517,48,66,114,0.4211,"Hanbyeol, Winner, Kemish, About, Namgung",61.83,0.542
-Korea,LCK CL,2025,full year (per-game derived),DRX Challengers,57.09,0.524,60,49,109,0.5505,"Frog, Juhan, Ucal, LazyFeel, Pleata",52.87,0.485
-Korea,LCK CL,2025,full year (per-game derived),DN SOOPers Challengers,56.93,0.474,62,58,120,0.5167,"Lancer, DDoiV, Pungyeon, Slayer, Quantum",63.12,0.526
-Korea,LCK CL,2025,full year (per-game derived),HANJIN BRION Challengers,30.85,0.347,29,60,89,0.3258,"DDahyuk, Ellim, Starlit, Leo, Kice",39.15,0.44
-Korea,LCK CL,2025,full year (per-game derived),KT Rolster Challengers,25.63,0.233,78,32,110,0.7091,"Casting, YoungJae, Zinie, Paduck, Way",34.88,0.317
-Korea,LCK CL,2025,full year (per-game derived),Dplus Kia Challengers,23.94,0.285,33,51,84,0.3929,"Jaehyuk, Sharvel, Garden, Wayne, Berr",24.78,0.295
-Korea,LCK CL,2026,full year (per-game derived),BNK FEARX Youth,127.76,1.703,34,41,75,0.4533,"Kangin, Grizzly, MG, Slayer, Luon",84.63,1.128
-Korea,LCK CL,2026,full year (per-game derived),Nongshim Esports Academy,115.78,1.378,50,34,84,0.5952,"Janus, MihawK, SeTab, Lucy, Pleata",95.23,1.134
-Korea,LCK CL,2026,full year (per-game derived),T1 Esports Academy,114.35,1.314,56,31,87,0.6437,"Haetae, Painter, Guti, Cypher, Cloud",89.84,1.033
-Korea,LCK CL,2026,full year (per-game derived),DN SOOPers Challengers,91.47,1.236,42,32,74,0.5676,"Lancer, DDoiV, Flip, Enosh, Quantum",71.97,0.973
-Korea,LCK CL,2026,full year (per-game derived),Kiwoom DRX Challengers,77.24,0.898,47,39,86,0.5465,"Rich, Winner, AKaJe, LazyFeel, Minous",35.46,0.412
-Korea,LCK CL,2026,full year (per-game derived),Gen.G Global Academy,51.55,0.831,12,50,62,0.1935,"Ripple, Courage, Kemish, MUDAI, Lumos",47.04,0.759
-Korea,LCK CL,2026,full year (per-game derived),Dplus Kia Challengers,48.93,0.72,40,28,68,0.5882,"Jaehyuk, Solid, Garden, Wayne, Loopy",31.85,0.468
-Korea,LCK CL,2026,full year (per-game derived),KT Rolster Challengers,37.13,0.476,45,33,78,0.5769,"Sero, Sylvie, Hwichan, Ghost, Pollu",61.2,0.785
-Korea,LCK CL,2026,full year (per-game derived),Hanwha Life Esports Challengers,21.17,0.282,29,46,75,0.3867,"Panther, Jackal, Cracker, Pyeonsik, Bluffing",32.37,0.432
-Korea,LCK CL,2026,full year (per-game derived),HANJIN BRION Challengers,-0.55,-0.008,23,44,67,0.3433,"DDahyuk, Dinai, Tempester, OddEye, PlanB",15.89,0.237
+Korea,LCK CL,2024,full year (per-game derived),HANJIN BRION Challengers,46.2,0.497,40,53,93,0.4301,"Kangin, DDoiV, Ivory, Enosh, Effort",44.84,0.482
+Korea,LCK CL,2024,full year (per-game derived),Dplus Kia Challengers,37.3,0.308,79,42,121,0.6529,"Siwoo, Sharvel, Saint, Wayne, Loopy",43.83,0.362
+Korea,LCK CL,2024,full year (per-game derived),T1 Esports Academy,32.71,0.315,46,58,104,0.4423,"Dal, Guwon, Poby, Smash, Rekkles",37.61,0.362
+Korea,LCK CL,2024,full year (per-game derived),DRX Challengers,30.73,0.353,36,51,87,0.4138,"Frog, Kania, SeTab, Paduck, Career",37.04,0.426
+Korea,LCK CL,2025,full year (per-game derived),T1 Esports Academy,133.24,1.057,73,53,126,0.5794,"Haetae, Vincenzo, Poby, Smash, Cloud",100.51,0.798
+Korea,LCK CL,2025,full year (per-game derived),Hanwha Life Esports Challengers,76.6,0.79,43,54,97,0.4433,"Rooster, Grizzly, Tempester, Pyeonsik, Bluffing",71.23,0.734
+Korea,LCK CL,2025,full year (per-game derived),BNK FEARX Youth,63.67,0.472,71,64,135,0.5259,"Soboro, Willer, Daystar, Envyy, Career",67.48,0.5
+Korea,LCK CL,2025,full year (per-game derived),Gen.G Global Academy,58.82,0.516,48,66,114,0.4211,"Hanbyeol, Winner, Kemish, About, Namgung",61.73,0.541
+Korea,LCK CL,2025,full year (per-game derived),DN SOOPers Challengers,56.73,0.473,62,58,120,0.5167,"Lancer, DDoiV, Pungyeon, Slayer, Quantum",62.98,0.525
+Korea,LCK CL,2025,full year (per-game derived),Nongshim Esports Academy,56.58,0.566,45,55,100,0.45,"Kangin, Sylvie, Fisher, vital, Crack",55.88,0.559
+Korea,LCK CL,2025,full year (per-game derived),DRX Challengers,50.9,0.467,60,49,109,0.5505,"Frog, Juhan, kyeahoo, LazyFeel, Pleata",49.54,0.454
+Korea,LCK CL,2025,full year (per-game derived),HANJIN BRION Challengers,27.99,0.314,29,60,89,0.3258,"DDahyuk, Ellim, Starlit, Bull, Kice",36.95,0.415
+Korea,LCK CL,2025,full year (per-game derived),KT Rolster Challengers,25.51,0.232,78,32,110,0.7091,"Casting, YoungJae, Zinie, Paduck, Way",34.79,0.316
+Korea,LCK CL,2025,full year (per-game derived),Dplus Kia Challengers,23.68,0.282,33,51,84,0.3929,"Jaehyuk, Sharvel, Garden, Wayne, Berr",24.59,0.293
+Korea,LCK CL,2026,full year (per-game derived),Nongshim Esports Academy,115.65,1.377,50,34,84,0.5952,"Janus, MihawK, SeTab, Lucy, Pleata",95.08,1.132
+Korea,LCK CL,2026,full year (per-game derived),T1 Esports Academy,113.82,1.308,56,31,87,0.6437,"Haetae, Painter, Guti, Cypher, Cloud",89.49,1.029
+Korea,LCK CL,2026,full year (per-game derived),DN SOOPers Challengers,91.26,1.233,42,32,74,0.5676,"Lancer, DDoiV, Flip, Enosh, Quantum",68.5,0.926
+Korea,LCK CL,2026,full year (per-game derived),BNK FEARX Youth,66.02,0.88,34,41,75,0.4533,"Kangin, Zephyr, FIESTA, Slayer, Luon",68.87,0.918
+Korea,LCK CL,2026,full year (per-game derived),KT Rolster Challengers,55.08,0.706,45,33,78,0.5769,"Sero, Sylvie, Hwichan, FenRir, Pollu",59.21,0.759
+Korea,LCK CL,2026,full year (per-game derived),Gen.G Global Academy,51.66,0.833,12,50,62,0.1935,"Ripple, Courage, Kemish, MUDAI, Lumos",46.98,0.758
+Korea,LCK CL,2026,full year (per-game derived),Dplus Kia Challengers,44.62,0.656,40,28,68,0.5882,"Jaehyuk, Sharvel, Garden, Wayne, Loopy",40.89,0.601
+Korea,LCK CL,2026,full year (per-game derived),Hanwha Life Esports Challengers,21.67,0.289,29,46,75,0.3867,"Panther, Jackal, Cracker, Pyeonsik, Bluffing",32.65,0.435
+Korea,LCK CL,2026,full year (per-game derived),HANJIN BRION Challengers,-0.62,-0.009,23,44,67,0.3433,"DDahyuk, Dinai, Tempester, OddEye, PlanB",15.76,0.235
+Korea,LCK CL,2026,full year (per-game derived),Kiwoom DRX Challengers,-4.74,-0.055,47,39,86,0.5465,"Frog, Winner, AKaJe, LazyFeel, Minous",1.66,0.019
 Europe,LEC,2023,full year (per-game derived),G2 Esports,103.03,1.356,56,20,76,0.7368,"BrokenBlade, Yike, Caps, Hans Sama, Mikyx",89.83,1.182
-Europe,LEC,2023,full year (per-game derived),Team Vitality,90.46,2.01,21,24,45,0.4667,"Photon, Daglas, Perkz, Upset, Kaiser",69.18,1.537
 Europe,LEC,2023,full year (per-game derived),Astralis,83.26,1.982,17,25,42,0.4048,"Finn, 113, LIDER, Kobbe, Execute",70.7,1.683
-Europe,LEC,2023,full year (per-game derived),Team Heretics,77.99,1.772,19,25,44,0.4318,"Evi, Jankos, Vetheo, Flakked, Mersa",69.26,1.574
+Europe,LEC,2023,full year (per-game derived),Fnatic,62.22,0.943,34,32,66,0.5152,"Oscarinin, Razork, Humanoid, Noah, Trymbi",63.34,0.96
 Europe,LEC,2023,full year (per-game derived),SK Gaming,60.73,1.168,23,29,52,0.4423,"Irrelevant, Markoon, Sertuss, 3XA, Doss",59.72,1.148
+Europe,LEC,2023,full year (per-game derived),Team Vitality,57.49,1.278,21,24,45,0.4667,"Photon, Bo, Perkz, Upset, Kaiser",57.84,1.285
 Europe,LEC,2023,full year (per-game derived),Team BDS,52.03,0.813,35,29,64,0.5469,"Adam, Sheo, nuc, Crownie, Labrov",54.1,0.845
-Europe,LEC,2023,full year (per-game derived),Fnatic,49.6,0.752,34,32,66,0.5152,"Wunder, Razork, Humanoid, Noah, Trymbi",59.42,0.9
-Europe,LEC,2023,full year (per-game derived),MAD Lions KOI,48.68,0.58,43,41,84,0.5119,"Chasy, Elyoya, Nisqy, Carzzy, Hylissang",51.24,0.61
-Europe,LEC,2023,full year (per-game derived),KOI,42.9,0.841,21,30,51,0.4118,"Szygenda, Malrang, Larssen, Comp, Advienne",48.42,0.949
+Europe,LEC,2023,full year (per-game derived),Team Heretics,49.54,1.126,19,25,44,0.4318,"Evi, Jankos, Ruby, Jackspektra, Mersa",57.06,1.297
+Europe,LEC,2023,full year (per-game derived),MAD Lions KOI,48.69,0.58,43,41,84,0.5119,"Chasy, Elyoya, Nisqy, Carzzy, Hylissang",51.25,0.61
+Europe,LEC,2023,full year (per-game derived),KOI,37.7,0.739,21,30,51,0.4118,"Szygenda, Malrang, Larssen, Comp, Trymbi",45.79,0.898
 Europe,LEC,2023,full year (per-game derived),Excel Esports,1.47,0.028,19,33,52,0.3654,"Odoamne, Peach, Abbedagge, Patrik, LIMIT",24.29,0.467
-Europe,LEC,2024,full year (per-game derived),Fnatic,115.05,1.354,49,36,85,0.5765,"Oscarinin, Razork, Humanoid, Noah, Jun",95.41,1.122
+Europe,LEC,2024,full year (per-game derived),Fnatic,115.06,1.354,49,36,85,0.5765,"Oscarinin, Razork, Humanoid, Noah, Jun",95.42,1.123
 Europe,LEC,2024,full year (per-game derived),G2 Esports,100.13,1.138,66,22,88,0.75,"BrokenBlade, Yike, Caps, Hans Sama, Mikyx",88.72,1.008
-Europe,LEC,2024,full year (per-game derived),Team BDS,67.92,0.839,46,35,81,0.5679,"Adam, Sheo, nuc, Ice, Labrov",58.31,0.72
+Europe,LEC,2024,full year (per-game derived),Team BDS,67.93,0.839,46,35,81,0.5679,"Adam, Sheo, nuc, Ice, Labrov",58.31,0.72
 Europe,LEC,2024,full year (per-game derived),MAD Lions KOI,58.2,0.776,33,42,75,0.44,"Myrwn, Elyoya, Fresskowy, Supa, Alvaro",62.1,0.828
-Europe,LEC,2024,full year (per-game derived),SK Gaming,57.34,1.103,25,27,52,0.4808,"Irrelevant, ISMA, Nisqy, Rahel, Luon",61.39,1.181
+Europe,LEC,2024,full year (per-game derived),GiantX,46.66,0.972,16,32,48,0.3333,"Odoamne, Peach, Jackies, Patrik, IgNar",43.75,0.911
+Europe,LEC,2024,full year (per-game derived),SK Gaming,30.97,0.596,25,27,52,0.4808,"Irrelevant, ISMA, Nisqy, 3XA, Doss",52.77,1.015
 Europe,LEC,2024,full year (per-game derived),Karmine Corp,16.59,0.425,14,25,39,0.359,"Canna, Closer, Vladi, Upset, Targamas",32.25,0.827
-Europe,LEC,2024,full year (per-game derived),Team Vitality,2.28,0.05,20,26,46,0.4348,"Photon, Lyncas, Vetheo, Carzzy, Hylissang",28.9,0.628
+Europe,LEC,2024,full year (per-game derived),Team Vitality,15.92,0.346,20,26,46,0.4348,"Photon, Daglas, Vetheo, Carzzy, Hylissang",34.16,0.743
 Europe,LEC,2024,full year (per-game derived),Rogue,-7.44,-0.257,7,22,29,0.2414,"Finn, Markoon, Larssen, Comp, Zoelys",29.14,1.005
-Europe,LEC,2024,full year (per-game derived),GiantX,-13.98,-0.291,16,32,48,0.3333,"Th3Antonio, Juhan, Jackies, Patrik, IgNar",23.72,0.494
 Europe,LEC,2024,full year (per-game derived),Team Heretics,-27.91,-0.62,18,27,45,0.4,"Wunder, Jankos, Zwyroo, Flakked, Trymbi",10.18,0.226
-Europe,LEC,2025,full year (per-game derived),Movistar KOI,126.06,1.519,47,36,83,0.5663,"Myrwn, Elyoya, Jojopyun, Supa, Alvaro",98.98,1.193
-Europe,LEC,2025,full year (per-game derived),Fnatic,113.16,1.414,50,30,80,0.625,"Oscarinin, Razork, Poby, Upset, Mikyx",87.77,1.097
-Europe,LEC,2025,full year (per-game derived),G2 Esports,104.08,1.426,50,23,73,0.6849,"BrokenBlade, SkewMond, Caps, Hans Sama, Labrov",84.1,1.152
-Europe,LEC,2025,full year (per-game derived),Team Vitality,62.91,1.258,21,29,50,0.42,"Naak Nako, Lyncas, Czajek, Carzzy, Fleshy",44.18,0.884
-Europe,LEC,2025,full year (per-game derived),Karmine Corp,52.47,0.617,53,32,85,0.6235,"Canna, Yike, Vladi, Caliste, Targamas",60.34,0.71
-Europe,LEC,2025,full year (per-game derived),Team BDS,46.57,0.931,18,32,50,0.36,"Rooster, Boukada, nuc, Ice, Parus",46.53,0.931
-Europe,LEC,2025,full year (per-game derived),GiantX,19.57,0.356,25,30,55,0.4545,"Lot, ISMA, Jackies, Noah, Jun",41.15,0.748
-Europe,LEC,2025,full year (per-game derived),Rogue,-18.37,-0.633,6,23,29,0.2069,"Adam, Trick, Larssen, Patrik, Malrang",28.31,0.976
-Europe,LEC,2025,full year (per-game derived),Team Heretics,-26.81,-0.496,20,34,54,0.3704,"Carlsen, Sheo, Kamiloo, Flakked, Stend",5.53,0.102
-Europe,LEC,2025,full year (per-game derived),SK Gaming,-37.22,-1.006,8,29,37,0.2162,"DnDn, Skeanz, Abbedagge, Keduii, Loopy",16.82,0.455
-Europe,LEC,2026,full year (per-game derived),Fnatic,107.84,2.765,14,25,39,0.359,"Soboro, Razork, Vladi, Upset, Lospa",73.54,1.886
-Europe,LEC,2026,full year (per-game derived),G2 Esports,93.13,1.411,46,20,66,0.697,"BrokenBlade, SkewMond, Caps, Hans Sama, Labrov",86.27,1.307
-Europe,LEC,2026,full year (per-game derived),GiantX,86.04,1.687,24,27,51,0.4706,"Oscarinin, ISMA, Jackies, Flakked, Jun",56.16,1.101
-Europe,LEC,2026,full year (per-game derived),Movistar KOI,76.3,1.106,37,32,69,0.5362,"Myrwn, Elyoya, Jojopyun, Supa, Alvaro",82.97,1.202
-Europe,LEC,2026,full year (per-game derived),Natus Vincere,72.82,1.549,23,24,47,0.4894,"Maynter, Rhilech, Poby, SamD, Parus",71.92,1.53
-Europe,LEC,2026,full year (per-game derived),Shifters,67.45,1.874,11,25,36,0.3056,"Rooster, Sheo, nuc, Paduck, Stend",56.2,1.561
-Europe,LEC,2026,full year (per-game derived),Karmine Corp,62.74,0.765,55,27,82,0.6707,"Canna, Yike, kyeahoo, Caliste, Busio",63.18,0.77
-Europe,LEC,2026,full year (per-game derived),Team Vitality,56.15,1.021,29,26,55,0.5273,"Naak Nako, Lyncas, FIESTA, Carzzy, Fleshy",56.49,1.027
-Europe,LEC,2026,full year (per-game derived),SK Gaming,39.83,1.138,11,24,35,0.3143,"Wunder, Skeanz, SlowQ, Jopa, Mikyx",56.54,1.615
-Europe,LEC,2026,full year (per-game derived),Team Heretics,11.15,0.293,9,29,38,0.2368,"Tracyn, Daglas, Serin, Hype, Way",50.21,1.321
+Europe,LEC,2025,full year (per-game derived),Movistar KOI,126.16,1.52,47,36,83,0.5663,"Myrwn, Elyoya, Jojopyun, Supa, Alvaro",99.04,1.193
+Europe,LEC,2025,full year (per-game derived),G2 Esports,104.12,1.426,50,23,73,0.6849,"BrokenBlade, SkewMond, Caps, Hans Sama, Labrov",84.12,1.152
+Europe,LEC,2025,full year (per-game derived),Fnatic,100.18,1.252,50,30,80,0.625,"Oscarinin, Razork, Humanoid, Upset, Mikyx",88.78,1.11
+Europe,LEC,2025,full year (per-game derived),Karmine Corp,52.45,0.617,53,32,85,0.6235,"Canna, Yike, Vladi, Caliste, Targamas",60.33,0.71
+Europe,LEC,2025,full year (per-game derived),Team BDS,38.72,0.774,18,32,50,0.36,"Irrelevant, 113, nuc, Ice, Parus",47.63,0.953
+Europe,LEC,2025,full year (per-game derived),GiantX,19.51,0.355,25,30,55,0.4545,"Lot, ISMA, Jackies, Noah, Jun",41.12,0.748
+Europe,LEC,2025,full year (per-game derived),Team Vitality,19.03,0.381,21,29,50,0.42,"Naak Nako, Lyncas, Czajek, Carzzy, Nisqy",24.8,0.496
+Europe,LEC,2025,full year (per-game derived),Rogue,7.88,0.272,6,23,29,0.2069,"Adam, Malrang, Larssen, Patrik, Execute",22.6,0.779
+Europe,LEC,2025,full year (per-game derived),Team Heretics,-26.9,-0.498,20,34,54,0.3704,"Carlsen, Sheo, Kamiloo, Flakked, Stend",5.47,0.101
+Europe,LEC,2025,full year (per-game derived),SK Gaming,-35.15,-0.95,8,29,37,0.2162,"JNX, Boukada, RKR, Keduii, Loopy",7.31,0.198
+Europe,LEC,2026,full year (per-game derived),G2 Esports,92.96,1.408,46,20,66,0.697,"BrokenBlade, SkewMond, Caps, Hans Sama, Labrov",86.18,1.306
+Europe,LEC,2026,full year (per-game derived),Movistar KOI,76.2,1.104,37,32,69,0.5362,"Myrwn, Elyoya, Jojopyun, Supa, Alvaro",82.92,1.202
+Europe,LEC,2026,full year (per-game derived),Natus Vincere,72.76,1.548,23,24,47,0.4894,"Maynter, Rhilech, Poby, SamD, Parus",71.84,1.529
+Europe,LEC,2026,full year (per-game derived),Team Vitality,67.24,1.223,29,26,55,0.5273,"Naak Nako, Lyncas, Humanoid, Carzzy, Fleshy",63.57,1.156
+Europe,LEC,2026,full year (per-game derived),Karmine Corp,62.65,0.764,55,27,82,0.6707,"Canna, Yike, kyeahoo, Caliste, Busio",63.11,0.77
+Europe,LEC,2026,full year (per-game derived),SK Gaming,53.85,1.539,11,24,35,0.3143,"Wunder, Skeanz, LIDER, Jopa, Mikyx",50.19,1.434
+Europe,LEC,2026,full year (per-game derived),GiantX,44.01,0.863,24,27,51,0.4706,"Lot, ISMA, Jackies, Noah, Jun",48.2,0.945
+Europe,LEC,2026,full year (per-game derived),Fnatic,23.63,0.606,14,25,39,0.359,"Empyros, Razork, Vladi, Upset, Lospa",53.34,1.368
+Europe,LEC,2026,full year (per-game derived),Shifters,7.98,0.222,11,25,36,0.3056,"Rooster, Boukada, nuc, Paduck, Trymbi",29.8,0.828
+Europe,LEC,2026,full year (per-game derived),Team Heretics,-2.86,-0.075,9,29,38,0.2368,"Tracyn, Sheo, Serin, Ice, Way",52.46,1.381
 Europe,LES,2023,full year (per-game derived),Movistar KOI,132.05,2.165,40,21,61,0.6557,"Marky, ISMA, Fresskowy, Supa, Alvaro",103.07,1.69
 Europe,PRM,2023,full year (per-game derived),SK Gaming Prime,129.94,2.406,39,15,54,0.7222,"JNX, Lurox, FEBIVEN, Keduii, Prime",103.64,1.919
-Europe,PRM,2023,full year (per-game derived),Eintracht Spandau,125.63,2.731,27,19,46,0.587,"Pride, Zanzarah, Special, Smiley, Lilipp",98.38,2.139
-Europe,LFL,2023,full year (per-game derived),Karmine Corp,95.13,2.212,27,16,43,0.6279,"Cabochard, Cinkrof, SAKEN, Caliste, Targamas",60.87,1.416
+Europe,PRM,2023,full year (per-game derived),Eintracht Spandau,125.63,2.731,27,19,46,0.587,"Pride, Zanzarah, Special, Smiley, Lilipp",98.37,2.138
+Europe,LFL,2023,full year (per-game derived),Karmine Corp,95.14,2.213,27,16,43,0.6279,"Cabochard, Cinkrof, SAKEN, Caliste, Targamas",60.87,1.416
 Europe,LFL,2023,full year (per-game derived),Team GO,86.3,1.37,38,25,63,0.6032,"Ragner, Lyncas, Toucouille, Jezu, kamilius",67.85,1.077
-Europe,LES,2023,full year (per-game derived),BISONS ECLUB,85.54,1.86,26,20,46,0.5652,"Myrwn, NoName, Random, Legolas, Oscure",45.02,0.979
+Europe,LES,2023,full year (per-game derived),BISONS ECLUB,85.54,1.86,26,20,46,0.5652,"Myrwn, NoName, Random, Legolas, Oscure",69.52,1.511
+Europe,LES,2023,full year (per-game derived),Fnatic TQ,81.32,1.936,20,22,42,0.4762,"Doxy, Rabble, Nafkelah, BEAN, Kadir",65.15,1.551
+Europe,LFL,2023,full year (per-game derived),Vitality.Bee,77.88,1.77,22,22,44,0.5,"PatkicaA, Daglas, Czajek, Neon, JACTROLL",56.17,1.277
 Europe,LFL,2023,full year (per-game derived),BK ROG Esports,71.61,1.524,25,22,47,0.5319,"Howling, Pridestalkr, Czekolad, Trigger, Veignorem",55.31,1.177
 Europe,PRM,2023,full year (per-game derived),Unicorns of Love Sexy Edition,71.24,1.207,43,16,59,0.7288,"Venour, CaD, Mask, Fun K3y, Lekcyc",70.95,1.203
-Europe,PRM,2023,full year (per-game derived),NNO Prime,68.46,1.755,9,30,39,0.2308,"Flamer, Agurin, Matislaw, Notiko, Lamabear",47.84,1.227
-Europe,LES,2023,full year (per-game derived),Los Heretics,63.44,1.322,29,19,48,0.6042,"iBo, bluerzor, Zwyroo, Jackspektra, marlon",51.92,1.082
-Europe,LES,2023,full year (per-game derived),Finetwork KOI,62.24,1.297,21,27,48,0.4375,"Sinmivak, Koldo, Baca, Jopa, Stend",54.23,1.13
-Europe,LFL,2023,full year (per-game derived),Vitality.Bee,61.35,1.394,22,22,44,0.5,"Scarface, Daglas, Czajek, Neon, JACTROLL",51.26,1.165
+Europe,LES,2023,full year (per-game derived),Guasones,63.89,1.775,6,30,36,0.1667,"Dreedy, Akre, Hydra, zamulek, DuaLL",46.82,1.301
+Europe,LES,2023,full year (per-game derived),Finetwork KOI,62.25,1.297,21,27,48,0.4375,"Sinmivak, Koldo, Baca, Jopa, Stend",54.24,1.13
 Europe,PRM,2023,full year (per-game derived),MOUZ NXT,60.1,1.252,23,25,48,0.4792,"Carlsen, Alexx, Sencux, Kynetic, Tore",59.53,1.24
-Europe,LFL,2023,full year (per-game derived),Aegis,59.33,1.262,22,25,47,0.4681,"Lot, SkewMond, Eika, Shiganari, Hantera",47.96,1.02
-Europe,LES,2023,full year (per-game derived),Rebels Gaming,59.08,1.343,24,20,44,0.5455,"R4VEN, AHaHaCiK, Dajor, BEAN, Obstinatus",53.04,1.205
-Europe,PRM,2023,full year (per-game derived),Berlin International Gaming,57.67,1.068,30,24,54,0.5556,"Vizicsacsi, Rulfchen, Kaymin, HARPOON, Leon",58.04,1.075
+Europe,LFL,2023,full year (per-game derived),Aegis,59.33,1.262,22,25,47,0.4681,"Lot, SkewMond, Eika, Shiganari, Hantera",47.97,1.021
+Europe,PRM,2023,full year (per-game derived),Berlin International Gaming,57.66,1.068,30,24,54,0.5556,"Vizicsacsi, Rulfchen, Kaymin, HARPOON, Leon",58.03,1.075
 Europe,LFL,2023,full year (per-game derived),LDLC OL,53.54,1.245,24,19,43,0.5581,"Kryze, White, Backlund, Jeskla, Zoelys",44.02,1.024
-Europe,LFL,2023,full year (per-game derived),Solary,49.01,1.167,21,21,42,0.5,"Melonik, Shlatan, Peng, TakeSet, Steeelback",41.3,0.983
-Europe,LES,2023,full year (per-game derived),Fnatic TQ,48.17,1.147,20,22,42,0.4762,"Doxy, Rabble, Valans, Nafkelah, Kadir",62.95,1.499
-Europe,LES,2023,full year (per-game derived),Giants,41.32,0.918,23,22,45,0.5111,"Th3Antonio, Xerxe, Decay, Attila, whiteinn",44.3,0.984
+Europe,LFL,2023,full year (per-game derived),Solary,49.0,1.167,21,21,42,0.5,"Melonik, Shlatan, Peng, TakeSet, Steeelback",41.3,0.983
+Europe,LES,2023,full year (per-game derived),Barça eSports,47.8,1.086,24,20,44,0.5455,"WhiteKnight, Hadess, SAJATOR, Deadly, Efias",44.91,1.021
+Europe,LES,2023,full year (per-game derived),Rebels Gaming,45.38,1.031,24,20,44,0.5455,"R4VEN, AHaHaCiK, Xico, Rayito, Obstinatus",46.34,1.053
+Europe,LES,2023,full year (per-game derived),Los Heretics,44.48,0.927,29,19,48,0.6042,"iBo, bluerzor, Zwyroo, Flakked, marlon",44.11,0.919
+Europe,LES,2023,full year (per-game derived),Giants,41.31,0.918,23,22,45,0.5111,"Th3Antonio, Xerxe, Decay, Attila, whiteinn",44.3,0.984
 Europe,PRM,2023,full year (per-game derived),FC Schalke 04 Esports,34.0,0.773,23,21,44,0.5227,"Sacre, Afroboi, Simpli, Mishi, Seal",44.3,1.007
+Europe,PRM,2023,full year (per-game derived),GamerLegion,28.71,0.756,11,27,38,0.2895,"Tracyn, Ferret, Phantomles, jinjo, Visdom",45.02,1.185
 Europe,LFL,2023,full year (per-game derived),GameWard,27.82,0.647,20,23,43,0.4651,"Badlulu, Eckas, twohoyrz, Peco, Raxxo",29.19,0.679
 Europe,LFL,2023,full year (per-game derived),Team BDS Academy,26.04,0.606,19,24,43,0.4419,"Agresivoo, MAXI, RKR, xMatty, Erdote",28.16,0.655
-Europe,LES,2023,full year (per-game derived),UCAM Esports,4.98,0.138,12,24,36,0.3333,"Papiteero, Xeonerr, Hatrixx, Rafitta, Infoneral",31.25,0.868
+Europe,PRM,2023,full year (per-game derived),NNO Prime,19.71,0.505,9,30,39,0.2308,"Flamer, Lamabear, Matislaw, Notiko, DuaLL",46.52,1.193
+Europe,PRM,2023,full year (per-game derived),Eintracht Frankfurt,6.76,0.188,10,26,36,0.2778,"Vertigo, Don Arts, ZaZee, DizL, Vaunted",31.0,0.861
 Europe,PRM,2023,full year (per-game derived),E WIE EINFACH E-SPORTS,4.34,0.121,12,24,36,0.3333,"Ventair, D4nKa, Nite, Tazaku, Max1",32.33,0.898
-Europe,LES,2023,full year (per-game derived),Barça eSports,-0.98,-0.022,24,20,44,0.5455,"WhiteKnight, Maxlore, SAJATOR, Deadly, Efias",24.87,0.565
-Europe,PRM,2023,full year (per-game derived),GamerLegion,-8.49,-0.223,11,27,38,0.2895,"Tracyn, Akabane, Phantomles, jinjo, Visdom",41.19,1.084
+Europe,LES,2023,full year (per-game derived),UCAM Esports,-12.06,-0.335,12,24,36,0.3333,"Doxy, Mart, Hatrixx, Rafitta, Infoneral",22.59,0.628
 Europe,LFL,2023,full year (per-game derived),IziDream,-12.31,-0.316,9,30,39,0.2308,"Kio, Djoko, Nomanz, Rayito, Klaj",11.7,0.3
-Europe,LES,2023,full year (per-game derived),Guasones,-18.23,-0.506,6,30,36,0.1667,"Dreedy, Memento, Ronaldo, zamulek, DuaLL",17.0,0.472
-Europe,PRM,2023,full year (per-game derived),Eintracht Frankfurt,-23.79,-0.661,10,26,36,0.2778,"Vertigo, Don Arts, ZaZee, DizL, Xioh",28.75,0.799
-Europe,LFL,2024,full year (per-game derived),Karmine Corp Blue,122.11,2.261,38,16,54,0.7037,"Maynter, 113, Abbedagge, Caliste, Fleshy",84.24,1.56
-Europe,LES,2024,full year (per-game derived),Ramboot Club,116.98,2.437,28,20,48,0.5833,"iBo, Leb, twohoyrz, Rin, Mxe",87.34,1.82
-Europe,LES,2024,full year (per-game derived),Los Heretics,111.4,2.142,38,14,52,0.7308,"Carlsen, Xerxe, Sertuss, Jackspektra, whiteinn",81.09,1.559
+Europe,LES,2024,full year (per-game derived),Ramboot Club,116.98,2.437,28,20,48,0.5833,"iBo, Leb, twohoyrz, Rin, Mxe",87.35,1.82
+Europe,LES,2024,full year (per-game derived),Los Heretics,111.4,2.142,38,14,52,0.7308,"Carlsen, Xerxe, Sertuss, Jackspektra, whiteinn",81.08,1.559
 Europe,LES,2024,full year (per-game derived),Movistar KOI,109.21,2.374,25,21,46,0.5435,"Marky, MAXI, Random, Shy Carry, Rhuckz",78.79,1.713
-Europe,PRM,2024,full year (per-game derived),Unicorns of Love Sexy Edition,104.49,1.833,37,20,57,0.6491,"Shelfmade, Lurox, TolanD, xMatty, Piero",82.45,1.446
-Europe,PRM,2024,full year (per-game derived),SK Gaming Prime,103.01,1.981,30,22,52,0.5769,"Venour, Rabble, Diplex, Neon, Doss",80.66,1.551
+Europe,PRM,2024,full year (per-game derived),Unicorns of Love Sexy Edition,104.5,1.833,37,20,57,0.6491,"Shelfmade, Lurox, TolanD, xMatty, Piero",82.45,1.446
+Europe,LFL,2024,full year (per-game derived),Karmine Corp Blue,99.06,1.834,38,16,54,0.7037,"Maynter, Lyncas, Vladi, Caliste, Fleshy",74.05,1.371
 Europe,LFL,2024,full year (per-game derived),BK ROG Esports,89.85,1.953,25,21,46,0.5435,"Howling, Rhilech, Czekolad, SamD, Hantera",69.34,1.507
-Europe,LFL,2024,full year (per-game derived),Team BDS Academy,86.71,1.606,42,12,54,0.7778,"JNX, SkewMond, RKR, Keduii, Parus",76.94,1.425
+Europe,LFL,2024,full year (per-game derived),Team BDS Academy,86.7,1.606,42,12,54,0.7778,"JNX, SkewMond, RKR, Keduii, Parus",76.93,1.425
 Europe,LES,2024,full year (per-game derived),UCAM Esports,85.59,1.712,26,24,50,0.52,"Sinmivak, Koldo, Baca, Kenal, Obstinatus",76.68,1.534
-Europe,LFL,2024,full year (per-game derived),Team GO,85.16,1.738,23,26,49,0.4694,"Lot, Boukada, Dajor, Jezu, Prime",69.56,1.42
-Europe,LES,2024,full year (per-game derived),GIANTX iTero,71.44,1.348,27,26,53,0.5094,"R4VEN, Peach, Feisty, Aetinoth, seaz",65.08,1.228
-Europe,PRM,2024,full year (per-game derived),Berlin International Gaming,65.69,1.825,13,23,36,0.3611,"Vizicsacsi, Densi, Sencux, Jeskla, Lekcyc",76.57,2.127
-Europe,LES,2024,full year (per-game derived),Guasones,64.92,1.325,24,25,49,0.4898,"Banderas, Ryuzaki, Xico, Syzyfek, Nash",53.53,1.092
-Europe,LFL,2024,full year (per-game derived),Team du Sud,58.97,1.638,10,26,36,0.2778,"SLT, TynX, FEBIVEN, Innaxe, marlon",45.01,1.25
-Europe,LFL,2024,full year (per-game derived),Solary,56.76,1.577,16,20,36,0.4444,"Kryze, Eckas, Decay, TakeSet, Myrtus",51.79,1.439
+Europe,LFL,2024,full year (per-game derived),Team GO,85.15,1.738,23,26,49,0.4694,"Lot, Boukada, Dajor, Jezu, Prime",69.55,1.419
+Europe,PRM,2024,full year (per-game derived),SK Gaming Prime,83.18,1.6,30,22,52,0.5769,"Venour, Rabble, Diplex, Neon, LIMIT",71.89,1.382
+Europe,LES,2024,full year (per-game derived),ZETA,72.65,2.018,8,28,36,0.2222,"HeSSZero, NoName, PrettyGRE, Attila, FGG",60.1,1.669
+Europe,LES,2024,full year (per-game derived),Guasones,59.86,1.222,24,25,49,0.4898,"Spooder, Thayger, Xico, Syzyfek, Farfetch",52.76,1.077
+Europe,LES,2024,full year (per-game derived),GIANTX iTero,57.38,1.083,27,26,53,0.5094,"Th3Antonio, Peach, Feisty, Aetinoth, seaz",58.23,1.099
+Europe,PRM,2024,full year (per-game derived),Berlin International Gaming,56.1,1.558,13,23,36,0.3611,"Vizicsacsi, Densi, Sencux, ANDARIEL, Lekcyc",70.92,1.97
+Europe,LES,2024,full year (per-game derived),Rebels Gaming,53.04,1.473,9,27,36,0.25,"R4VEN, AHaHaCiK, Javier, ANDARIEL, Lekcyc",56.12,1.559
 Europe,PRM,2024,full year (per-game derived),Eintracht Spandau,52.58,0.939,35,21,56,0.625,"Vertigo, Zanzarah, PowerOfEvil, Fun K3y, Lilipp",51.47,0.919
 Europe,PRM,2024,full year (per-game derived),Eintracht Frankfurt,50.85,1.412,12,24,36,0.3333,"Agresivoo, Pabu, ZaZee, DizL, Tore",50.87,1.413
-Europe,PRM,2024,full year (per-game derived),NNO Prime,50.25,0.931,30,24,54,0.5556,"Scarface, Shlatan, Serin, Shiganari, Lucky",46.66,0.864
+Europe,PRM,2024,full year (per-game derived),NNO Prime,50.26,0.931,30,24,54,0.5556,"Scarface, Shlatan, Serin, Shiganari, Lucky",46.67,0.864
 Europe,LFL,2024,full year (per-game derived),Vitality.Bee,46.52,0.861,31,23,54,0.5741,"Naak Nako, Daglas, Czajek, Jopa, Stend",49.44,0.916
-Europe,LFL,2024,full year (per-game derived),Gentle Mates,46.1,0.981,19,28,47,0.4043,"Ragner, White, Mireu, BAO, kamilius",46.48,0.989
-Europe,PRM,2024,full year (per-game derived),FC Schalke 04 Esports,35.49,0.739,26,22,48,0.5417,"Sacre, Cboi, Simpli, Peco, Twiizt",40.5,0.844
-Europe,LES,2024,full year (per-game derived),Rebels Gaming,32.36,0.899,9,27,36,0.25,"Spooder, naau, Javier, ANDARIEL, minemaciek",46.58,1.294
-Europe,PRM,2024,full year (per-game derived),Austrian Force willhaben,32.36,0.689,27,20,47,0.5745,"Tracyn, adi1, ESCIK, Woolite, Vander",37.53,0.799
-Europe,LES,2024,full year (per-game derived),Barça eSports,29.97,0.638,22,25,47,0.4681,"WhiteKnight, Thayger, SAJATOR, Legolas, Oscure",39.21,0.834
+Europe,LFL,2024,full year (per-game derived),Solary,43.54,1.209,16,20,36,0.4444,"Kryze, Eckas, Decay, Innaxe, Myrtus",44.56,1.238
+Europe,PRM,2024,full year (per-game derived),FC Schalke 04 Esports,35.5,0.74,26,22,48,0.5417,"Sacre, Cboi, Simpli, Peco, Twiizt",40.5,0.844
+Europe,PRM,2024,full year (per-game derived),Austrian Force willhaben,33.82,0.72,27,20,47,0.5745,"Tracyn, adi1, ESCIK, Woolite, Infoneral",36.51,0.777
+Europe,LES,2024,full year (per-game derived),Barça eSports,29.97,0.638,22,25,47,0.4681,"WhiteKnight, Thayger, SAJATOR, Legolas, Oscure",39.2,0.834
 Europe,PRM,2024,full year (per-game derived),MOUZ NXT,26.16,0.727,4,32,36,0.1111,"Fornoreason, Afroboi, Kaymin, Dreilix, Nio",17.41,0.484
 Europe,PRM,2024,full year (per-game derived),E WIE EINFACH E-SPORTS,22.45,0.624,15,21,36,0.4167,"Flamer, D4nKa, Relative, Tazaku, Max1",35.08,0.974
+Europe,LFL,2024,full year (per-game derived),Team du Sud,21.4,0.594,10,26,36,0.2778,"SLT, TynX, FEBIVEN, Coldraa, HONOR",34.44,0.957
 Europe,LES,2024,full year (per-game derived),Case Esports,21.26,0.787,17,10,27,0.6296,"Badlulu, MAXI, Javier, DenVoksne, Rhuckz",38.39,1.422
-Europe,LFL,2024,full year (per-game derived),Aegis,7.86,0.218,6,30,36,0.1667,"Badlulu, Citrus, Nafkelah, BEAN, Veignorem",28.34,0.787
-Europe,LFL,2024,full year (per-game derived),GameWard,4.25,0.106,16,24,40,0.4,"Pride, Zicssi, Peng, Matias, Steeelback",24.62,0.616
-Europe,LES,2024,full year (per-game derived),ZETA,2.89,0.08,8,28,36,0.2222,"HeSSZero, NoName, PrettyGRE, Attila, Saviour",48.5,1.347
-Europe,LES,2024,full year (per-game derived),LUA Gaming,-14.98,-0.832,7,11,18,0.3889,"Sotsy, Sn1lle, Tsiperakos, Hazel, DuaLL",29.76,1.653
-Europe,PRM,2025,full year (per-game derived),Berlin International Gaming,132.48,1.948,50,18,68,0.7353,"Shelfmade, Leb, Dajor, BEAN, LIMIT",95.61,1.406
-Europe,LES,2025,full year (per-game derived),Los Heretics,123.14,1.71,46,26,72,0.6389,"Tracyn, Daglas, Mercy9, Rin, Kaiser",93.92,1.304
-Europe,LFL,2025,full year (per-game derived),Karmine Corp Blue,95.5,1.209,49,30,79,0.6203,"Maynter, Yukino, SlowQ, 3XA, Piero",85.02,1.076
-Europe,LES,2025,full year (per-game derived),GIANTX iTero,92.78,1.406,48,18,66,0.7273,"Badlulu, Ferret, Feisty, Exofeng, Lospa",75.79,1.148
-Europe,LFL,2025,full year (per-game derived),Vitality.Bee,81.69,1.167,37,33,70,0.5286,"JNX, Lurox, Vetheo, Jopa, Dekap",75.59,1.08
-Europe,LES,2025,full year (per-game derived),Ramboot Club,79.12,1.798,21,23,44,0.4773,"Thien, NoName, Baca, Syzyfek, Goliath",48.25,1.097
-Europe,LFL,2025,full year (per-game derived),Solary,79.08,1.275,30,32,62,0.4839,"Kryze, Markoon, Decay, TakeSet, Mersa",70.71,1.14
-Europe,PRM,2025,full year (per-game derived),TeamOrangeGaming,75.07,1.137,35,31,66,0.5303,"Smurfe, Cboi, Six10, Vzz, Infoneral",60.8,0.921
-Europe,LES,2025,full year (per-game derived),LUA Gaming,69.38,1.577,20,24,44,0.4545,"Marky, Sn1lle, Hydra, Shy Carry, Click",55.58,1.263
-Europe,LFL,2025,full year (per-game derived),Galions,67.59,0.98,44,25,69,0.6377,"Ragner, Xerxe, Serin, HARPOON, Zoelys",72.42,1.05
-Europe,LES,2025,full year (per-game derived),Movistar KOI Fénix,66.48,1.445,21,25,46,0.4565,"NightSlayer, Time, Fresskowy, 13, Thomas",43.36,0.943
-Europe,LES,2025,full year (per-game derived),Veni Vidi Vici,64.95,1.225,26,27,53,0.4906,"iBo, Koldo, Marty, Rayito, Nash",43.22,0.815
-Europe,PRM,2025,full year (per-game derived),Kaufland Hangry Knights,63.4,1.057,29,31,60,0.4833,"Venour, Rabble, Random, Jeskla, Visdom",61.82,1.03
-Europe,LES,2025,full year (per-game derived),UCAM Esports,58.5,1.125,26,26,52,0.5,"Sinmivak, bluerzor, ESCIK, ANDARIEL, iLEVI",45.91,0.883
-Europe,PRM,2025,full year (per-game derived),ROSSMANN Centaurs,58.01,0.806,35,37,72,0.4861,"Addusto, Xagog, RoyalKanin, Fun K3y, Wildenbruch",52.59,0.73
-Europe,PRM,2025,full year (per-game derived),Eintracht Spandau,57.94,1.486,12,27,39,0.3077,"Pride, Santorin, PowerOfEvil, Innaxe, Lilipp",65.39,1.677
-Europe,PRM,2025,full year (per-game derived),E WIE EINFACH E-SPORTS,52.14,0.802,31,34,65,0.4769,"Rocklho, Afroboi, Relative, Noz2k, Tockimo",46.17,0.71
-Europe,PRM,2025,full year (per-game derived),Dung Dynasty,50.02,2.175,13,10,23,0.5652,"Send0o, Agurin, Phantasm, Reptile, Lucky",43.85,1.907
-Europe,PRM,2025,full year (per-game derived),CGN Esports,47.27,1.688,17,11,28,0.6071,"Send0o, Typhoon, Phantasm, Reptile, Lucky",38.44,1.373
-Europe,LFL,2025,full year (per-game derived),Team BDS Academy,45.98,1.314,8,27,35,0.2286,"Papiteero, Shlatan, Toffe, Mishi, Myrtus",45.79,1.308
-Europe,LES,2025,full year (per-game derived),Barça eSports,42.44,0.551,39,38,77,0.5065,"WhiteKnight, 113, Czekolad, Legolas, whiteinn",44.05,0.572
-Europe,LES,2025,full year (per-game derived),ZETA,40.54,1.501,5,22,27,0.1852,"CPM, Nasser, Xico, Afriibi, escoX",33.9,1.256
-Europe,LFL,2025,full year (per-game derived),Joblife,36.34,0.757,17,31,48,0.3542,"Leny, RAMES, Diplex, Deadly, Twiizt",44.7,0.931
-Europe,LFL,2025,full year (per-game derived),Gentle Mates,36.12,0.516,37,33,70,0.5286,"Empyros, Zicssi, Eika, Comp, Erdote",43.49,0.621
-Europe,PRM,2025,full year (per-game derived),Eintracht Frankfurt,29.28,0.598,21,28,49,0.4286,"Sacre, Zanzarah, ZaZee, Unkn0wn5, Veignorem",33.59,0.686
-Europe,LFL,2025,full year (per-game derived),Ici Japon Corp. Esport,24.76,0.406,31,30,61,0.5082,"Howling, Theocacs, Sertuss, Pangjin, Prime",40.93,0.671
-Europe,PRM,2025,full year (per-game derived),Unicorns of Love Sexy Edition,22.12,0.41,24,30,54,0.4444,"Fornoreason, White, Simpli, DenVoksne, seaz",27.66,0.512
-Europe,PRM,2025,full year (per-game derived),Austrian Force willhaben,15.4,0.266,24,34,58,0.4138,"SwiT, denizzz, Nan0, Kenal, Aladoric",37.09,0.639
-Europe,LFL,2025,full year (per-game derived),BK ROG Esports,14.71,0.196,42,33,75,0.56,"Szygenda, XnS, OMON, Booshi, Doss",30.45,0.406
-Europe,LFL,2025,full year (per-game derived),GameWard,-27.23,-0.633,11,32,43,0.2558,"Sotsy, Stormax, Backlund, Matias, HONOR",16.01,0.372
-Europe,LES,2025,full year (per-game derived),Guasones,-62.91,-2.33,2,25,27,0.0741,"selenex, Nyx, Macaquino, Lelouch, Passzi",3.68,0.136
-Europe,LES,2026,full year (per-game derived),Movistar KOI Fénix,119.87,2.724,34,10,44,0.7727,"NightSlayer, XnS, Fresskowy, 13, Myrtus",62.45,1.419
-Europe,LFL,2026,full year (per-game derived),Joblife,112.64,3.313,15,19,34,0.4412,"Vertigo, Shift, Kofte, Ragner, Mersa",55.54,1.634
-Europe,PRM,2026,full year (per-game derived),Berlin International Gaming,101.52,1.692,41,19,60,0.6833,"Irrelevant, Habubu, Reeker, Patrik, Kaiser",82.88,1.381
-Europe,PRM,2026,full year (per-game derived),G2 NORD,98.56,1.699,40,18,58,0.6897,"Shelfmade, Markoon, Toasty, Rin, Tockimo",84.57,1.458
-Europe,LES,2026,full year (per-game derived),Team Heretics Academy,92.6,2.374,31,8,39,0.7949,"Papiteero, Lurox, Mercy9, Lure, Batuuu",55.58,1.425
-Europe,PRM,2026,full year (per-game derived),E WIE EINFACH E-SPORTS,91.21,1.689,27,27,54,0.5,"Vizicsacsi, Afroboi, Relative, Noz2k, Wildenbruch",66.84,1.238
-Europe,PRM,2026,full year (per-game derived),Kaufland Hangry Knights,91.19,2.28,16,24,40,0.4,"Boda, Densi, Abbedagge, UNF0RGIVEN, Doss",62.98,1.574
-Europe,LFL,2026,full year (per-game derived),Esprit Shōnen,88.05,3.522,6,19,25,0.24,"Archfiend, Lulas, fantomisto, Yen, Gordinho",69.15,2.766
-Europe,LES,2026,full year (per-game derived),UCAM Esports,87.69,1.993,29,15,44,0.6591,"Kozi, bluerzor, ESCIK, ANDARIEL, iLEVI",66.26,1.506
-Europe,LFL,2026,full year (per-game derived),Ici Japon Corp. Esport,87.28,3.967,7,15,22,0.3182,"Badlulu, Manaty, Dajor, Soldier, whiteinn",80.18,3.645
-Europe,LFL,2026,full year (per-game derived),French Flair,83.32,3.472,16,8,24,0.6667,"Adam, NattyNatt, SAKEN, 3XA, Targamas",77.65,3.235
-Europe,LFL,2026,full year (per-game derived),TLN Pirates,82.82,1.725,28,20,48,0.5833,"Spooder, Stefan, Toffe, Axelent, Thomas",78.55,1.636
-Europe,LFL,2026,full year (per-game derived),Vitality.Bee,82.62,2.43,13,21,34,0.3824,"Potent, Dawciu, Czajek, Yakkey, Dekap",69.76,2.052
-Europe,LFL,2026,full year (per-game derived),Solary,78.79,1.791,36,8,44,0.8182,"Kryze, Zicssi, Jool, Aetinoth, Piero",66.48,1.511
-Europe,LFL,2026,full year (per-game derived),Galions,74.19,1.302,34,23,57,0.5965,"Carlsen, Thayger, OMON, HARPOON, Zoelys",56.96,0.999
-Europe,LFL,2026,full year (per-game derived),BK ROG Esports,69.58,6.958,4,6,10,0.4,"Boda, Jeykup, Sayn, UNF0RGIVEN, Doss",68.37,6.837
-Europe,LFL,2026,full year (per-game derived),Karmine Corp Blue,59.72,2.212,15,12,27,0.5556,"Tao, Yukino, Kamiloo, Looki, Prime",56.27,2.084
-Europe,PRM,2026,full year (per-game derived),Eintracht Spandau,56.37,0.972,39,19,58,0.6724,"JNX, Xagog, PowerOfEvil, Fun K3y, seaz",60.78,1.048
-Europe,LFL,2026,full year (per-game derived),Skillcamp,53.5,1.845,12,17,29,0.4138,"Yeti, SPOOKY, Nafkelah, Exofeng, Steeelback",53.58,1.848
-Europe,PRM,2026,full year (per-game derived),TeamOrangeGaming,50.86,1.183,20,23,43,0.4651,"WhiteKnight, Woldjo, SAJATOR, Ryuk, Lilipp",58.36,1.357
-Europe,PRM,2026,full year (per-game derived),Eintracht Frankfurt,46.82,1.17,10,30,40,0.25,"Addusto, D4nKa, Sencux, Devn, Richu",56.87,1.422
-Europe,LES,2026,full year (per-game derived),Barça eSports,39.23,0.835,23,24,47,0.4894,"selenex, Koldo, Macaquinho, Legolas, Oscure",32.81,0.698
-Europe,PRM,2026,full year (per-game derived),Unicorns of Love Sexy Edition,38.99,0.736,33,20,53,0.6226,"Fornoreason, White, RoyalKanin, DenVoksne, Twiizt",39.21,0.74
-Europe,LFL,2026,full year (per-game derived),ZYB Esport,37.72,1.217,9,22,31,0.2903,"Adam, Kobs, SAKEN, Booshi, Riippp",47.24,1.524
-Europe,LES,2026,full year (per-game derived),LUA Gaming,32.21,1.074,9,21,30,0.3,"Niqkl, Pegaso, Hydra, Kaii, TIMR",32.5,1.083
-Europe,LES,2026,full year (per-game derived),GIANTX iTero,24.99,0.781,13,19,32,0.4062,"Th3Antonio, Time, Dyenn, Rayito, Attila",33.88,1.059
-Europe,PRM,2026,full year (per-game derived),ROSSMANN Centaurs,20.17,0.56,8,28,36,0.2222,"Leks, jokaa, c0st0m, Hazel, Infoneral",28.89,0.802
-Europe,LES,2026,full year (per-game derived),Falke Esports,9.86,0.34,4,25,29,0.1379,"Bobsik, Clicker, Mentos, Marcv1, Deleted",19.38,0.668
-Europe,PRM,2026,full year (per-game derived),VfB eSports,9.14,0.269,6,28,34,0.1765,"Sven, ZWICKL, Luke, Tazaku, Jakobobbi",31.97,0.94
-Europe,LES,2026,full year (per-game derived),UB Alma Mater,-14.26,-0.492,4,25,29,0.1379,"Pasameelcelo, Ivama, Midnight, adrianlaneitor, Xixauxas",12.32,0.425
-Europe,PRM,2026,full year (per-game derived),A One Man Army Prime,-14.26,-2.377,1,5,6,0.1667,"Smurfe, Dome, Artoria, Xay, Urban",44.98,7.497
-Europe,LFL,2026,full year (per-game derived),Lille Esport,-14.58,-1.325,3,8,11,0.2727,"Alan, KKT, Koussay, Vespa, Seneca",54.92,4.993
-Americas,LCS,2023,full year (per-game derived),FlyQuest,110.89,2.31,25,23,48,0.5208,"Impact, Spica, VicLa, Prince, Vulcan",80.9,1.685
-Americas,LCS,2023,full year (per-game derived),Golden Guardians,104.85,1.589,38,28,66,0.5758,"Licorice, River, Gori, Stixxay, huhi",84.11,1.274
-Americas,LCS,2023,full year (per-game derived),Team Liquid,96.96,1.672,30,28,58,0.5172,"Summit, Pyosik, APA, Yeon, CoreJJ",79.17,1.365
-Americas,LCS,2023,full year (per-game derived),Cloud9,88.86,1.506,45,14,59,0.7627,"Fudge, Blaber, EMENES, Berserker, Zven",72.34,1.226
+Europe,LFL,2024,full year (per-game derived),Gentle Mates,17.41,0.37,19,28,47,0.4043,"Ragner, White, Eika, BAO, kamilius",34.41,0.732
+Europe,LFL,2024,full year (per-game derived),GameWard,4.25,0.106,16,24,40,0.4,"Pride, Zicssi, Peng, Matias, Steeelback",24.61,0.615
+Europe,LFL,2024,full year (per-game derived),Aegis,-11.45,-0.318,6,30,36,0.1667,"Agresivoo, Citrus, Nafkelah, BEAN, Veignorem",21.64,0.601
+Europe,LES,2024,full year (per-game derived),LUA Gaming,-14.98,-0.832,7,11,18,0.3889,"Sotsy, Sn1lle, Tsiperakos, Hazel, DuaLL",29.75,1.653
+Europe,PRM,2025,full year (per-game derived),Berlin International Gaming,132.36,1.946,50,18,68,0.7353,"Shelfmade, Leb, Dajor, BEAN, LIMIT",95.57,1.405
+Europe,LES,2025,full year (per-game derived),Los Heretics,116.71,1.621,46,26,72,0.6389,"Tracyn, Daglas, SAJATOR, Rin, Kaiser",92.64,1.287
+Europe,LES,2025,full year (per-game derived),GIANTX iTero,100.89,1.529,48,18,66,0.7273,"Badlulu, Ferret, Feisty, Aetinoth, Lospa",80.23,1.216
+Europe,LFL,2025,full year (per-game derived),Karmine Corp Blue,95.43,1.208,49,30,79,0.6203,"Maynter, Yukino, SlowQ, 3XA, Piero",84.96,1.075
+Europe,LES,2025,full year (per-game derived),Movistar KOI Fénix,82.9,1.802,21,25,46,0.4565,"Spooder, Eckas, Fresskowy, UNF0RGIVEN, Thomas",58.53,1.272
+Europe,LFL,2025,full year (per-game derived),Vitality.Bee,81.59,1.166,37,33,70,0.5286,"JNX, Lurox, Vetheo, Jopa, Dekap",75.52,1.079
+Europe,LFL,2025,full year (per-game derived),Ici Japon Corp. Esport,80.85,1.325,31,30,61,0.5082,"Howling, Theocacs, Sertuss, SamD, Prime",69.47,1.139
+Europe,LFL,2025,full year (per-game derived),Solary,79.04,1.275,30,32,62,0.4839,"Kryze, Markoon, Decay, TakeSet, Mersa",70.68,1.14
+Europe,PRM,2025,full year (per-game derived),TeamOrangeGaming,75.14,1.138,35,31,66,0.5303,"Smurfe, Cboi, Six10, Vzz, Infoneral",60.89,0.923
+Europe,PRM,2025,full year (per-game derived),Austrian Force willhaben,73.72,1.271,24,34,58,0.4138,"NightSlayer, D4nKa, Nan0, Vaynedeta, HungryPanda",59.33,1.023
+Europe,LES,2025,full year (per-game derived),LUA Gaming,69.42,1.578,20,24,44,0.4545,"Marky, Sn1lle, Hydra, Shy Carry, Click",55.62,1.264
+Europe,PRM,2025,full year (per-game derived),Kaufland Hangry Knights,63.36,1.056,29,31,60,0.4833,"Venour, Rabble, Random, Jeskla, Visdom",61.84,1.031
+Europe,PRM,2025,full year (per-game derived),CGN Esports,59.29,2.118,17,11,28,0.6071,"Send0o, Agurin, Phantasm, Reptile, Lucky",47.33,1.69
+Europe,LES,2025,full year (per-game derived),Barça eSports,53.83,0.699,39,38,77,0.5065,"WhiteKnight, Thayger, Czekolad, Legolas, whiteinn",44.1,0.573
+Europe,LFL,2025,full year (per-game derived),Galions,52.35,0.759,44,25,69,0.6377,"Ragner, Xerxe, Serin, Jezu, Zoelys",70.8,1.026
+Europe,PRM,2025,full year (per-game derived),E WIE EINFACH E-SPORTS,52.19,0.803,31,34,65,0.4769,"Rocklho, Afroboi, Relative, Noz2k, Tockimo",46.24,0.711
+Europe,LES,2025,full year (per-game derived),Ramboot Club,50.86,1.156,21,23,44,0.4773,"Sotsy, MAXI, Baca, Coldraa, Pyrka",40.82,0.928
+Europe,LFL,2025,full year (per-game derived),Team BDS Academy,45.97,1.313,8,27,35,0.2286,"Papiteero, Shlatan, Toffe, Mishi, Myrtus",45.77,1.308
+Europe,PRM,2025,full year (per-game derived),Dung Dynasty,43.38,1.886,13,10,23,0.5652,"Send0o, Agurin, Phantasm, Innaxe, Efias",45.35,1.972
+Europe,PRM,2025,full year (per-game derived),Eintracht Spandau,36.85,0.945,12,27,39,0.3077,"Pride, jokaa, PowerOfEvil, Broeki, Lilipp",39.98,1.025
+Europe,LFL,2025,full year (per-game derived),Joblife,36.39,0.758,17,31,48,0.3542,"Leny, RAMES, Diplex, Deadly, Twiizt",44.71,0.931
+Europe,LFL,2025,full year (per-game derived),Gentle Mates,36.1,0.516,37,33,70,0.5286,"Empyros, Zicssi, Eika, Comp, Erdote",43.46,0.621
+Europe,LES,2025,full year (per-game derived),UCAM Esports,34.83,0.67,26,26,52,0.5,"Sinmivak, Koldo, ESCIK, ANDARIEL, iLEVI",39.51,0.76
+Europe,LFL,2025,full year (per-game derived),BK ROG Esports,31.24,0.417,42,33,75,0.56,"Szygenda, Rhilech, OMON, Booshi, Doss",42.19,0.563
+Europe,PRM,2025,full year (per-game derived),ROSSMANN Centaurs,28.81,0.4,35,37,72,0.4861,"Nice Guy Ben, Xagog, RoyalKanin, Syzyfek, Wildenbruch",35.33,0.491
+Europe,PRM,2025,full year (per-game derived),Unicorns of Love Sexy Edition,22.16,0.41,24,30,54,0.4444,"Fornoreason, White, Simpli, DenVoksne, seaz",27.72,0.513
+Europe,PRM,2025,full year (per-game derived),Eintracht Frankfurt,1.27,0.026,21,28,49,0.4286,"Sacre, Techoteco, ZaZee, Varry, Veignorem",21.42,0.437
+Europe,LES,2025,full year (per-game derived),Veni Vidi Vici,-2.84,-0.054,26,27,53,0.4906,"CPM, Time, Miniduke, Rayito, Thomas",15.05,0.284
+Europe,LES,2025,full year (per-game derived),ZETA,-25.78,-0.955,5,22,27,0.1852,"CPM, Nasser, Xico, Adryh, escoX",19.24,0.713
+Europe,LFL,2025,full year (per-game derived),GameWard,-27.24,-0.633,11,32,43,0.2558,"Sotsy, Stormax, Backlund, Matias, HONOR",15.99,0.372
+Europe,LES,2025,full year (per-game derived),Guasones,-37.6,-1.393,2,25,27,0.0741,"selenex, Infinity, Macaquino, ECSTASSY, Smarty",5.49,0.203
+Europe,PRM,2026,full year (per-game derived),Berlin International Gaming,101.49,1.692,41,19,60,0.6833,"Irrelevant, Habubu, Reeker, Patrik, Kaiser",82.86,1.381
+Europe,PRM,2026,full year (per-game derived),TeamOrangeGaming,100.26,2.332,20,23,43,0.4651,"zorenous, Woldjo, SAJATOR, Ryuk, Lilipp",70.57,1.641
+Europe,PRM,2026,full year (per-game derived),G2 NORD,98.52,1.699,40,18,58,0.6897,"Shelfmade, Markoon, Toasty, Rin, Tockimo",84.55,1.458
+Europe,LES,2026,full year (per-game derived),Team Heretics Academy,92.61,2.375,31,8,39,0.7949,"Papiteero, Lurox, Mercy9, Lure, Batuuu",55.6,1.426
+Europe,PRM,2026,full year (per-game derived),E WIE EINFACH E-SPORTS,91.23,1.689,27,27,54,0.5,"Vizicsacsi, Afroboi, Relative, Noz2k, Wildenbruch",66.86,1.238
+Europe,LES,2026,full year (per-game derived),UCAM Esports,87.64,1.992,29,15,44,0.6591,"Kozi, bluerzor, ESCIK, ANDARIEL, iLEVI",66.25,1.506
+Europe,LFL,2026,full year (per-game derived),French Flair,83.32,3.472,16,8,24,0.6667,"Adam, NattyNatt, SAKEN, 3XA, Targamas",77.63,3.235
+Europe,LFL,2026,full year (per-game derived),TLN Pirates,82.84,1.726,28,20,48,0.5833,"Spooder, Stefan, Toffe, Axelent, Thomas",78.55,1.636
+Europe,LFL,2026,full year (per-game derived),Vitality.Bee,82.63,2.43,13,21,34,0.3824,"Potent, Dawciu, Czajek, Yakkey, Dekap",69.75,2.051
+Europe,LFL,2026,full year (per-game derived),Solary,78.79,1.791,36,8,44,0.8182,"Kryze, Zicssi, Jool, Aetinoth, Piero",66.47,1.511
+Europe,LFL,2026,full year (per-game derived),Galions,74.21,1.302,34,23,57,0.5965,"Carlsen, Thayger, OMON, HARPOON, Zoelys",56.97,0.999
+Europe,PRM,2026,full year (per-game derived),Eintracht Spandau,70.69,1.219,39,19,58,0.6724,"JNX, Xagog, PowerOfEvil, Keduii, seaz",68.34,1.178
+Europe,LFL,2026,full year (per-game derived),BK ROG Esports,69.61,6.961,4,6,10,0.4,"Boda, Jeykup, Sayn, UNF0RGIVEN, Doss",68.38,6.838
+Europe,PRM,2026,full year (per-game derived),Kaufland Hangry Knights,66.3,1.658,16,24,40,0.4,"Venour, Densi, Abbedagge, UNF0RGIVEN, Pyrka",63.56,1.589
+Europe,LES,2026,full year (per-game derived),Movistar KOI Fénix,64.44,1.465,34,10,44,0.7727,"NightSlayer, Time, Fresskowy, 13, Myrtus",51.45,1.169
+Europe,LFL,2026,full year (per-game derived),Ici Japon Corp. Esport,57.13,2.597,7,15,22,0.3182,"Badlulu, Kaboom, Dajor, Soldier, whiteinn",72.03,3.274
+Europe,LFL,2026,full year (per-game derived),Karmine Corp Blue,52.52,1.945,15,12,27,0.5556,"Tao, Yukino, Kamiloo, Hazel, Prime",53.24,1.972
+Europe,LES,2026,full year (per-game derived),LUA Gaming,50.37,1.679,9,21,30,0.3,"Dani, Pegaso, Hydra, Kaii, TIMR",39.09,1.303
+Europe,LFL,2026,full year (per-game derived),Lille Esport,48.8,4.436,3,8,11,0.2727,"Addusto, KKT, Koussay, Vespa, Seneca",62.71,5.701
+Europe,LFL,2026,full year (per-game derived),Skillcamp,46.5,1.603,12,17,29,0.4138,"Yeti, SPOOKY, Nafkelah, Deadly, Steeelback",53.79,1.855
+Europe,LFL,2026,full year (per-game derived),Joblife,42.04,1.236,15,19,34,0.4412,"Vertigo, Shift, Czekolad, Comp, HungryPanda",61.14,1.798
+Europe,LES,2026,full year (per-game derived),Barça eSports,39.27,0.836,23,24,47,0.4894,"selenex, Koldo, Macaquinho, Legolas, Oscure",32.84,0.699
+Europe,PRM,2026,full year (per-game derived),Unicorns of Love Sexy Edition,38.96,0.735,33,20,53,0.6226,"Fornoreason, White, RoyalKanin, DenVoksne, Twiizt",39.2,0.74
+Europe,PRM,2026,full year (per-game derived),Eintracht Frankfurt,37.58,0.94,10,30,40,0.25,"Mietek, D4nKa, Sencux, Notiko, Farfetch",44.29,1.107
+Europe,LFL,2026,full year (per-game derived),Esprit Shōnen,37.1,1.484,6,19,25,0.24,"Leny, Kobs, xKenzuke, Avra, Mxe",57.16,2.286
+Europe,LFL,2026,full year (per-game derived),ZYB Esport,34.91,1.126,9,22,31,0.2903,"Wao, Manaty, Nisqy, Jezu, Riippp",49.08,1.583
+Europe,LES,2026,full year (per-game derived),GIANTX iTero,27.72,0.866,13,19,32,0.4062,"ManoloGap, Th3Antonio, Miniduke, Flakked, Attila",24.21,0.757
+Europe,LES,2026,full year (per-game derived),Falke Esports,23.61,0.814,4,25,29,0.1379,"Ethe, Clicker, Midnight, Marcv1, Deleted",24.76,0.854
+Europe,PRM,2026,full year (per-game derived),VfB eSports,9.14,0.269,6,28,34,0.1765,"Sven, ZWICKL, Luke, Tazaku, Jakobobbi",31.96,0.94
+Europe,PRM,2026,full year (per-game derived),A One Man Army Prime,-14.29,-2.382,1,5,6,0.1667,"Smurfe, Dome, Artoria, Xay, Urban",45.02,7.503
+Europe,PRM,2026,full year (per-game derived),ROSSMANN Centaurs,-29.3,-0.814,8,28,36,0.2222,"CPM, Pasu, Fooneses, Devn, Smarty",17.51,0.486
+Europe,LES,2026,full year (per-game derived),UB Alma Mater,-34.1,-1.176,4,25,29,0.1379,"Pasameelcelo, Ivama, Pauporter, adrianlaneitor, Xixauxas",4.58,0.158
+Americas,LCS,2023,full year (per-game derived),FlyQuest,110.88,2.31,25,23,48,0.5208,"Impact, Spica, VicLa, Prince, Vulcan",80.89,1.685
+Americas,LCS,2023,full year (per-game derived),Golden Guardians,104.84,1.588,38,28,66,0.5758,"Licorice, River, Gori, Stixxay, huhi",84.1,1.274
+Americas,LCS,2023,full year (per-game derived),Evil Geniuses,98.49,1.791,29,26,55,0.5273,"Revenge, Inspired, Jojopyun, UNF0RGIVEN, Eyla",69.85,1.27
+Americas,LCS,2023,full year (per-game derived),Team Liquid,96.94,1.671,30,28,58,0.5172,"Summit, Pyosik, APA, Yeon, CoreJJ",79.15,1.365
+Americas,LCS,2023,full year (per-game derived),Cloud9,88.85,1.506,45,14,59,0.7627,"Fudge, Blaber, EMENES, Berserker, Zven",72.33,1.226
 Americas,LCS,2023,full year (per-game derived),NRG,79.59,1.244,32,32,64,0.5,"Dhokla, Contractz, Palafox, FBI, Ignar",61.83,0.966
-Americas,LCS,2023,full year (per-game derived),Evil Geniuses,58.91,1.071,29,26,55,0.5273,"Revenge, Sheiden, Jojopyun, UNF0RGIVEN, Eyla",57.54,1.046
 Americas,LCS,2023,full year (per-game derived),Dignitas,51.73,1.15,14,31,45,0.3111,"Rich, Santorin, Jensen, Tomo, Poome",46.48,1.033
-Americas,LCS,2023,full year (per-game derived),100 Thieves,35.36,0.693,22,29,51,0.4314,"Ssumday, Closer, Quid, Doublelift, Busio",37.2,0.729
+Americas,LCS,2023,full year (per-game derived),Immortals,26.46,0.735,9,27,36,0.25,"Revenge, Kenvi, Bolulu, Tactical, Fleshy",29.4,0.817
+Americas,LCS,2023,full year (per-game derived),100 Thieves,20.77,0.407,22,29,51,0.4314,"Tenacity, Closer, Bjergsen, Doublelift, Busio",30.69,0.602
 Americas,LCS,2023,full year (per-game derived),TSM,4.66,0.101,20,26,46,0.4348,"Hauntzer, Bugi, Insanity, WildTurtle, Chime",22.31,0.485
-Americas,LCS,2023,full year (per-game derived),Immortals,-43.63,-1.212,9,27,36,0.25,"Solo, Kenvi, Bolulu, Tactical, Treatz",3.95,0.11
 Americas,LCS,2024,full year (per-game derived),Cloud9,95.44,2.031,26,21,47,0.5532,"Thanatos, Blaber, Jojopyun, Berserker, Vulcan",84.2,1.791
-Americas,LCS,2024,full year (per-game derived),Team Liquid,82.75,1.335,42,20,62,0.6774,"Impact, UmTi, APA, Yeon, CoreJJ",75.14,1.212
-Americas,LCS,2024,full year (per-game derived),100 Thieves,80.51,1.342,30,30,60,0.5,"Sniper, River, Quid, Tomo, Eyla",75.55,1.259
-Americas,LCS,2024,full year (per-game derived),FlyQuest,67.27,1.051,42,22,64,0.6562,"Bwipo, Inspired, Quad, Massu, Busio",67.47,1.054
+Americas,LCS,2024,full year (per-game derived),Team Liquid,82.74,1.335,42,20,62,0.6774,"Impact, UmTi, APA, Yeon, CoreJJ",75.13,1.212
+Americas,LCS,2024,full year (per-game derived),FlyQuest,67.27,1.051,42,22,64,0.6562,"Bwipo, Inspired, Quad, Massu, Busio",67.46,1.054
 Americas,LCS,2024,full year (per-game derived),Immortals,60.83,2.098,7,22,29,0.2414,"Castle, Armao, Mask, Tactical, Olleh",62.36,2.15
-Americas,LCS,2024,full year (per-game derived),Dignitas,54.28,1.131,20,28,48,0.4167,"Licorice, Spica, Jensen, Zven, Isles",70.23,1.463
+Americas,LCS,2024,full year (per-game derived),Dignitas,54.27,1.131,20,28,48,0.4167,"Licorice, Spica, Jensen, Zven, Isles",70.23,1.463
+Americas,LCS,2024,full year (per-game derived),100 Thieves,51.8,0.863,30,30,60,0.5,"Sniper, River, Quid, Meech, Eyla",65.9,1.098
 Americas,LCS,2024,full year (per-game derived),NRG,42.52,0.966,16,28,44,0.3636,"Dhokla, Contractz, Palafox, FBI, huhi",55.14,1.253
 Americas,LCS,2024,full year (per-game derived),Shopify Rebellion,-18.51,-0.617,9,21,30,0.3,"FakeGod, Bugi, Insanity, Bvoy, Zeyzal",39.59,1.32
-Americas,LCS,2025,full year (per-game derived),FlyQuest,113.94,2.11,44,10,54,0.8148,"Bwipo, Inspired, Quad, Massu, Busio",88.38,1.637
-Americas,LCS,2025,full year (per-game derived),100 Thieves,104.36,2.046,29,22,51,0.5686,"Dhokla, River, Quid, FBI, Eyla",82.31,1.614
-Americas,LCS,2025,full year (per-game derived),LYON,89.39,2.709,11,22,33,0.3333,"Srtty, Oddielan, Saint, Hena, Lyonz",79.89,2.421
-Americas,LCS,2025,full year (per-game derived),Team Liquid,84.67,1.801,22,25,47,0.4681,"Impact, Yuuji, APA, Yeon, CoreJJ",111.97,2.382
-Americas,LCS,2025,full year (per-game derived),Disguised,81.48,2.202,10,27,37,0.2703,"Castle, eXyu, DARKWINGS, Rahel, huhi",78.06,2.11
-Americas,LCS,2025,full year (per-game derived),Cloud9,79.77,1.352,39,20,59,0.661,"Thanatos, Blaber, Loki, Zven, Vulcan",80.36,1.362
-Americas,LCS,2025,full year (per-game derived),Shopify Rebellion,20.28,0.35,24,34,58,0.4138,"Fudge, Contractz, Palafox, Bvoy, Ceos",43.65,0.753
-Americas,LCS,2025,full year (per-game derived),Dignitas,-14.94,-0.383,10,29,39,0.2564,"Photon, Sheiden, Keine, Tomo, Isles",27.14,0.696
-Americas,LCS,2026,full year (per-game derived),LYON,70.1,1.275,40,15,55,0.7273,"Dhokla, Armao, Saint, Berserker, Isles",40.86,0.743
-Americas,LCS,2026,full year (per-game derived),Sentinels,68.4,1.487,20,26,46,0.4348,"Impact, HamBak, DARKWINGS, Rahel, huhi",61.21,1.331
-Americas,LCS,2026,full year (per-game derived),Team Liquid,64.5,1.173,34,21,55,0.6182,"Morgan, Josedeodo, Quid, Yeon, CoreJJ",69.84,1.27
-Americas,LCS,2026,full year (per-game derived),Shopify Rebellion,40.93,1.462,7,21,28,0.25,"Fudge, Contractz, Zinie, Bvoy, Zeyzal",30.18,1.078
-Americas,LCS,2026,full year (per-game derived),FlyQuest,-35.31,-0.721,24,25,49,0.4898,"Gakgos, Massu, Cryogen, Gryffinn, Quad",7.54,0.154
-Americas,LCS,2026,full year (per-game derived),Dignitas,-86.83,-2.894,7,23,30,0.2333,"Denathor, FBI, eXyu, Ignar, Palafox",18.04,0.601
-Americas,LCS,2026,full year (per-game derived),Disguised,-158.2,-4.394,11,25,36,0.3056,"KryRa, sajed, Srtty, Lyonz, Callme",12.31,0.342
-Americas,LCS,2026,full year (per-game derived),Cloud9,-158.56,-3.109,32,19,51,0.6275,"Vulcan, Tactical, Blaber, Thanatos, Loki",5.16,0.101
-Americas,CBLOL,2023,full year (per-game derived),paiN Gaming,115.72,1.753,40,26,66,0.6061,"Wizer, CarioK, dyNquedo, Bvoy, ProDelta",89.82,1.361
+Americas,LCS,2025,full year (per-game derived),FlyQuest,113.56,2.103,44,10,54,0.8148,"Bwipo, Inspired, Quad, Massu, Busio",88.17,1.633
+Americas,LCS,2025,full year (per-game derived),100 Thieves,91.0,1.784,29,22,51,0.5686,"Sniper, River, Quid, FBI, Eyla",83.46,1.636
+Americas,LCS,2025,full year (per-game derived),Team Liquid,84.36,1.795,22,25,47,0.4681,"Impact, Yuuji, APA, Yeon, CoreJJ",81.81,1.741
+Americas,LCS,2025,full year (per-game derived),Cloud9,79.76,1.352,39,20,59,0.661,"Thanatos, Blaber, Loki, Zven, Vulcan",74.85,1.269
+Americas,LCS,2025,full year (per-game derived),LYON,65.2,1.976,11,22,33,0.3333,"Licorice, Oddielan, Saint, Hena, Lyonz",67.93,2.058
+Americas,LCS,2025,full year (per-game derived),Shopify Rebellion,20.23,0.349,24,34,58,0.4138,"Fudge, Contractz, Palafox, Bvoy, Ceos",43.6,0.752
+Americas,LCS,2025,full year (per-game derived),Disguised,18.78,0.508,10,27,37,0.2703,"Castle, eXyu, Abbedagge, ScaryJerry, huhi",53.18,1.437
+Americas,LCS,2025,full year (per-game derived),Dignitas,-10.09,-0.259,10,29,39,0.2564,"Srtty, Sheiden, Keine, Tomo, Isles",33.48,0.858
+Americas,LCS,2026,full year (per-game derived),Sentinels,68.5,1.489,20,26,46,0.4348,"Impact, HamBak, DARKWINGS, Rahel, huhi",61.26,1.332
+Americas,LCS,2026,full year (per-game derived),LYON,65.68,1.194,40,15,55,0.7273,"Dhokla, Inspired, Saint, Berserker, Isles",46.57,0.847
+Americas,LCS,2026,full year (per-game derived),Team Liquid,64.52,1.173,34,21,55,0.6182,"Morgan, Josedeodo, Quid, Yeon, CoreJJ",69.79,1.269
+Americas,LCS,2026,full year (per-game derived),Disguised,50.4,1.4,11,25,36,0.3056,"Castle, KryRa, Callme, sajed, Lyonz",45.19,1.255
+Americas,LCS,2026,full year (per-game derived),Cloud9,44.71,0.877,32,19,51,0.6275,"Thanatos, Blaber, APA, Zven, Vulcan",49.89,0.978
+Americas,LCS,2026,full year (per-game derived),FlyQuest,31.63,0.646,24,25,49,0.4898,"Gakgos, Gryffinn, Quad, Massu, Cryogen",29.68,0.606
+Americas,LCS,2026,full year (per-game derived),Shopify Rebellion,-11.4,-0.407,7,21,28,0.25,"Fudge, Contractz, Zinie, Bvoy, Ceos",17.45,0.623
+Americas,LCS,2026,full year (per-game derived),Dignitas,-13.88,-0.463,7,23,30,0.2333,"Photon, eXyu, Palafox, FBI, Ignar",1.02,0.034
+Americas,CBLOL,2023,full year (per-game derived),LØS,110.98,2.312,24,24,48,0.5,"HiRit, Ranger, Lava, Netuno, zay",84.82,1.767
 Americas,CBLOL,2023,full year (per-game derived),LOUD,110.68,1.908,43,15,58,0.7414,"Robo, Croc, tinowns, Route, Ceos",88.62,1.528
 Americas,CBLOL,2023,full year (per-game derived),Vivo Keyd Stars,90.22,2.005,19,26,45,0.4222,"Guigo, Grell, Grevthar, Trigo, Damage",72.02,1.6
 Americas,CBLOL,2023,full year (per-game derived),RED Canids,83.49,1.465,33,24,57,0.5789,"fNb, Aegis, Envy, TitaN, frosty",68.8,1.207
-Americas,CBLOL,2023,full year (per-game derived),LØS,75.26,1.568,24,24,48,0.5,"Hidan, enel1, Lava, Netuno, Ranger",72.35,1.507
-Americas,CBLOL,2023,full year (per-game derived),INTZ,74.84,1.592,22,25,47,0.4681,"Zzk, Yampi, NOsFerus, NinjaKiwi, Nia",64.1,1.364
+Americas,CBLOL,2023,full year (per-game derived),INTZ,74.84,1.592,22,25,47,0.4681,"Zzk, Yampi, NOsFerus, NinjaKiwi, Nia",64.09,1.364
+Americas,CBLOL,2023,full year (per-game derived),paiN Gaming,72.12,1.093,40,26,66,0.6061,"Wizer, CarioK, dyNquedo, Bvoy, Damage",67.54,1.023
 Americas,CBLOL,2023,full year (per-game derived),Fluxo,46.62,1.06,23,21,44,0.5227,"Tay, Disamis, Hauz, Brance, JoJo",47.24,1.074
-Americas,CBLOL,2023,full year (per-game derived),FURIA,37.66,0.801,23,24,47,0.4894,"Betão, Goot, Tutsz, Ayu, zay",31.41,0.668
-Americas,CBLOL,2023,full year (per-game derived),Liberty,34.38,0.955,7,29,36,0.1944,"Kiari, Accez, Avenger, Juliera, Wos",40.76,1.132
-Americas,CBLOL,2023,full year (per-game derived),KaBuM! Esports,-3.36,-0.093,8,28,36,0.2222,"Lonely, Samkz, Krastyel, RAV3N, RedBert",34.74,0.965
+Americas,CBLOL,2023,full year (per-game derived),FURIA,17.21,0.366,23,24,47,0.4894,"fNb, Goot, Envy, Trigo, Ayu",33.04,0.703
+Americas,CBLOL,2023,full year (per-game derived),Liberty,15.3,0.425,7,29,36,0.1944,"Kiari, Accez, Pilot, Juliera, Cavalo",33.13,0.92
+Americas,CBLOL,2023,full year (per-game derived),KaBuM! Esports,-0.17,-0.005,8,28,36,0.2222,"Lonely, SCARY, Krastyel, RAV3N, RedBert",30.0,0.833
 Americas,CBLOL,2024,full year (per-game derived),Vivo Keyd Stars,124.76,1.757,45,26,71,0.6338,"Guigo, Disamis, Leleko, Smiley, ProDelta",104.71,1.475
 Americas,CBLOL,2024,full year (per-game derived),Fluxo,58.58,1.302,18,27,45,0.4,"Kiari, Shini, Fuuu, Trigo, scamber",54.68,1.215
 Americas,CBLOL,2024,full year (per-game derived),FURIA,57.31,1.081,22,31,53,0.4151,"Zzk, Wiz, Tutsz, Ayu, JoJo",60.17,1.135
-Americas,CBLOL,2024,full year (per-game derived),INTZ,54.54,1.515,11,25,36,0.3056,"Yupps, Yampi, Dioge, NinjaKiwi, Damage",64.2,1.783
+Americas,CBLOL,2024,full year (per-game derived),Liberty,55.72,1.548,12,24,36,0.3333,"Makes, Drakehero, Pilot, micaO, Cavalo",53.62,1.489
 Americas,CBLOL,2024,full year (per-game derived),paiN Gaming,51.63,0.748,46,23,69,0.6667,"Wizer, CarioK, dyNquedo, TitaN, Kuri",56.21,0.815
-Americas,CBLOL,2024,full year (per-game derived),Liberty,46.32,1.287,12,24,36,0.3333,"Makes, Levizin, Pilot, Leandrinn, Cavalo",51.78,1.438
-Americas,CBLOL,2024,full year (per-game derived),Los Grandes,36.75,0.835,13,31,44,0.2955,"SuperCleber, Seize, Envy, brTT, sanghyeon",47.2,1.073
 Americas,CBLOL,2024,full year (per-game derived),RED Canids,33.76,0.528,39,25,64,0.6094,"fNb, Aegis, Grevthar, Brance, frosty",47.51,0.742
-Americas,CBLOL,2024,full year (per-game derived),LOUD,27.97,0.437,37,27,64,0.5781,"Robo, Croc, tinowns, Route, RedBert",49.78,0.778
-Americas,CBLOL,2024,full year (per-game derived),KaBuM! Esports,6.01,0.137,20,24,44,0.4545,"Lonely, SCARY, Hauz, Netuno, Ceos",33.53,0.762
-Americas,CBLOL,2025,full year (per-game derived),Isurus,101.81,1.726,32,27,59,0.5424,"Zamudo, Josedeodo, Keine, Snaker, Ackerman",72.84,1.235
-Americas,CBLOL,2025,full year (per-game derived),FURIA,97.93,1.814,30,24,54,0.5556,"Guigo, Tatu, Tutsz, Ayu, JoJo",88.21,1.634
-Americas,CBLOL,2025,full year (per-game derived),paiN Gaming,72.17,1.266,33,24,57,0.5789,"Wizer, CarioK, Roamer, TitaN, Kuri",67.14,1.178
-Americas,CBLOL,2025,full year (per-game derived),LOUD,71.96,1.308,30,25,55,0.5455,"Robo, Gryffinn, Jool, Route, RedBert",62.41,1.135
-Americas,CBLOL,2025,full year (per-game derived),Flamengo MDL,66.2,6.62,4,6,10,0.4,"Makes, Dizin, Envy, Trigo, Damage",50.27,5.027
-Americas,CBLOL,2025,full year (per-game derived),Fluxo W7M,53.13,1.771,4,26,30,0.1333,"curty, Yampi, Fuuu, Marvin, ProDelta",60.58,2.019
-Americas,CBLOL,2025,full year (per-game derived),RED Canids,46.29,0.842,29,26,55,0.5273,"fNb, Curse, Kaze, Rabelo, frosty",56.2,1.022
-Americas,CBLOL,2025,full year (per-game derived),Vivo Keyd Stars,43.93,0.861,30,21,51,0.5882,"Boal, Disamis, Mireu, Morttheus, Trymbi",47.19,0.925
-Americas,CBLOL,2025,full year (per-game derived),Alpha7 Esports,43.2,3.927,3,8,11,0.2727,"Kiari, Drakehero, random, scuro, Telas",51.48,4.68
-Americas,CBLOL,2025,full year (per-game derived),Leviatan,40.4,1.063,15,23,38,0.3947,"Zothve, SCARY, Hauz, ceo, TopLop",41.7,1.097
-Americas,CBLOL,2026,full year (per-game derived),LØS,90.31,1.48,36,25,61,0.5902,"Zest, Curse, Feisty, Duduhh, Ackerman",72.82,1.194
-Americas,CBLOL,2026,full year (per-game derived),RED Canids,90.24,1.769,28,23,51,0.549,"zynts, STEPZ, Fuuu, Morttheus, Manel",61.45,1.205
-Americas,CBLOL,2026,full year (per-game derived),paiN Gaming,73.4,2.097,11,24,35,0.3143,"Boal, CarioK, Keine, Hena, Ceos",38.46,1.099
-Americas,CBLOL,2026,full year (per-game derived),Vivo Keyd Stars,62.0,1.409,20,24,44,0.4545,"zekas, Disamis, Mireu, Jeskla, scamber",59.73,1.358
-Americas,CBLOL,2026,full year (per-game derived),FURIA,57.65,1.068,34,20,54,0.6296,"Guigo, Luuukz, Tutsz, Ayu, JoJo",60.49,1.12
-Americas,CBLOL,2026,full year (per-game derived),Fluxo W7M,45.88,1.067,19,24,43,0.4419,"Zothve, Peach, cody, BAO, Momochi",40.89,0.951
-Americas,CBLOL,2026,full year (per-game derived),Leviatan,30.58,0.746,12,29,41,0.2927,"Devost, Booki, Enga, Strensh, Shiku",23.98,0.585
-Americas,CBLOL,2026,full year (per-game derived),LOUD,25.38,0.479,31,22,53,0.5849,"xyno, Sinatra, Kaze, Rabelo, uZent",45.73,0.863
+Americas,CBLOL,2024,full year (per-game derived),Los Grandes,27.98,0.636,13,31,44,0.2955,"SuperCleber, Seize, Envy, Celo, sanghyeon",42.51,0.966
+Americas,CBLOL,2024,full year (per-game derived),LOUD,27.96,0.437,37,27,64,0.5781,"Robo, Croc, tinowns, Route, RedBert",49.77,0.778
+Americas,CBLOL,2024,full year (per-game derived),INTZ,9.35,0.26,11,25,36,0.3056,"Tay, Yampi, Aithusa, NinjaKiwi, Damage",37.92,1.053
+Americas,CBLOL,2024,full year (per-game derived),KaBuM! Esports,-9.7,-0.22,20,24,44,0.4545,"Lonely, Malrang, Hauz, Netuno, Ceos",29.4,0.668
+Americas,CBLOL,2025,full year (per-game derived),FURIA,97.38,1.803,30,24,54,0.5556,"Guigo, Tatu, Tutsz, Ayu, JoJo",87.78,1.626
+Americas,CBLOL,2025,full year (per-game derived),Isurus,92.02,1.56,32,27,59,0.5424,"Summit, Josedeodo, Mireu, Snaker, Ackerman",77.93,1.321
+Americas,CBLOL,2025,full year (per-game derived),LOUD,84.08,1.529,30,25,55,0.5455,"Robo, Shini, tinowns, Route, RedBert",73.03,1.328
+Americas,CBLOL,2025,full year (per-game derived),paiN Gaming,71.84,1.26,33,24,57,0.5789,"Wizer, CarioK, Roamer, TitaN, Kuri",66.89,1.174
+Americas,CBLOL,2025,full year (per-game derived),Flamengo MDL,66.25,6.625,4,6,10,0.4,"Makes, Dizin, Envy, Trigo, Damage",50.04,5.004
+Americas,CBLOL,2025,full year (per-game derived),RED Canids,64.24,1.168,29,26,55,0.5273,"fNb, Curse, Kaze, Brance, frosty",65.74,1.195
+Americas,CBLOL,2025,full year (per-game derived),Leviatan,47.96,1.262,15,23,38,0.3947,"Zothve, SCARY, cody, ceo, ProDelta",58.2,1.532
+Americas,CBLOL,2025,full year (per-game derived),Alpha7 Esports,42.99,3.908,3,8,11,0.2727,"Kiari, Drakehero, random, scuro, Telas",51.2,4.655
+Americas,CBLOL,2025,full year (per-game derived),Vivo Keyd Stars,39.54,0.775,30,21,51,0.5882,"Boal, Disamis, Kisee, Morttheus, Trymbi",45.48,0.892
+Americas,CBLOL,2025,full year (per-game derived),Fluxo W7M,-37.05,-1.235,4,26,30,0.1333,"Hidan, Ganks, Fuuu, Marvin, Guigs",15.3,0.51
+Americas,CBLOL,2026,full year (per-game derived),RED Canids,92.09,1.806,28,23,51,0.549,"zynts, STEPZ, Kaze, Morttheus, frosty",70.38,1.38
+Americas,CBLOL,2026,full year (per-game derived),FURIA,91.54,1.695,34,20,54,0.6296,"Guigo, Tatu, Tutsz, Ayu, JoJo",78.64,1.456
+Americas,CBLOL,2026,full year (per-game derived),LØS,90.3,1.48,36,25,61,0.5902,"Zest, Curse, Feisty, Duduhh, Ackerman",72.77,1.193
+Americas,CBLOL,2026,full year (per-game derived),paiN Gaming,54.86,1.567,11,24,35,0.3143,"Robo, CarioK, Keine, Trigger, Kuri",49.95,1.427
+Americas,CBLOL,2026,full year (per-game derived),Vivo Keyd Stars,50.33,1.144,20,24,44,0.4545,"Wizer, Disamis, Mireu, ceo, Kaiwing",52.28,1.188
+Americas,CBLOL,2026,full year (per-game derived),Leviatan,26.25,0.64,12,29,41,0.2927,"Devost, Booki, Enga, ceo, TopLop",26.51,0.647
+Americas,CBLOL,2026,full year (per-game derived),Fluxo W7M,23.78,0.553,19,24,43,0.4419,"curty, Peach, cody, BAO, Momochi",33.91,0.789
+Americas,CBLOL,2026,full year (per-game derived),LOUD,18.99,0.358,31,22,53,0.5849,"xyno, YoungJae, Envy, Bull, RedBert",33.16,0.626
 Americas,NACL,2023,full year (per-game derived),Disguised,123.16,2.463,33,17,50,0.66,"FakeGod, Tomio, Young, Meech, Zeyzal",98.33,1.967
-Americas,NACL,2023,full year (per-game derived),Team Liquid Challengers,122.35,1.274,60,36,96,0.625,"Bradley, Mir, Haeri, Arrow, Kim Down",90.04,0.938
-Americas,NACL,2023,full year (per-game derived),Mirage Alliance,104.34,3.864,19,8,27,0.7037,"Allorim, Chad, Sudzzi, Neo, Dardoch",73.23,2.712
+Americas,NACL,2023,full year (per-game derived),Mirage Alliance,104.33,3.864,19,8,27,0.7037,"Allorim, Chad, Sudzzi, Neo, Dardoch",77.87,2.884
 Americas,NACL,2023,full year (per-game derived),Cloud9 Challengers,103.28,2.152,36,12,48,0.75,"FakeGod, Tomio, Diplex, Lost, Zeyzal",83.96,1.749
-Americas,NACL,2023,full year (per-game derived),Dignitas Challengers,100.95,2.243,32,13,45,0.7111,"Hoon, eXyu, Insanity, Spawn, Diamond",78.3,1.74
-Americas,NACL,2023,full year (per-game derived),Miracle,100.67,7.744,4,9,13,0.3077,"Lawrence, LJX, rovex, Kaido, Daption",61.55,4.735
+Americas,NACL,2023,full year (per-game derived),Dignitas Challengers,100.94,2.243,32,13,45,0.7111,"Hoon, eXyu, Insanity, Spawn, Diamond",78.29,1.74
 Americas,NACL,2023,full year (per-game derived),Maryville University,93.59,1.534,28,33,61,0.459,"Niles, OddOrange, Getback, ScaryJerry, Zyko",81.8,1.341
-Americas,NACL,2023,full year (per-game derived),Wildcard Gaming,92.62,1.103,46,38,84,0.5476,"Zamudo, Keel, Soligo, Lens, donbray",80.5,0.958
-Americas,NACL,2023,full year (per-game derived),Golden Guardians Challengers,88.91,2.169,24,17,41,0.5854,"Concept, RoseThorn, Young, Array, Prismal",75.91,1.851
-Americas,NACL,2023,full year (per-game derived),100 Thieves Challengers,86.45,2.161,24,16,40,0.6,"Darshan, Yukino, PrettyGRE, UNF0RGIVEN, destiny",82.18,2.054
+Americas,NACL,2023,full year (per-game derived),100 Thieves Challengers,91.43,2.286,24,16,40,0.6,"Sniper, Yukino, PrettyGRE, UNF0RGIVEN, destiny",78.34,1.959
+Americas,NACL,2023,full year (per-game derived),Golden Guardians Challengers,88.91,2.169,24,17,41,0.5854,"Concept, RoseThorn, Young, Array, Prismal",75.9,1.851
+Americas,NACL,2023,full year (per-game derived),Team Liquid Challengers,87.6,0.912,60,36,96,0.625,"Bradley, Mir, APA, Arrow, Kim Down",80.2,0.835
 Americas,NACL,2023,full year (per-game derived),FlyQuest NZXT,85.84,0.933,57,35,92,0.6196,"Faisal, Yuuji, Spirax, Massu, Winsome",79.72,0.867
-Americas,NACL,2023,full year (per-game derived),AOE Gold,85.57,1.019,37,47,84,0.4405,"Concept, Will, DARKWINGS, links, Breezy",63.57,0.757
-Americas,NACL,2023,full year (per-game derived),Native Gaming,83.63,8.363,5,5,10,0.5,"Shockey, Fanatiik, Messages, Scoooped, Rhino",64.93,6.493
+Americas,NACL,2023,full year (per-game derived),Native Gaming,83.62,8.362,5,5,10,0.5,"Shockey, Fanatiik, Messages, Scoooped, Rhino",64.93,6.493
 Americas,NACL,2023,full year (per-game derived),CLG Challengers,79.02,2.079,23,15,38,0.6053,"Jenkins, Kevy, Copy, Meech, Breezy",69.94,1.841
-Americas,NACL,2023,full year (per-game derived),TSM Challengers,73.92,1.998,16,21,37,0.4324,"Hauntzer, Svenskeren, Doxa, Neo, Dragku",65.44,1.769
-Americas,NACL,2023,full year (per-game derived),Evil Geniuses Challengers,70.99,0.798,38,51,89,0.427,"Srtty, Armao, Ryoma, k1ng, Smoothie",69.76,0.784
-Americas,NACL,2023,full year (per-game derived),CB Gaming,68.38,4.559,5,10,15,0.3333,"Geiger, Kolthro, Klexo, Airren, Mixtsure",61.13,4.075
+Americas,NACL,2023,full year (per-game derived),Wildcard Gaming,74.27,0.884,46,38,84,0.5476,"Zamudo, Keel, Soligo, Lens, Duoking1",70.17,0.835
+Americas,NACL,2023,full year (per-game derived),Immortals Challengers,69.78,1.886,18,19,37,0.4865,"ADD, Chad, Bolulu, Wixxi, Joey",63.61,1.719
 Americas,NACL,2023,full year (per-game derived),Team Ambition,65.44,1.722,18,20,38,0.4737,"Porsche, Leemo, Kachu, Levitate, Snow2",62.06,1.633
-Americas,NACL,2023,full year (per-game derived),LiT Esports,61.16,2.265,13,14,27,0.4815,"Dragoon, Kisno, Messages, ROCKBOOM, Plux",59.99,2.222
-Americas,NACL,2023,full year (per-game derived),Immortals Challengers,60.46,1.634,18,19,37,0.4865,"ADD, Chad, Yusui, Wixxi, Joey",57.48,1.554
+Americas,NACL,2023,full year (per-game derived),LiT Esports,62.37,2.31,13,14,27,0.4815,"Dragoon, Kisno, Messages, sajed, Plux",60.37,2.236
 Americas,NACL,2023,full year (per-game derived),Cincinnati Fear,58.06,0.599,57,40,97,0.5876,"Philip, Perry, shochi, Minui, JayJ",57.01,0.588
+Americas,NACL,2023,full year (per-game derived),TSM Challengers,50.09,1.354,16,21,37,0.4324,"Hauntzer, Svenskeren, Doxa, WildTurtle, Dragku",56.36,1.523
+Americas,NACL,2023,full year (per-game derived),AOE Gold,49.34,0.587,37,47,84,0.4405,"Concept, winnie, DARKWINGS, links, SkyTec",55.63,0.662
+Americas,NACL,2023,full year (per-game derived),Evil Geniuses Challengers,47.4,0.533,38,51,89,0.427,"s0ul, Sheiden, Ryoma, k1ng, Smoothie",51.55,0.579
 Americas,NACL,2023,full year (per-game derived),Winthrop University,46.34,1.448,17,15,32,0.5312,"Denathor, Wilson, Sword, Mobility, Chookies",53.97,1.687
 Americas,NACL,2023,full year (per-game derived),Apex Mission Impossible,46.25,2.721,7,10,17,0.4118,"Dec0y, Hyphe, Ariendel, Bazz, Pockus",56.95,3.35
+Americas,NACL,2023,full year (per-game derived),Miracle,38.94,2.995,4,9,13,0.3077,"Lawrence, LJX, Ariendel, Kaido, Daption",58.92,4.532
+Americas,NACL,2023,full year (per-game derived),CB Gaming,38.31,2.554,5,10,15,0.3333,"JJK, Last Dance, Klexo, warcyclone, Mixtsure",56.85,3.79
 Americas,NACL,2023,full year (per-game derived),Supernova,36.28,0.558,26,39,65,0.4,"Qwacker, Music, RobbyBob, Sketch, Trevor",45.41,0.699
 Americas,NACL,2023,full year (per-game derived),Team Fish Taco,23.68,0.431,19,36,55,0.3455,"lunacia, RoseThorn, Onat, Spawn, Nxi",39.8,0.724
 Americas,NACL,2023,full year (per-game derived),Team Liquid First,18.63,0.444,9,33,42,0.2143,"Srtty, Kaido, Aspect, miya, rovex",40.49,0.964
 Americas,NACL,2023,full year (per-game derived),FLY FAM,10.0,0.278,5,31,36,0.1389,"lunacia, Hyper, Blazze, Instinct, Sword",30.98,0.861
-Americas,NACL,2023,full year (per-game derived),CCG Esports,-10.74,-0.597,8,10,18,0.4444,"Shockey, Hyper, Rain1, Lunar, Bruhruto",42.92,2.384
-Americas,NACL,2023,full year (per-game derived),Kelyx's Grandpa Gamers,-13.29,-2.658,1,4,5,0.2,"IamSunlight, RBM, omly, EvanRL, Menace",49.76,9.952
-Americas,NACL,2023,full year (per-game derived),CLG Faith,-40.18,-1.148,2,33,35,0.0571,"Bejjaniii, Nxi, Town, Airren, Sketch",16.61,0.475
+Americas,NACL,2023,full year (per-game derived),CLG Faith,-9.78,-0.279,2,33,35,0.0571,"Bejjaniii, Nxi, Seranok, Airren, Sketch",27.17,0.776
+Americas,NACL,2023,full year (per-game derived),Kelyx's Grandpa Gamers,-13.29,-2.658,1,4,5,0.2,"IamSunlight, RBM, omly, EvanRL, Menace",49.75,9.95
+Americas,NACL,2023,full year (per-game derived),CCG Esports,-57.26,-3.181,8,10,18,0.4444,"Shockey, Dragonmin, Rain1, Lunar, Bruhruto",33.9,1.883
 Americas,NACL,2024,full year (per-game derived),Dragoon's Goons,128.8,5.855,14,8,22,0.6364,"Dragoon, Kisno, Sudzzi, Array, Daption",83.2,3.782
 Americas,NACL,2024,full year (per-game derived),Dragonsteel,117.67,3.922,26,4,30,0.8667,"Zamudo, Yuuji, Spirax, ScaryJerry, Zyko",85.08,2.836
-Americas,NACL,2024,full year (per-game derived),Apex Mission Impossible,111.46,13.932,0,8,8,0.0,"Dec0y, Lojaz, Zalt, Bazz, Pockus",57.73,7.216
-Americas,NACL,2024,full year (per-game derived),Maryville University,100.35,2.448,28,13,41,0.6829,"Niles, Yuuji, Spirax, ScaryJerry, Zyko",86.64,2.113
-Americas,NACL,2024,full year (per-game derived),Gentle Hearts Gaming,96.85,10.761,1,8,9,0.1111,"PCL, Kross, XiaoDanny, Devin, winter",52.52,5.836
+Americas,NACL,2024,full year (per-game derived),Apex Mission Impossible,111.46,13.932,0,8,8,0.0,"Dec0y, Lojaz, Zalt, Bazz, Pockus",57.74,7.218
+Americas,NACL,2024,full year (per-game derived),Maryville University,100.35,2.448,28,13,41,0.6829,"Niles, Yuuji, Spirax, ScaryJerry, Zyko",86.65,2.113
 Americas,NACL,2024,full year (per-game derived),Team Liquid Challengers,84.83,1.368,26,36,62,0.4194,"Jenkins, Keel, Roamer, Spawn, Kim Down",76.69,1.237
-Americas,NACL,2024,full year (per-game derived),CCG Esports,84.55,2.487,17,17,34,0.5,"Crimson, KryRa, shochi, ROCKBOOM, Trevor",56.56,1.664
-Americas,NACL,2024,full year (per-game derived),FlyQuest NZXT,78.56,1.091,49,23,72,0.6806,"Srtty, Sheiden, Bradley, sajed, Chime",67.71,0.94
+Americas,NACL,2024,full year (per-game derived),FlyQuest NZXT,78.56,1.091,49,23,72,0.6806,"Srtty, Sheiden, Bradley, sajed, Chime",67.72,0.941
 Americas,NACL,2024,full year (per-game derived),Pulse Star,75.59,5.039,6,9,15,0.4,"Horder, Will, Ariendel, SageWabe, Prismal",62.03,4.135
-Americas,NACL,2024,full year (per-game derived),Area of Effect Esports,73.15,1.108,27,39,66,0.4091,"Cozy, Kaido, Onat, Mobility, Breezy",59.63,0.903
-Americas,NACL,2024,full year (per-game derived),Winthrop University,62.37,1.782,13,22,35,0.3714,"Denathor, winnie, DARKWINGS, Airren, Chookies",57.36,1.639
-Americas,NACL,2024,full year (per-game derived),Fear x Starforge,61.75,1.669,20,17,37,0.5405,"Philip, eXyu, Ablazeolive, Instinct, Winsome",52.59,1.421
+Americas,NACL,2024,full year (per-game derived),Winthrop University,74.92,2.141,13,22,35,0.3714,"Denathor, winnie, DARKWINGS, Airren, SkyTec",60.88,1.739
+Americas,NACL,2024,full year (per-game derived),Area of Effect Esports,71.3,1.08,27,39,66,0.4091,"Zamudo, RoseThorn, Onat, Wixxi, Breezy",63.42,0.961
+Americas,NACL,2024,full year (per-game derived),Fear x Starforge,61.76,1.669,20,17,37,0.5405,"Philip, eXyu, Ablazeolive, Instinct, Winsome",52.59,1.421
 Americas,NACL,2024,full year (per-game derived),Lotus,61.4,2.456,17,8,25,0.68,"Porsche, Dardoch, RobbyBob, Sushee, Mixtsure",53.25,2.13
 Americas,NACL,2024,full year (per-game derived),Blue Otter,46.65,0.88,28,25,53,0.5283,"Qwacker, Music, Samikin, Levitate, rovex",44.59,0.841
-Americas,NACL,2024,full year (per-game derived),Supernova,36.11,0.564,37,27,64,0.5781,"Faisal, Kenvi, Toasty, Lens, Diamond",38.8,0.606
-Americas,NACL,2024,full year (per-game derived),Disguised,33.33,0.497,29,38,67,0.4328,"Tenacity, Yukino, Young, Minui, Poome",41.04,0.613
+Americas,NACL,2024,full year (per-game derived),Supernova,36.12,0.564,37,27,64,0.5781,"Faisal, Kenvi, Toasty, Lens, Diamond",38.8,0.606
+Americas,NACL,2024,full year (per-game derived),Gentle Hearts Gaming,33.67,3.741,1,8,9,0.1111,"PCL, Kross, XiaoDanny, Devin, Clyde",44.66,4.962
 Americas,NACL,2024,full year (per-game derived),LiT Esports,31.93,0.998,10,22,32,0.3125,"Dragoon, Kisno, Messages, ROCKBOOM, Plux",39.5,1.234
 Americas,NACL,2024,full year (per-game derived),Wildcard Gaming,29.39,1.13,11,15,26,0.4231,"Qwacker, winnie, DARKWINGS, Airren, Doxa",43.43,1.67
 Americas,NACL,2024,full year (per-game derived),Cincinnati Fear,21.94,0.627,16,19,35,0.4571,"Philip, Chad, Toasty, Lens, Daption",32.96,0.942
-Americas,NACL,2024,full year (per-game derived),Mirage Alliance,20.18,0.747,6,21,27,0.2222,"Allorim, Dardoch, Soligo, Neo, Prismal",31.22,1.156
-Americas,NACL,2024,full year (per-game derived),DUCKIE GETTERS,-29.11,-1.617,8,10,18,0.4444,"DrCalculus, Bio, Roughbeanz, Enthralled, Hiccup1357",15.95,0.886
-Americas,NACL,2025,full year (per-game derived),Near Airport,108.93,2.867,24,14,38,0.6316,"TF Blade, Spica, Pobelter, Doublelift, Biofrost",72.61,1.911
-Americas,NACL,2025,full year (per-game derived),Winthrop University,77.06,1.675,16,30,46,0.3478,"Denathor, Wilson, Sword, Mobility, Only35",54.95,1.195
-Americas,NACL,2025,full year (per-game derived),DarkZero Dragonsteel,74.82,1.439,33,19,52,0.6346,"Keii, Kisno, Toasty, sajed, Zyko",51.95,0.999
-Americas,NACL,2025,full year (per-game derived),Citadel Gaming,74.33,3.912,10,9,19,0.5263,"Philip, Kenvi, Bradley, Instinct, Diamond",49.82,2.622
-Americas,NACL,2025,full year (per-game derived),Luminosity Gaming,63.92,1.278,40,10,50,0.8,"FakeGod, Tomio, Insanity, Tactical, Zeyzal",52.2,1.044
-Americas,NACL,2025,full year (per-game derived),Supernova,57.59,1.309,19,25,44,0.4318,"Horder, Dardoch, Ablazeolive, ScaryJerry, Breezy",62.59,1.422
-Americas,NACL,2025,full year (per-game derived),Conviction,48.04,0.843,33,24,57,0.5789,"TF Blade, Perry, KatEvolved, V1per, Stunt",36.71,0.644
-Americas,NACL,2025,full year (per-game derived),CCG Esports,31.11,0.798,20,19,39,0.5128,"Crimson, Music, Young, Shogo, Fatihcan",26.94,0.691
-Americas,NACL,2025,full year (per-game derived),Apex Mission Impossible,24.81,0.827,7,23,30,0.2333,"Dec0y, Lojaz, Retrozing, Bazz, Protos",26.2,0.873
-Americas,NACL,2025,full year (per-game derived),Blue Otter,23.75,0.516,20,26,46,0.4348,"Qwacker, KryRa, Samikin, Array, rovex",34.76,0.756
-Americas,NACL,2025,full year (per-game derived),Dorado Gaming,22.54,1.127,9,11,20,0.45,"Ariana, Kaido, shochi, Sushee, Mixtsure",35.02,1.751
-Americas,NACL,2025,full year (per-game derived),Cupid Esports,20.26,2.532,1,7,8,0.125,"DrCalculus, Bio, aadurrr, Hub, Bruhruto",30.02,3.752
-Americas,NACL,2025,full year (per-game derived),Pulse Star,-0.17,-0.006,6,21,27,0.2222,"DrCalculus, Bio, aadurrr, Hub, Bruhruto",18.19,0.674
-Americas,NACL,2026,full year (per-game derived),Maryville University,133.04,4.158,20,12,32,0.625,"Crimson, Niles, AoJune, ScaryJerry, Spirax",76.69,2.397
-Americas,NACL,2026,full year (per-game derived),NRG,127.25,3.535,24,12,36,0.6667,"Zamudo, Kisno, PhyMini, Sushee, Spica",97.53,2.709
-Americas,NACL,2026,full year (per-game derived),Conviction,105.77,2.859,22,15,37,0.5946,"Sniper, Perry, Insanity, Cody Sun, Zyko",50.36,1.361
-Americas,NACL,2026,full year (per-game derived),CCG Esports,75.22,1.88,22,18,40,0.55,"Fiji, Dardoch, Leza, Spawn, Only35",58.97,1.474
-Americas,NACL,2026,full year (per-game derived),Supernova,63.66,2.122,17,13,30,0.5667,"Horder, Music, shochi, Levitate, Zyko",57.56,1.919
-Americas,NACL,2026,full year (per-game derived),Winthrop University,40.3,0.876,25,21,46,0.5435,"Berik, Wilson, Samikin, Tomo, Kim Down",36.82,0.8
-Americas,NACL,2026,full year (per-game derived),Blue Otter,32.41,1.35,5,19,24,0.2083,"Philip, Munchy, Young, Levitate, Minui",40.82,1.701
-Americas,NACL,2026,full year (per-game derived),Dorado Gaming,28.84,0.961,11,19,30,0.3667,"Dec0y, Lojaz, aadam, Hub, InFlame",34.7,1.157
-Americas,NACL,2026,full year (per-game derived),Citadel Gaming,26.13,1.306,8,12,20,0.4,"Stray, Griffin, Bradley, Array, Keel",45.72,2.286
-Americas,NACL,2026,full year (per-game derived),Apex Mission Impossible,12.41,0.653,3,16,19,0.1579,"arbrio, Bio, Retrozing, Bazz, Protos",39.29,2.068
-Pacific,LCP,2025,full year (per-game derived),CTBC Flying Oyster,93.84,1.203,60,18,78,0.7692,"Driver, JunJia, HongQ, Doggo, Kaiwing",75.34,0.966
-Pacific,LCP,2025,full year (per-game derived),Team Secret Whales,71.88,0.998,41,31,72,0.5694,"Hiro02, Hizto, Dire, Eddie, Taki",62.79,0.872
-Pacific,LCP,2025,full year (per-game derived),Fukuoka SoftBank HAWKS gaming,69.64,1.29,17,37,54,0.3148,"Evi, Yohan, FATE, Marble, Gaeng",55.42,1.026
-Pacific,LCP,2025,full year (per-game derived),MVK Esports,59.56,0.784,43,33,76,0.5658,"Kratos, Gury, Kati, Shogun, SiuLoong",24.39,0.321
-Pacific,LCP,2025,full year (per-game derived),GAM Esports,55.42,0.702,41,38,79,0.519,"Kiaya, Levi, Emo, Artemis, Elio",56.19,0.711
-Pacific,LCP,2025,full year (per-game derived),DetonatioN FocusMe,44.4,0.838,14,39,53,0.2642,"RayFarky, Citrus, Aria, Kakkun, Harp",45.83,0.865
-Pacific,LCP,2025,full year (per-game derived),PSG Talon,32.3,0.371,48,39,87,0.5517,"Azhi, Karsa, Maple, Betty, Woody",36.27,0.417
-Pacific,LCP,2025,full year (per-game derived),Chiefs Esports Club,8.45,0.18,9,38,47,0.1915,"BioPanther, Whynot, JimieN, Slayder, Luon",27.92,0.594
-Pacific,LCP,2026,full year (per-game derived),Ground Zero Gaming,154.71,2.919,20,33,53,0.3774,"1Jiang, Husha, Uniboy, Betty, Kaiwing",78.51,1.481
-Pacific,LCP,2026,full year (per-game derived),Team Secret Whales,132.26,2.067,52,12,64,0.8125,"Pun, Hizto, Dire, Eddie, Bie",104.1,1.627
-Pacific,LCP,2026,full year (per-game derived),Fukuoka SoftBank HAWKS gaming,66.98,1.175,26,31,57,0.4561,"Evi, Van1, Aria, Marble, Vsta",66.14,1.16
-Pacific,LCP,2026,full year (per-game derived),Deep Cross Gaming,63.67,0.776,45,37,82,0.5488,"Flauren, Pop9, HongSuo, Feng, ShiauC",65.01,0.793
-Pacific,LCP,2026,full year (per-game derived),CTBC Flying Oyster,61.06,1.174,22,30,52,0.4231,"Rest, Shad0w, Pout, Doggo, Kino",64.54,1.241
-Pacific,LCP,2026,full year (per-game derived),GAM Esports,50.52,0.886,31,26,57,0.5439,"Kiaya, Draktharr, Gloryy, Artemis, Taki",66.41,1.165
-Pacific,LCP,2026,full year (per-game derived),MVK Esports,13.76,0.26,26,27,53,0.4906,"Kratos, Gury, Chika, Harky, SiuLoong",42.28,0.798
-Pacific,LCP,2026,full year (per-game derived),DetonatioN FocusMe,6.77,0.169,7,33,40,0.175,"Momo, Citrus, Fisher, Kakkun, Woody",24.76,0.619
+Americas,NACL,2024,full year (per-game derived),CCG Esports,-3.68,-0.108,17,17,34,0.5,"Crimson, Chad, shochi, Minui, Trevor",28.04,0.825
+Americas,NACL,2024,full year (per-game derived),Mirage Alliance,-3.87,-0.143,6,21,27,0.2222,"Allorim, Will, RJS, Prismal, Dardoch",33.11,1.226
+Americas,NACL,2024,full year (per-game derived),Disguised,-9.03,-0.135,29,38,67,0.4328,"Tenacity, Perry, Young, Minui, Poome",17.21,0.257
+Americas,NACL,2024,full year (per-game derived),DUCKIE GETTERS,-29.1,-1.617,8,10,18,0.4444,"DrCalculus, Bio, Roughbeanz, Enthralled, Hiccup1357",15.95,0.886
+Americas,NACL,2025,full year (per-game derived),DarkZero Dragonsteel,116.92,2.248,33,19,52,0.6346,"Zamudo, Kisno, Spirax, sajed, Zyko",75.02,1.443
+Americas,NACL,2025,full year (per-game derived),Near Airport,109.1,2.871,24,14,38,0.6316,"TF Blade, Spica, Pobelter, Doublelift, Biofrost",72.54,1.909
+Americas,NACL,2025,full year (per-game derived),Winthrop University,76.94,1.673,16,30,46,0.3478,"Denathor, Wilson, Sword, Mobility, Only35",54.79,1.191
+Americas,NACL,2025,full year (per-game derived),Citadel Gaming,73.82,3.885,10,9,19,0.5263,"Philip, Kenvi, Bradley, Instinct, Diamond",49.56,2.608
+Americas,NACL,2025,full year (per-game derived),Luminosity Gaming,63.85,1.277,40,10,50,0.8,"FakeGod, Tomio, Insanity, Tactical, Zeyzal",52.08,1.042
+Americas,NACL,2025,full year (per-game derived),Supernova,57.48,1.306,19,25,44,0.4318,"Horder, Dardoch, Ablazeolive, ScaryJerry, Breezy",62.4,1.418
+Americas,NACL,2025,full year (per-game derived),Conviction,51.75,0.908,33,24,57,0.5789,"Horder, Kisno, DARKWINGS, Airren, Minui",44.2,0.775
+Americas,NACL,2025,full year (per-game derived),CCG Esports,50.12,1.285,20,19,39,0.5128,"Crimson, Dardoch, Aojune, Array, Breezy",53.82,1.38
+Americas,NACL,2025,full year (per-game derived),Apex Mission Impossible,34.9,1.163,7,23,30,0.2333,"Dec0y, Lojaz, PhyMini, Bazz, Pockus",36.41,1.214
+Americas,NACL,2025,full year (per-game derived),Blue Otter,29.23,0.635,20,26,46,0.4348,"Qwacker, Music, Samikin, Array, rovex",32.01,0.696
+Americas,NACL,2025,full year (per-game derived),Dorado Gaming,22.3,1.115,9,11,20,0.45,"Ariana, Kaido, shochi, Sushee, Mixtsure",34.77,1.739
+Americas,NACL,2025,full year (per-game derived),Pulse Star,-0.09,-0.003,6,21,27,0.2222,"DrCalculus, Bio, aadurrr, Hub, Bruhruto",18.09,0.67
+Americas,NACL,2025,full year (per-game derived),Cupid Esports,-0.82,-0.102,1,7,8,0.125,"Berik, Bio, Likeamaws, Hub, Bruhruto",20.74,2.592
+Americas,NACL,2026,full year (per-game derived),Maryville University,175.98,5.499,20,12,32,0.625,"Keii, Yuuji, Spirax, ScaryJerry, Obstinatus",114.56,3.58
+Americas,NACL,2026,full year (per-game derived),NRG,127.23,3.534,24,12,36,0.6667,"Zamudo, Kisno, PhyMini, Sushee, Spica",97.49,2.708
+Americas,NACL,2026,full year (per-game derived),Supernova,63.65,2.122,17,13,30,0.5667,"Horder, Music, shochi, Levitate, Zyko",57.47,1.916
+Americas,NACL,2026,full year (per-game derived),Winthrop University,61.27,1.332,25,21,46,0.5435,"Denathor, Wilson, Zach, Mobility, Kim Down",56.57,1.23
+Americas,NACL,2026,full year (per-game derived),CCG Esports,56.56,1.414,22,18,40,0.55,"Fiji, Dardoch, AoJune, Cody Sun, Only35",60.14,1.504
+Americas,NACL,2026,full year (per-game derived),Conviction,54.37,1.469,22,15,37,0.5946,"Sniper, Tomio, Insanity, Tactical, Bounty",52.46,1.418
+Americas,NACL,2026,full year (per-game derived),Blue Otter,46.27,1.928,5,19,24,0.2083,"Ariana, Munchy, Samikin, Spawn, Rovex",49.57,2.065
+Americas,NACL,2026,full year (per-game derived),Citadel Gaming,26.08,1.304,8,12,20,0.4,"Stray, Griffin, Bradley, Array, Keel",45.66,2.283
+Americas,NACL,2026,full year (per-game derived),Apex Mission Impossible,12.33,0.649,3,16,19,0.1579,"arbrio, Bio, Retrozing, Bazz, Protos",39.19,2.063
+Americas,NACL,2026,full year (per-game derived),Dorado Gaming,2.81,0.094,11,19,30,0.3667,"Dec0y, Lojaz, aadam, Hub, Redemption",30.52,1.017
+Pacific,LCP,2025,full year (per-game derived),CTBC Flying Oyster,93.84,1.203,60,18,78,0.7692,"Driver, JunJia, HongQ, Doggo, Kaiwing",75.39,0.967
+Pacific,LCP,2025,full year (per-game derived),GAM Esports,76.18,0.964,41,38,79,0.519,"Kiaya, Levi, Aress, Artemis, Elio",67.3,0.852
+Pacific,LCP,2025,full year (per-game derived),Team Secret Whales,71.98,1.0,41,31,72,0.5694,"Hiro02, Hizto, Dire, Eddie, Taki",62.9,0.874
+Pacific,LCP,2025,full year (per-game derived),MVK Esports,59.65,0.785,43,33,76,0.5658,"Kratos, Gury, Kati, Shogun, SiuLoong",54.67,0.719
+Pacific,LCP,2025,full year (per-game derived),DetonatioN FocusMe,56.81,1.072,14,39,53,0.2642,"RayFarky, Guwon, Aria, Kakkun, Harp",51.34,0.969
+Pacific,LCP,2025,full year (per-game derived),PSG Talon,42.05,0.483,48,39,87,0.5517,"Azhi, Karsa, FoFo, Betty, Woody",41.98,0.483
+Pacific,LCP,2025,full year (per-game derived),Fukuoka SoftBank HAWKS gaming,39.91,0.739,17,37,54,0.3148,"Evi, Courage, FATE, Marble, Gaeng",42.45,0.786
+Pacific,LCP,2025,full year (per-game derived),Chiefs Esports Club,10.52,0.224,9,38,47,0.1915,"BioPanther, Husha, JimieN, Violet, Luon",27.61,0.587
+Pacific,LCP,2026,full year (per-game derived),Team Secret Whales,132.38,2.068,52,12,64,0.8125,"Pun, Hizto, Dire, Eddie, Bie",104.2,1.628
+Pacific,LCP,2026,full year (per-game derived),Fukuoka SoftBank HAWKS gaming,67.08,1.177,26,31,57,0.4561,"Evi, Van1, Aria, Marble, Vsta",66.2,1.161
+Pacific,LCP,2026,full year (per-game derived),GAM Esports,65.9,1.156,31,26,57,0.5439,"Kiaya, Draktharr, Aress, Artemis, Taki",71.0,1.246
+Pacific,LCP,2026,full year (per-game derived),Deep Cross Gaming,63.71,0.777,45,37,82,0.5488,"Flauren, Pop9, HongSuo, Feng, ShiauC",65.06,0.793
+Pacific,LCP,2026,full year (per-game derived),CTBC Flying Oyster,48.03,0.924,22,30,52,0.4231,"Rest, Shad0w, Pout, Doggo, 2274",58.59,1.127
+Pacific,LCP,2026,full year (per-game derived),Ground Zero Gaming,25.89,0.488,20,33,53,0.3774,"1Jiang, Husha, JimieN, Shunn, Orca",40.97,0.773
+Pacific,LCP,2026,full year (per-game derived),MVK Esports,13.72,0.259,26,27,53,0.4906,"Kratos, Gury, Chika, Harky, SiuLoong",42.3,0.798
+Pacific,LCP,2026,full year (per-game derived),DetonatioN FocusMe,6.97,0.174,7,33,40,0.175,"Momo, Citrus, Fisher, Kakkun, Woody",24.86,0.621
